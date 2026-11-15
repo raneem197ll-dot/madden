@@ -1,0 +1,39 @@
+{
+  "name": "madinah-my-city",
+  "version": "1.0.0",
+  "description": "\u0645\u062f\u064a\u0646\u062a\u064a \u0628\u0639\u064a\u0648\u0646\u064a \u2014 My City, My Story: a 3D tourism game for Al Madinah",
+  "scripts": {
+    "dev": "vite",
+    "build": "npm run content:check && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "content:check": "node scripts/check-content.mjs",
+    "test:e2e": "python3 scripts/regression.py"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@react-three/drei": "^10.7.9",
+    "@react-three/fiber": "^9.8.2",
+    "idb-keyval": "^6.3.0",
+    "jsqr": "^1.4.0",
+    "qrcode": "^1.5.4",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "three": "^0.187.0",
+    "zustand": "^5.1.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.5",
+    "@types/qrcode": "^1.5.6",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@types/three": "^0.187.0",
+    "@vitejs/plugin-react": "^6.2.1",
+    "tailwindcss": "^4.3.5",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.6",
+    "vite-plugin-singlefile": "^2.3.4"
+  },
+  "type": "module"
+}
