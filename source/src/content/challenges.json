@@ -1,0 +1,287 @@
+[
+  {
+    "id": "winter-uhud",
+    "icon": "🌤️",
+    "theme": "seasonal",
+    "season": {
+      "type": "months",
+      "months": [
+        11,
+        12,
+        1,
+        2
+      ],
+      "label": {
+        "ar": "نوفمبر – فبراير",
+        "en": "November – February"
+      }
+    },
+    "title": {
+      "ar": "شتاء أحد",
+      "en": "Winter at Uhud"
+    },
+    "desc": {
+      "ar": "الأشهر الأبرد مناسبة لاستكشاف أحد في الهواء الطلق (اقتراح). تعرّف على الجبل وجبل الرماة.",
+      "en": "The cooler months suit exploring Uhud outdoors (a suggestion). Learn about the mountain and the Archers' Hill."
+    },
+    "goals": [
+      {
+        "k": "unlock",
+        "id": "uhud"
+      },
+      {
+        "k": "discover",
+        "key": "info:uhud:mountain"
+      },
+      {
+        "k": "discover",
+        "key": "info:uhud:archers"
+      },
+      {
+        "k": "discover",
+        "key": "hidden:uhud:aynayn"
+      }
+    ],
+    "points": 80
+  },
+  {
+    "id": "railway-anniversary",
+    "icon": "🕰️",
+    "theme": "seasonal",
+    "season": {
+      "type": "months",
+      "months": [
+        9
+      ],
+      "label": {
+        "ar": "سبتمبر — ذكرى افتتاح المحطة (١ سبتمبر ١٩٠٨)",
+        "en": "September — the station opened on 1 September 1908"
+      }
+    },
+    "title": {
+      "ar": "ذكرى افتتاح المحطة",
+      "en": "Station anniversary"
+    },
+    "desc": {
+      "ar": "اجمع مقتنيات المحطة الثلاث وأكمل قصة «من أربعين يومًا إلى أيام».",
+      "en": "Collect the station's three items and finish the story “From forty days to a few”."
+    },
+    "goals": [
+      {
+        "k": "discover",
+        "key": "hidden:hejaz:watch"
+      },
+      {
+        "k": "discover",
+        "key": "hidden:hejaz:ticket"
+      },
+      {
+        "k": "discover",
+        "key": "hidden:hejaz:lantern"
+      },
+      {
+        "k": "discover",
+        "key": "info:hejaz:docs"
+      },
+      {
+        "k": "story",
+        "id": "hejaz-forty-days"
+      }
+    ],
+    "points": 120
+  },
+  {
+    "id": "hijrah-trail",
+    "icon": "🌙",
+    "theme": "seasonal",
+    "season": {
+      "type": "hijri",
+      "months": [
+        1
+      ],
+      "label": {
+        "ar": "شهر محرّم — بداية العام الهجري",
+        "en": "Muharram — the start of the Hijri year"
+      }
+    },
+    "title": {
+      "ar": "على خطى الهجرة",
+      "en": "On the Hijrah trail"
+    },
+    "desc": {
+      "ar": "مع بداية العام الهجري: تعرّف على مسجد قباء أول محطة في الهجرة، وعلى مسجد القبلتين.",
+      "en": "As the Hijri year begins: learn about Quba, the first stop of the Hijrah, and the Mosque of the Two Qiblas."
+    },
+    "goals": [
+      {
+        "k": "story",
+        "id": "quba-first-mosque"
+      },
+      {
+        "k": "discover",
+        "key": "info:quba:gate"
+      },
+      {
+        "k": "discover",
+        "key": "hidden:quba:minaret"
+      },
+      {
+        "k": "discover",
+        "key": "info:qiblatain:gate"
+      }
+    ],
+    "points": 100
+  },
+  {
+    "id": "two-qiblas",
+    "icon": "🧭",
+    "theme": "collection",
+    "season": {
+      "type": "always"
+    },
+    "title": {
+      "ar": "مجموعة القبلتين",
+      "en": "The Two Qiblas collection"
+    },
+    "desc": {
+      "ar": "كل ما في مسجد القبلتين: المقتنيات الثلاث، والبوصلة، وعلامة القبلة الأولى.",
+      "en": "Everything at Qiblatain: its three items, the compass and the first-qibla marker."
+    },
+    "goals": [
+      {
+        "k": "discover",
+        "key": "hidden:qiblatain:light"
+      },
+      {
+        "k": "discover",
+        "key": "hidden:qiblatain:months"
+      },
+      {
+        "k": "discover",
+        "key": "hidden:qiblatain:verse"
+      },
+      {
+        "k": "discover",
+        "key": "info:qiblatain:compass"
+      },
+      {
+        "k": "discover",
+        "key": "info:qiblatain:marker"
+      }
+    ],
+    "points": 90
+  },
+  {
+    "id": "railway-engineer",
+    "icon": "🔧",
+    "theme": "collection",
+    "season": {
+      "type": "always"
+    },
+    "title": {
+      "ar": "مهندس السكة",
+      "en": "Railway engineer"
+    },
+    "desc": {
+      "ar": "تعرّف على آلات المحطة: القاطرة، وبرج الماء، والعربة، والأقواس، وأدوات العمال.",
+      "en": "Get to know the station's machinery: locomotive, water tower, carriage, arches and workers' tools."
+    },
+    "goals": [
+      {
+        "k": "discover",
+        "key": "info:hejaz:loco"
+      },
+      {
+        "k": "discover",
+        "key": "info:hejaz:tower"
+      },
+      {
+        "k": "discover",
+        "key": "info:hejaz:carriage"
+      },
+      {
+        "k": "discover",
+        "key": "info:hejaz:arches"
+      },
+      {
+        "k": "discover",
+        "key": "info:hejaz:tools"
+      }
+    ],
+    "points": 70
+  },
+  {
+    "id": "mosque-architecture",
+    "icon": "🏛️",
+    "theme": "collection",
+    "season": {
+      "type": "always"
+    },
+    "title": {
+      "ar": "عمارة المساجد",
+      "en": "Mosque architecture"
+    },
+    "desc": {
+      "ar": "قباب قباء وفناؤها، وأقواس القبلتين ونور قبتها، وأول مئذنة في قباء.",
+      "en": "Quba's domes and courtyard, Qiblatain's arches and dome light, and Quba's first minaret."
+    },
+    "goals": [
+      {
+        "k": "discover",
+        "key": "info:quba:domes"
+      },
+      {
+        "k": "discover",
+        "key": "info:quba:court"
+      },
+      {
+        "k": "discover",
+        "key": "info:qiblatain:arches"
+      },
+      {
+        "k": "discover",
+        "key": "hidden:qiblatain:light"
+      },
+      {
+        "k": "discover",
+        "key": "hidden:quba:minaret"
+      }
+    ],
+    "points": 90
+  },
+  {
+    "id": "downtown-heritage",
+    "theme": "collection",
+    "icon": "🏙️",
+    "points": 90,
+    "title": {
+      "ar": "تراث وسط المدينة",
+      "en": "Downtown heritage"
+    },
+    "desc": {
+      "ar": "زر مسجد الغمامة والبقيع، واقرأ عن القبة الخضراء والمظلات في ساحات المسجد النبوي.",
+      "en": "Visit Al-Ghamama and al-Baqi, and read about the Green Dome and the umbrellas in the Prophet’s Mosque plazas."
+    },
+    "season": {
+      "type": "always"
+    },
+    "goals": [
+      {
+        "k": "unlock",
+        "id": "ghamama"
+      },
+      {
+        "k": "unlock",
+        "id": "baqi"
+      },
+      {
+        "k": "discover",
+        "key": "info:haram:dome"
+      },
+      {
+        "k": "discover",
+        "key": "info:haram:umbrellas"
+      }
+    ]
+  }
+]

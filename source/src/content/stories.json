@@ -1,0 +1,64 @@
+[
+  {
+    "id": "hejaz-forty-days",
+    "landmark": "hejaz",
+    "icon": "🚂",
+    "title": { "ar": "من أربعين يومًا إلى أيام", "en": "From forty days to a few" },
+    "intro": { "ar": "تتبّع كيف غيّر خط الحجاز رحلة الشام إلى المدينة، خطوة خطوة داخل المحطة.", "en": "Follow how the Hejaz line changed the journey from the Levant to Madinah, step by step inside the station." },
+    "steps": [
+      { "type": "read", "text": { "ar": "قبل بناء الخط كانت قوافل الحجاج القادمة من الشام تقطع الطريق إلى المدينة في نحو أربعين يومًا.", "en": "Before the line was built, pilgrim caravans from the Levant took about forty days to reach Madinah." } },
+      { "type": "find", "target": "info:hejaz:map", "clue": { "ar": "ابحث في القاعة عن خريطة الخط من دمشق إلى المدينة.", "en": "Find the map of the line from Damascus to Madinah in the hall." } },
+      { "type": "question", "q": { "ar": "كم كان طول خط دمشق – المدينة تقريبًا؟", "en": "Roughly how long was the Damascus–Madinah line?" }, "options": [{ "ar": "٣٠٠ كم", "en": "300 km" }, { "ar": "١٣٠٠ كم", "en": "1,300 km" }, { "ar": "٣٠٠٠ كم", "en": "3,000 km" }], "answer": 1, "explain": { "ar": "كان طول الخط نحو ١٣٠٠ كيلومتر.", "en": "The line was about 1,300 km long." } },
+      { "type": "find", "target": "info:hejaz:docs", "clue": { "ar": "اعثر على وثائق يوم الافتتاح.", "en": "Find the documents from opening day." } },
+      { "type": "question", "q": { "ar": "متى أُقيم حفل افتتاح محطة المدينة؟", "en": "When was Madinah station inaugurated?" }, "options": [{ "ar": "١ سبتمبر ١٩٠٨", "en": "1 September 1908" }, { "ar": "١٩١٤", "en": "1914" }, { "ar": "٢٠٠٦", "en": "2006" }], "answer": 0, "explain": { "ar": "أُقيم الافتتاح في ١ سبتمبر ١٩٠٨؛ أما ١٩١٤ فهي سنة إضافة الطابق الثاني، و٢٠٠٦ سنة افتتاح المتحف.", "en": "It opened on 1 September 1908; 1914 is when the second storey was added, and 2006 when the museum opened." } },
+      { "type": "find", "target": "hidden:hejaz:lantern", "clue": { "ar": "شيء في المحطة يذكّر بأول إنارة كهربائية في المدينة — تمهّل وابحث.", "en": "Something in the station recalls Madinah's first electric light — take your time and look." } },
+      { "type": "reflect", "text": { "ar": "ربطت السكة مدنًا متباعدة، وما تزال محطتها اليوم متحفًا يحفظ تلك الذاكرة.", "en": "The railway linked distant cities, and its station is now a museum that keeps that memory." } }
+    ]
+  },
+  {
+    "id": "quba-first-mosque",
+    "landmark": "quba",
+    "icon": "🕌",
+    "title": { "ar": "أول مسجد", "en": "The first mosque" },
+    "intro": { "ar": "قصة قصيرة عن مسجد قباء ومكانته، بهدوء ووقار.", "en": "A short, calm story about Quba Mosque and its place in history." },
+    "steps": [
+      { "type": "read", "text": { "ar": "أسّس النبي ﷺ مسجد قباء عند وصوله إلى قباء في طريق الهجرة سنة ١ هـ (٦٢٢م).", "en": "The Prophet ﷺ founded Quba Mosque on reaching Quba during the Hijrah in 1 AH (622 CE)." } },
+      { "type": "find", "target": "info:quba:mihrab", "clue": { "ar": "تأمّل المحراب الذي يدلّ على اتجاه القبلة.", "en": "Find the mihrab that marks the direction of prayer." } },
+      { "type": "question", "q": { "ar": "إلى أين يتجه المحراب في مساجد المدينة؟", "en": "Which way does the mihrab face in Madinah's mosques?" }, "options": [{ "ar": "نحو الكعبة في مكة جنوبًا", "en": "Towards the Ka'bah in Makkah, to the south" }, { "ar": "نحو الشرق", "en": "To the east" }, { "ar": "نحو بيت المقدس شمالًا", "en": "Towards Jerusalem, to the north" }], "answer": 0, "explain": { "ar": "المحراب يحدد القبلة، والكعبة تقع جنوب المدينة.", "en": "The mihrab marks the qibla, and the Ka'bah lies south of Madinah." } },
+      { "type": "find", "target": "hidden:quba:saturday", "clue": { "ar": "ابحث عن تذكير بزيارة كان النبي ﷺ يحرص عليها كل أسبوع.", "en": "Look for a reminder of a visit the Prophet ﷺ made every week." } },
+      { "type": "question", "q": { "ar": "بحسب رواية البخاري، في أي يوم كان النبي ﷺ يأتي مسجد قباء؟", "en": "According to al-Bukhari's report, on which day did the Prophet ﷺ come to Quba Mosque?" }, "options": [{ "ar": "الجمعة", "en": "Friday" }, { "ar": "السبت", "en": "Saturday" }, { "ar": "الاثنين", "en": "Monday" }], "answer": 1, "explain": { "ar": "روى البخاري عن ابن عمر أن النبي ﷺ كان يأتي مسجد قباء كل سبت ماشيًا وراكبًا.", "en": "Al-Bukhari reports from Ibn 'Umar that the Prophet ﷺ came to Quba Mosque every Saturday, walking or riding." }, "sources": [{ "title": "Sahih al-Bukhari 1193 — sunnah.com", "url": "https://sunnah.com/bukhari:1193" }] },
+      { "type": "reflect", "text": { "ar": "إن زرت المسجد فراعِ آدابه: السكينة، واللباس المحتشم، واحترام المصلّين.", "en": "If you visit, keep the mosque's etiquette: calm, modest dress, and respect for those praying." } }
+    ]
+  },
+  {
+    "id": "qiblatain-two-qiblas",
+    "landmark": "qiblatain",
+    "icon": "🧭",
+    "title": { "ar": "صلاة واحدة نحو قبلتين", "en": "One prayer, two qiblas" },
+    "intro": { "ar": "افهم لماذا سُمّي المسجد بالقبلتين، من خلال ما تجده داخله.", "en": "Discover why it is called the Mosque of the Two Qiblas, through what you find inside." },
+    "steps": [
+      { "type": "read", "text": { "ar": "يرتبط المسجد بتحويل القبلة من بيت المقدس إلى الكعبة سنة ٢ هـ.", "en": "The mosque is linked to the change of qibla from Jerusalem to the Ka'bah in 2 AH." } },
+      { "type": "find", "target": "info:qiblatain:compass", "clue": { "ar": "اعثر على البوصلة التعليمية التي تُظهر الاتجاهين.", "en": "Find the educational compass that shows both directions." } },
+      { "type": "question", "q": { "ar": "تقع المدينة بين مكة وبيت المقدس. أين تقع كل منهما بالنسبة للمدينة؟", "en": "Madinah lies between Makkah and Jerusalem. Where is each one?" }, "options": [{ "ar": "مكة جنوبًا وبيت المقدس شمالًا", "en": "Makkah to the south, Jerusalem to the north" }, { "ar": "مكة شمالًا وبيت المقدس جنوبًا", "en": "Makkah to the north, Jerusalem to the south" }, { "ar": "كلتاهما شرقًا", "en": "Both to the east" }], "answer": 0, "explain": { "ar": "لذلك استدار المصلّون تقريبًا إلى الجهة المقابلة حين تحوّلت القبلة.", "en": "That is why worshippers turned roughly to the opposite direction when the qibla changed." } },
+      { "type": "find", "target": "hidden:qiblatain:months", "clue": { "ar": "ابحث عن أثر يذكّر بالمدة التي صُلّي فيها نحو بيت المقدس.", "en": "Look for something that recalls how long prayers faced Jerusalem." } },
+      { "type": "question", "q": { "ar": "كم شهرًا صلّى المسلمون نحو بيت المقدس بحسب رواية البراء؟", "en": "According to al-Bara's report, for how many months did the Muslims pray towards Jerusalem?" }, "options": [{ "ar": "ثلاثة أشهر", "en": "Three months" }, { "ar": "ستة عشر أو سبعة عشر شهرًا", "en": "Sixteen or seventeen months" }, { "ar": "ثلاث سنوات", "en": "Three years" }], "answer": 1, "explain": { "ar": "روى البخاري عن البراء: صلّينا مع النبي ﷺ نحو بيت المقدس ستة عشر أو سبعة عشر شهرًا.", "en": "Al-Bukhari reports al-Bara': we prayed with the Prophet ﷺ towards Jerusalem for sixteen or seventeen months." }, "sources": [{ "title": "Sahih al-Bukhari 4492 — sunnah.com", "url": "https://sunnah.com/bukhari:4492" }] },
+      { "type": "find", "target": "info:qiblatain:marker", "clue": { "ar": "اعثر على العلامة التي تذكّر بالقبلة الأولى.", "en": "Find the marker that recalls the first qibla." } },
+      { "type": "reflect", "text": { "ar": "صلاة واحدة جمعت اتجاهين، وبقي اسم المسجد يحفظ هذه اللحظة.", "en": "One prayer held two directions, and the mosque's name still keeps that moment." } }
+    ]
+  },
+  {
+    "id": "uhud-archers-lesson",
+    "landmark": "uhud",
+    "icon": "⛰️",
+    "title": { "ar": "درس الرماة", "en": "The archers' lesson" },
+    "intro": { "ar": "قصة عن الانضباط والوفاء بالأمانة، تُروى باحترام للموقع وشهدائه — دون أي مشاهد قتال.", "en": "A story about discipline and keeping one's post, told with respect for the site and its martyrs — with no fighting shown." },
+    "steps": [
+      { "type": "read", "text": { "ar": "وقعت غزوة أحد عند سفح الجبل في شوال ٣ هـ (٦٢٥م).", "en": "The Battle of Uhud took place at the foot of the mountain in Shawwal 3 AH (625 CE)." } },
+      { "type": "find", "target": "info:uhud:archers", "clue": { "ar": "اتجه إلى التل الذي وقف عليه الرماة.", "en": "Head to the hill where the archers stood." } },
+      { "type": "question", "q": { "ar": "كم عدد الرماة الذين وضعهم النبي ﷺ على التل؟", "en": "How many archers did the Prophet ﷺ place on the hill?" }, "options": [{ "ar": "عشرة", "en": "Ten" }, { "ar": "خمسون", "en": "Fifty" }, { "ar": "ثلاثمئة", "en": "Three hundred" }], "answer": 1, "explain": { "ar": "وضع النبي ﷺ خمسين راميًا وأمرهم بالثبات في مواقعهم.", "en": "The Prophet ﷺ placed fifty archers and ordered them to hold their posts." }, "sources": [{ "title": "Sahih al-Bukhari 3039 — sunnah.com", "url": "https://sunnah.com/bukhari:3039" }] },
+      { "type": "find", "target": "hidden:uhud:jubayr", "clue": { "ar": "ابحث عمّن كان أميرًا على الرماة.", "en": "Find out who commanded the archers." } },
+      { "type": "question", "q": { "ar": "من الذي أمّره النبي ﷺ على الرماة يوم أحد؟", "en": "Whom did the Prophet ﷺ appoint over the archers at Uhud?" }, "options": [{ "ar": "عبد الله بن جبير", "en": "'Abdullah ibn Jubayr" }, { "ar": "حمزة بن عبد المطلب", "en": "Hamza ibn 'Abd al-Muttalib" }, { "ar": "البراء بن عازب", "en": "Al-Bara' ibn 'Azib" }], "answer": 0, "explain": { "ar": "روى البخاري عن البراء بن عازب أن النبي ﷺ جعل على الرماة يوم أحد عبد الله بن جبير. والبراء هو راوي الحديث.", "en": "Al-Bukhari reports from al-Bara' ibn 'Azib that the Prophet ﷺ appointed 'Abdullah ibn Jubayr over the archers. Al-Bara' is the narrator." }, "sources": [{ "title": "Sahih al-Bukhari 3039 — sunnah.com", "url": "https://sunnah.com/bukhari:3039" }] },
+      { "type": "reflect", "text": { "ar": "قف لحظة عند سور مقبرة الشهداء. تضم المقبرة شهداء أحد ومنهم حمزة بن عبد المطلب؛ ولا تعرض اللعبة داخلها احترامًا.", "en": "Pause for a moment at the wall of the Martyrs' cemetery. It holds the martyrs of Uhud, including Hamza ibn 'Abd al-Muttalib; the game does not show its interior, out of respect." } }
+    ]
+  }
+]

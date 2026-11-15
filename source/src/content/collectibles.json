@@ -1,0 +1,298 @@
+[
+  {
+    "id": "watch",
+    "landmark": "hejaz",
+    "icon": "🕰️",
+    "rarity": "rare",
+    "name": {
+      "ar": "ساعة يوم الافتتاح",
+      "en": "Opening-day clock"
+    },
+    "object": {
+      "ar": "ساعة رمزية في اللعبة",
+      "en": "A symbolic in-game clock"
+    },
+    "fact": {
+      "ar": "افتُتح القسم الأخير من الخط إلى المدينة رسميًا في ١ سبتمبر ١٩٠٨م، وأُقيم حفل افتتاح محطة المدينة في ذكرى تولّي السلطان عبد الحميد الثاني الحكم.",
+      "en": "The final section of the line to Madinah officially opened on 1 September 1908; the station’s ceremony was held on the anniversary of Sultan Abdulhamid II’s accession."
+    },
+    "sources": [
+      {
+        "title": "The Hejaz Railway — Medina Station",
+        "url": "https://www.thehejazrailway.com/medina-station"
+      },
+      {
+        "title": "Wikipedia — Hejaz railway",
+        "url": "https://en.wikipedia.org/wiki/Hejaz_railway"
+      }
+    ]
+  },
+  {
+    "id": "ticket",
+    "landmark": "hejaz",
+    "icon": "🎫",
+    "rarity": "common",
+    "name": {
+      "ar": "تذكرة دمشق – المدينة",
+      "en": "Damascus – Madinah ticket"
+    },
+    "object": {
+      "ar": "تذكرة رمزية في اللعبة (ليست قطعة أثرية حقيقية)",
+      "en": "A symbolic in-game ticket (not a real artefact)"
+    },
+    "fact": {
+      "ar": "قبل إنشاء الخط كانت الرحلة من دمشق إلى المدينة تستغرق نحو ٤٠ يومًا، وبلغ طول الخط المكتمل بين المدينتين نحو ١٣٠٠ كم.",
+      "en": "Before the line was built, the trip from Damascus to Madinah took about 40 days; the completed Damascus–Madinah line was about 1,300 km long."
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Hejaz railway",
+        "url": "https://en.wikipedia.org/wiki/Hejaz_railway"
+      }
+    ]
+  },
+  {
+    "id": "lantern",
+    "landmark": "hejaz",
+    "icon": "💡",
+    "rarity": "legendary",
+    "name": {
+      "ar": "أول مصباح كهربائي",
+      "en": "The first electric light"
+    },
+    "object": {
+      "ar": "مصباح رمزي في اللعبة",
+      "en": "A symbolic in-game lamp"
+    },
+    "fact": {
+      "ar": "تُذكر إنارة محطة المدينة يوم افتتاح الخط بوصفها أول استخدام للكهرباء في المدينة المنورة.",
+      "en": "The illumination of Madinah station at the line’s opening is described as the first use of electricity in Madinah."
+    },
+    "sources": [
+      {
+        "title": "Arab News — The short history of the Hijaz Railway",
+        "url": "https://arabnews.pk/node/1475651/saudi-arabia"
+      }
+    ]
+  },
+  {
+    "id": "stone",
+    "landmark": "quba",
+    "icon": "🧱",
+    "rarity": "common",
+    "name": {
+      "ar": "حجر الأساس ١٩٨٤م",
+      "en": "1984 foundation stone"
+    },
+    "object": {
+      "ar": "لوحة رمزية في اللعبة",
+      "en": "A symbolic in-game plaque"
+    },
+    "fact": {
+      "ar": "وضع الملك فهد حجر الأساس لإعادة بناء مسجد قباء في ٣ نوفمبر ١٩٨٤م، وافتُتح المسجد الجديد في ٢ نوفمبر ١٩٨٦م.",
+      "en": "King Fahd laid the foundation stone for rebuilding Quba Mosque on 3 November 1984; the new mosque was inaugurated on 2 November 1986."
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Quba Mosque",
+        "url": "https://en.wikipedia.org/wiki/Quba_Mosque"
+      }
+    ]
+  },
+  {
+    "id": "saturday",
+    "landmark": "quba",
+    "icon": "📅",
+    "rarity": "rare",
+    "name": {
+      "ar": "زيارة كل سبت",
+      "en": "Every Saturday"
+    },
+    "object": {
+      "ar": "بطاقة معرفة رقمية",
+      "en": "A digital knowledge card"
+    },
+    "fact": {
+      "ar": "روى البخاري عن ابن عمر رضي الله عنهما أن النبي ﷺ كان يأتي مسجد قباء كل سبت ماشيًا وراكبًا، وكان ابن عمر يفعله.",
+      "en": "Al-Bukhari reports from Ibn ʿUmar that the Prophet ﷺ used to come to Quba Mosque every Saturday, walking or riding, and Ibn ʿUmar did the same."
+    },
+    "sources": [
+      {
+        "title": "Sahih al-Bukhari 1193 — sunnah.com",
+        "url": "https://sunnah.com/bukhari:1193"
+      }
+    ]
+  },
+  {
+    "id": "minaret",
+    "landmark": "quba",
+    "icon": "🕌",
+    "rarity": "common",
+    "name": {
+      "ar": "أول مئذنة",
+      "en": "The first minaret"
+    },
+    "object": {
+      "ar": "مجسّم صغير رمزي في اللعبة",
+      "en": "A small symbolic in-game model"
+    },
+    "fact": {
+      "ar": "تُنسب إضافة أول مئذنة لمسجد قباء إلى عهد الخليفة عمر بن عبد العزيز (٧١٧–٧٢٠م)، أما المبنى الحالي فله أربع مآذن.",
+      "en": "Quba Mosque’s first minaret is attributed to the reign of Caliph Umar ibn Abd al-Aziz (717–720 CE); today’s building has four."
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Quba Mosque",
+        "url": "https://en.wikipedia.org/wiki/Quba_Mosque"
+      }
+    ]
+  },
+  {
+    "id": "light",
+    "landmark": "qiblatain",
+    "icon": "☀️",
+    "rarity": "rare",
+    "name": {
+      "ar": "ضوء فوق المحراب",
+      "en": "Light above the mihrab"
+    },
+    "object": {
+      "ar": "بقعة ضوء في اللعبة",
+      "en": "An in-game light patch"
+    },
+    "fact": {
+      "ar": "ترتفع القبة الرئيسة على رقبة من النوافذ العلوية تُدخل الضوء إلى الداخل فوق منطقة المحراب مباشرة.",
+      "en": "The main dome rises on a drum of clerestory windows that let light into the interior directly above the mihrab."
+    },
+    "sources": [
+      {
+        "title": "Madain Project — Masjid al-Qiblatain",
+        "url": "https://madainproject.com/masjid_al_qiblatain"
+      }
+    ]
+  },
+  {
+    "id": "months",
+    "landmark": "qiblatain",
+    "icon": "🗓️",
+    "rarity": "common",
+    "name": {
+      "ar": "ستة عشر أو سبعة عشر شهرًا",
+      "en": "Sixteen or seventeen months"
+    },
+    "object": {
+      "ar": "بطاقة معرفة رقمية",
+      "en": "A digital knowledge card"
+    },
+    "fact": {
+      "ar": "روى البخاري عن البراء رضي الله عنه: صلّينا مع النبي ﷺ نحو بيت المقدس ستة عشر أو سبعة عشر شهرًا، ثم صُرف نحو القبلة.",
+      "en": "Al-Bukhari reports al-Baraʾ saying: we prayed with the Prophet ﷺ towards Jerusalem for sixteen or seventeen months, then he was turned towards the Qibla."
+    },
+    "sources": [
+      {
+        "title": "Sahih al-Bukhari 4492 — sunnah.com",
+        "url": "https://sunnah.com/bukhari:4492"
+      }
+    ]
+  },
+  {
+    "id": "verse",
+    "landmark": "qiblatain",
+    "icon": "📖",
+    "rarity": "legendary",
+    "name": {
+      "ar": "آية القبلة",
+      "en": "The verse of the Qibla"
+    },
+    "object": {
+      "ar": "بطاقة معرفة رقمية",
+      "en": "A digital knowledge card"
+    },
+    "fact": {
+      "ar": "نزل الأمر بالتوجّه إلى الكعبة في سورة البقرة (الآية ١٤٤): «فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ».",
+      "en": "The command to face the Kaʿbah came in Surat al-Baqarah (2:144): “So turn your face toward al-Masjid al-Haram.”"
+    },
+    "sources": [
+      {
+        "title": "Sahih al-Bukhari 4486 (cites 2:144) — sunnah.com",
+        "url": "https://sunnah.com/bukhari:4486"
+      }
+    ]
+  },
+  {
+    "id": "granite",
+    "landmark": "uhud",
+    "icon": "🪨",
+    "rarity": "common",
+    "name": {
+      "ar": "جرانيت أحد الأحمر",
+      "en": "Uhud’s red granite"
+    },
+    "object": {
+      "ar": "حصاة رمزية في اللعبة — لا تأخذ أحجارًا من المواقع الحقيقية",
+      "en": "A symbolic in-game pebble — never take stones from real sites"
+    },
+    "fact": {
+      "ar": "يمتد جبل أحد نحو ٧ كم ويرتفع قرابة ١٠٧٧ مترًا فوق سطح البحر، ويعود لونه المائل إلى الحمرة إلى صخوره الجرانيتية.",
+      "en": "Mount Uhud stretches about 7 km and rises roughly 1,077 m above sea level; its reddish colour comes from its granite."
+    },
+    "sources": [
+      {
+        "title": "Wikipedia — Mount Uhud",
+        "url": "https://en.wikipedia.org/wiki/Mount_Uhud"
+      },
+      {
+        "title": "CS Madinah — Mount Uhud guide",
+        "url": "https://blog.csmadinah.com/what-to-see-at-mount-uhud-top-historical-pilgrim-spots/"
+      }
+    ]
+  },
+  {
+    "id": "aynayn",
+    "landmark": "uhud",
+    "icon": "⛰️",
+    "rarity": "rare",
+    "name": {
+      "ar": "جبل عينين",
+      "en": "Mount ʿAynayn"
+    },
+    "object": {
+      "ar": "علامة رمزية في اللعبة",
+      "en": "A symbolic in-game marker"
+    },
+    "fact": {
+      "ar": "كان التل الذي وقف عليه الرماة يُسمّى جبل عينين، ثم عُرف بعد الغزوة بجبل الرماة.",
+      "en": "The hill where the archers stood was originally called Mount ʿAynayn; after the battle it became known as the Archers’ Hill."
+    },
+    "sources": [
+      {
+        "title": "IslamWeb — The Archers’ Mountain",
+        "url": "https://islamweb.net/en/hajj/article/154856/the-archers%E2%80%99-mountain"
+      }
+    ]
+  },
+  {
+    "id": "jubayr",
+    "landmark": "uhud",
+    "icon": "🏹",
+    "rarity": "legendary",
+    "name": {
+      "ar": "قائد الرماة",
+      "en": "Commander of the archers"
+    },
+    "object": {
+      "ar": "سهم رمزي في اللعبة",
+      "en": "A symbolic in-game arrow"
+    },
+    "fact": {
+      "ar": "روى البخاري عن البراء بن عازب أن النبي ﷺ جعل على الرّجّالة — وكانوا خمسين رجلًا — يوم أحد عبدَ الله بن جبير رضي الله عنه.",
+      "en": "Al-Bukhari reports from al-Baraʾ ibn ʿAzib that on the day of Uhud the Prophet ﷺ appointed ʿAbdullah ibn Jubayr over the fifty foot-soldiers (archers)."
+    },
+    "sources": [
+      {
+        "title": "Sahih al-Bukhari 3039 — sunnah.com",
+        "url": "https://sunnah.com/bukhari:3039"
+      }
+    ]
+  }
+]

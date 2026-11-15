@@ -1,0 +1,18 @@
+{
+  "quba": {
+    "ar": "مرحبًا بك في مسجد قباء، أول مسجد أُسّس في الإسلام. أسّسه النبي صلى الله عليه وسلم عند وصوله إلى قباء في طريق هجرته إلى المدينة، سنة واحد للهجرة. وكان صلى الله عليه وسلم يأتيه كل سبت ماشيًا وراكبًا، كما روى البخاري. أما المبنى الذي تراه اليوم فقد أُعيد بناؤه بالكامل وافتُتح عام ألف وتسعمئة وستة وثمانين، بأربع مآذن وقباب بيضاء وفناء من الرخام الأسود والأحمر والأبيض.",
+    "en": "Welcome to Quba Mosque, the first mosque founded in Islam. The Prophet, peace be upon him, established it on reaching Quba during his migration to Madinah, in the first year of the Hijrah. As al-Bukhari reports, he used to come here every Saturday, walking or riding. The building you see today was completely rebuilt and opened in 1986, with four minarets, white domes, and a courtyard of black, red and white marble."
+  },
+  "uhud": {
+    "ar": "أمامك جبل أحد، شمال المدينة المنورة. يمتد نحو سبعة كيلومترات ويرتفع قرابة ألف وسبعة وسبعين مترًا، وتميل صخوره الجرانيتية إلى الحمرة. عند سفحه وقعت غزوة أحد سنة ثلاث للهجرة. وضع النبي صلى الله عليه وسلم خمسين راميًا على تلّ مقابل، بقيادة عبد الله بن جبير، وأمرهم ألا يغادروا مواقعهم. وفي الموقع مقبرة شهداء أحد، ومنهم حمزة بن عبد المطلب رضي الله عنه. وقال النبي صلى الله عليه وسلم: هذا جبل يحبنا ونحبه.",
+    "en": "Before you is Mount Uhud, north of Madinah. It stretches about seven kilometres and rises roughly one thousand and seventy-seven metres, its granite tinged with red. At its foot the Battle of Uhud took place in the third year of the Hijrah. The Prophet, peace be upon him, placed fifty archers on a hill opposite, under ʿAbdullah ibn Jubayr, ordering them not to leave their posts. The site holds the cemetery of the martyrs of Uhud, including Hamza ibn Abd al-Muttalib. The Prophet said: this is a mountain that loves us, and we love it."
+  },
+  "hejaz": {
+    "ar": "مرحبًا بك في محطة المدينة، المحطة الأخيرة على خط سكة حديد الحجاز الذي ربط دمشق بالمدينة المنورة. قبل الخط كانت الرحلة تستغرق نحو أربعين يومًا. افتُتح القسم الأخير إلى المدينة في الأول من سبتمبر عام ألف وتسعمئة وثمانية، ويُذكر أن إنارة المحطة يومها كانت أول استخدام للكهرباء في المدينة. تتميّز واجهة المبنى بسبعة عشر قوسًا، وأصبح المجمّع اليوم متحفًا افتُتح عام ألفين وستة.",
+    "en": "Welcome to Madinah station, the final stop of the Hejaz Railway that linked Damascus with Madinah. Before the line, the journey took about forty days. The last section to Madinah opened on the first of September 1908, and the station’s illumination that day is described as the first use of electricity in the city. The main façade has seventeen arches, and the complex is now a museum, opened in 2006."
+  },
+  "qiblatain": {
+    "ar": "هذا مسجد القبلتين. يرتبط بتحويل القبلة من بيت المقدس إلى الكعبة المشرّفة في السنة الثانية للهجرة، بعد أن صلّى المسلمون نحو بيت المقدس ستة عشر أو سبعة عشر شهرًا، كما روى البخاري. ونزل الأمر في سورة البقرة: فولِّ وجهك شطر المسجد الحرام. أُعيد بناء المسجد عام ألف وتسعمئة وسبعة وثمانين بمئذنتين وقبتين، وأُزيل المحراب القديم المتجه إلى بيت المقدس وبقيت علامة تذكّر به.",
+    "en": "This is the Mosque of the Two Qiblas. It is linked to the change of the prayer direction from Jerusalem to the Kaʿbah in the second year of the Hijrah, after the Muslims had prayed towards Jerusalem for sixteen or seventeen months, as al-Bukhari reports. The command came in Surat al-Baqarah: turn your face toward al-Masjid al-Haram. The mosque was rebuilt in 1987 with two minarets and two domes; the old mihrab facing Jerusalem was removed, and a marker recalls it."
+  }
+}

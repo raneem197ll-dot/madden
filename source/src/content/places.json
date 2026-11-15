@@ -1,0 +1,906 @@
+[
+  {
+    "id": "abuBakr",
+    "category": "mosque",
+    "near": "ghamama",
+    "name": {
+      "ar": "مسجد أبي بكر الصديق",
+      "en": "Abu Bakr al-Siddiq Mosque"
+    },
+    "coords": {
+      "lat": 24.4661,
+      "lng": 39.6064
+    },
+    "summary": {
+      "ar": "مسجد تاريخي صغير يقع جنوب غرب المسجد النبوي وشمال غرب مسجد الغمامة، ضمن مجموعة مساجد قديمة في المنطقة نفسها.",
+      "en": "A small historic mosque south-west of the Prophet’s Mosque and north-west of Al-Ghamama Mosque, one of a group of old mosques in the same area."
+    },
+    "facts": [
+      {
+        "label": {
+          "ar": "الموقع",
+          "en": "Location"
+        },
+        "value": {
+          "ar": "جنوب غرب المسجد النبوي",
+          "en": "South-west of the Prophet’s Mosque"
+        }
+      }
+    ],
+    "tip": {
+      "ar": "على بُعد خطوات من مسجد الغمامة؛ اجمعهما في جولة مشي واحدة.",
+      "en": "A few steps from Al-Ghamama — see both on one short walk."
+    },
+    "keywords": [
+      "ابي بكر",
+      "أبي بكر",
+      "ابو بكر",
+      "abu bakr"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia — List of mosques in Medina",
+        "url": "https://en.wikipedia.org/wiki/List_of_mosques_in_Medina"
+      },
+      {
+        "title": "Madain Project — Masjid Abi Bakr",
+        "url": "https://madainproject.com/abu_bakr_al_siddique_mosque_(medina)"
+      }
+    ]
+  },
+  {
+    "id": "ali",
+    "category": "mosque",
+    "near": "ghamama",
+    "approx": true,
+    "name": {
+      "ar": "مسجد علي بن أبي طالب",
+      "en": "Ali ibn Abi Talib Mosque"
+    },
+    "coords": {
+      "lat": 24.467,
+      "lng": 39.607
+    },
+    "summary": {
+      "ar": "مسجد على بُعد نحو ٢٩٠ م من المسجد النبوي و١٢٢ م من مسجد الغمامة، في موضع مصلّى العيد في خلافة علي بن أبي طالب رضي الله عنه بحسب دليل وزارة الحج.",
+      "en": "A mosque about 290 m from the Prophet’s Mosque and 122 m from Al-Ghamama, on the site of the Eid prayer ground during the caliphate of Ali ibn Abi Talib, according to the Hajj ministry guide."
+    },
+    "facts": [
+      {
+        "label": {
+          "ar": "البعد عن الحرم",
+          "en": "From the Haram"
+        },
+        "value": {
+          "ar": "≈ ٢٩٠ م",
+          "en": "≈ 290 m"
+        }
+      },
+      {
+        "label": {
+          "ar": "البعد عن الغمامة",
+          "en": "From Al-Ghamama"
+        },
+        "value": {
+          "ar": "≈ ١٢٢ م",
+          "en": "≈ 122 m"
+        }
+      }
+    ],
+    "tip": {
+      "ar": "ضمن «مثلث» المساجد التاريخية غرب الحرم مع الغمامة وأبي بكر.",
+      "en": "Part of the cluster of historic mosques west of the Haram, with Al-Ghamama and Abu Bakr."
+    },
+    "keywords": [
+      "علي بن ابي طالب",
+      "مسجد علي",
+      "ali ibn abi talib",
+      "ali mosque"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia — List of mosques in Medina",
+        "url": "https://en.wikipedia.org/wiki/List_of_mosques_in_Medina"
+      },
+      {
+        "title": "Ministry of Hajj — Guide to the landmarks of Madinah (PDF)",
+        "url": "https://haj.gov.sa/-/media/Project/HAJJ/Awareness-Guides/Madinah-Guide/English/EN-madinah-guide.pdf"
+      }
+    ],
+    "approxNote": {
+      "ar": "الموقع على الخريطة تقريبي — تحقّق منه في تطبيق الخرائط قبل الذهاب.",
+      "en": "The map position is approximate — check it in a maps app before you go."
+    }
+  },
+  {
+    "id": "saqifah",
+    "category": "history",
+    "approx": true,
+    "name": {
+      "ar": "سقيفة بني ساعدة",
+      "en": "Saqifat Bani Sa‘idah"
+    },
+    "coords": {
+      "lat": 24.471,
+      "lng": 39.608
+    },
+    "summary": {
+      "ar": "الموضع الذي بويع فيه أبو بكر الصديق رضي الله عنه خليفةً للمسلمين بعد وفاة النبي ﷺ. وكانت السقيفة مكانًا مسقوفًا بسعف النخيل لبني ساعدة من الأنصار يجتمعون فيه للتشاور. تقع شمال غرب المسجد النبوي ويمكن الوصول إليها مشيًا.",
+      "en": "The place where Abu Bakr al-Siddiq received the pledge as caliph after the Prophet’s ﷺ death. The saqifah was a palm-frond-roofed meeting place of the Banu Sa‘idah of the Ansar. It lies north-west of the Prophet’s Mosque, within walking distance."
+    },
+    "facts": [
+      {
+        "label": {
+          "ar": "الحدث",
+          "en": "Event"
+        },
+        "value": {
+          "ar": "بيعة أبي بكر الصديق — ١١ هـ",
+          "en": "Pledge to Abu Bakr — 11 AH"
+        }
+      },
+      {
+        "label": {
+          "ar": "الموقع",
+          "en": "Location"
+        },
+        "value": {
+          "ar": "شمال غرب المسجد النبوي",
+          "en": "North-west of the Prophet’s Mosque"
+        }
+      }
+    ],
+    "tip": {
+      "ar": "قريبة من الحرم؛ زُرها في جولة المشي حول المنطقة المركزية.",
+      "en": "Close to the Haram — include it on a walk around the central area."
+    },
+    "keywords": [
+      "سقيفه",
+      "سقيفة",
+      "بني ساعده",
+      "saqifah",
+      "saqifa",
+      "sa'idah"
+    ],
+    "sources": [
+      {
+        "title": "Visit Madinah — Saqifat Bani Sa‘idah",
+        "url": "https://visitmadinahsa.com/en/Details/1110"
+      },
+      {
+        "title": "Visit Madinah — Saqifat Bani Sa‘idah (location)",
+        "url": "https://visitmadinahsa.com/sa-en/destinations/Saqifat-Bani-Sa'idah"
+      }
+    ],
+    "approxNote": {
+      "ar": "الموقع على الخريطة تقريبي — تحقّق منه في تطبيق الخرائط قبل الذهاب.",
+      "en": "The map position is approximate — check it in a maps app before you go."
+    }
+  },
+  {
+    "id": "sirahMuseum",
+    "category": "museum",
+    "approx": true,
+    "name": {
+      "ar": "المعرض الدولي ومتحف السيرة النبوية",
+      "en": "International Museum of the Prophet’s Biography"
+    },
+    "coords": {
+      "lat": 24.4658,
+      "lng": 39.6118
+    },
+    "summary": {
+      "ar": "متحف تابع لرابطة العالم الإسلامي افتُتح في فبراير ٢٠٢١م بجوار المسجد النبوي، ويعرض السيرة النبوية والحضارة الإسلامية عبر أجنحة تفاعلية.",
+      "en": "A museum run by the Muslim World League, opened in February 2021 next to the Prophet’s Mosque, presenting the Prophet’s biography and Islamic civilisation in interactive pavilions."
+    },
+    "facts": [
+      {
+        "label": {
+          "ar": "الافتتاح",
+          "en": "Opened"
+        },
+        "value": {
+          "ar": "فبراير ٢٠٢١م",
+          "en": "February 2021"
+        }
+      },
+      {
+        "label": {
+          "ar": "الجهة",
+          "en": "Run by"
+        },
+        "value": {
+          "ar": "رابطة العالم الإسلامي",
+          "en": "Muslim World League"
+        }
+      }
+    ],
+    "tip": {
+      "ar": "مكان مكيّف مناسب لوقت الظهيرة الحار؛ تحقّق من أوقات العمل.",
+      "en": "An indoor, air-conditioned stop for the hot midday hours — check opening times."
+    },
+    "keywords": [
+      "متحف السيره",
+      "متحف السيرة",
+      "السيره النبويه",
+      "السيرة النبوية",
+      "sirah museum",
+      "seerah",
+      "biography"
+    ],
+    "sources": [
+      {
+        "title": "Arab News — Museum of the Prophet’s Biography opens in Madinah",
+        "url": "https://www.arabnews.com/node/1804636"
+      }
+    ],
+    "approxNote": {
+      "ar": "الموقع على الخريطة تقريبي — تحقّق منه في تطبيق الخرائط قبل الذهاب.",
+      "en": "The map position is approximate — check it in a maps app before you go."
+    }
+  },
+  {
+    "id": "centralArea",
+    "category": "market",
+    "approx": true,
+    "name": {
+      "ar": "المنطقة المركزية (وسط المدينة)",
+      "en": "The central area (downtown)"
+    },
+    "coords": {
+      "lat": 24.469,
+      "lng": 39.607
+    },
+    "summary": {
+      "ar": "المنطقة المحيطة بالمسجد النبوي، وفيها معظم الفنادق والأسواق والمطاعم. يحيط بها طريق الملك فيصل (الدائري الأول)، يليه طريق الملك عبد الله (الدائري الثاني) ثم طريق الملك خالد (الدائري الثالث).",
+      "en": "The area around the Prophet’s Mosque, with most of the hotels, shops and restaurants. It is encircled by King Faisal Road (the first ring road), followed by King Abdullah Road (second ring) and King Khalid Road (third ring)."
+    },
+    "facts": [
+      {
+        "label": {
+          "ar": "الدائري الأول",
+          "en": "First ring road"
+        },
+        "value": {
+          "ar": "طريق الملك فيصل",
+          "en": "King Faisal Road"
+        }
+      },
+      {
+        "label": {
+          "ar": "الدائري الثاني",
+          "en": "Second ring road"
+        },
+        "value": {
+          "ar": "طريق الملك عبد الله",
+          "en": "King Abdullah Road"
+        }
+      },
+      {
+        "label": {
+          "ar": "الدائري الثالث",
+          "en": "Third ring road"
+        },
+        "value": {
+          "ar": "طريق الملك خالد",
+          "en": "King Khalid Road"
+        }
+      }
+    ],
+    "tip": {
+      "ar": "أسهل طريقة للتجوّل فيها المشي؛ تجنّب أوقات خروج المصلين إن كنت تتسوّق.",
+      "en": "Walking is the easiest way around; avoid the moments when prayers let out if you are shopping."
+    },
+    "keywords": [
+      "وسط المدينه",
+      "وسط المدينة",
+      "المنطقه المركزيه",
+      "المنطقة المركزية",
+      "المركزيه",
+      "فنادق",
+      "سوق",
+      "اسواق",
+      "downtown",
+      "central area",
+      "markazia",
+      "hotels",
+      "shopping",
+      "ring road"
+    ],
+    "sources": [
+      {
+        "title": "Okaz — Prince Mohammed bin Salman Road and the ring roads",
+        "url": "https://www.okaz.com.sa/news/local/2213650"
+      }
+    ],
+    "approxNote": {
+      "ar": "الموقع على الخريطة تقريبي — تحقّق منه في تطبيق الخرائط قبل الذهاب.",
+      "en": "The map position is approximate — check it in a maps app before you go."
+    }
+  },
+  {
+    "id": "datesMarket",
+    "category": "market",
+    "approx": true,
+    "name": {
+      "ar": "سوق التمور المركزي",
+      "en": "Central Dates Market"
+    },
+    "coords": {
+      "lat": 24.4655,
+      "lng": 39.604
+    },
+    "summary": {
+      "ar": "سوق التمور على طريق الملك فيصل قرب المسجد النبوي من أشهر محطات الزوار لشراء تمور المدينة. وفي سبتمبر ٢٠٢٥م افتُتح «سوق التمور المركزي» الجديد ضمن مشروع مدينة الغذاء بمساحة تتجاوز ٣٧ ألف م² في مرحلته الأولى، وتُقام فيه فعاليات موسم تمور المدينة.",
+      "en": "The dates market on King Faisal Road near the Prophet’s Mosque is a classic stop for buying Madinah dates. In September 2025 a new Central Dates Market opened in the Food City project (over 37,000 m² in phase one), which also hosts the Madinah Dates Season."
+    },
+    "facts": [
+      {
+        "label": {
+          "ar": "السوق الجديد",
+          "en": "New market"
+        },
+        "value": {
+          "ar": "افتُتح سبتمبر ٢٠٢٥م",
+          "en": "Opened Sept 2025"
+        }
+      },
+      {
+        "label": {
+          "ar": "مساحة المرحلة الأولى",
+          "en": "Phase one"
+        },
+        "value": {
+          "ar": "+٣٧ ألف م²",
+          "en": "37,000+ m²"
+        }
+      }
+    ],
+    "tip": {
+      "ar": "يوجد سوقان: القديم قرب الحرم والجديد في مدينة الغذاء — تأكّد من وجهتك في تطبيق الخرائط. التذوّق قبل الشراء عادة شائعة.",
+      "en": "There are two: the old market near the Haram and the new one in Food City — confirm which in a maps app. Tasting before buying is common."
+    },
+    "keywords": [
+      "تمور",
+      "تمر",
+      "سوق التمور",
+      "عجوه",
+      "عجوة",
+      "dates",
+      "date market",
+      "ajwa",
+      "tumoor"
+    ],
+    "sources": [
+      {
+        "title": "Bernama — Madinah’s central dates market",
+        "url": "https://www.bernama.com/en/news.php/?id=1746650"
+      },
+      {
+        "title": "Arab News — Madinah governor launches dates market",
+        "url": "https://www.arabnews.pk/node/2614986"
+      },
+      {
+        "title": "Riyadh Daily — Madinah Dates Season 2026",
+        "url": "https://alriyadhdaily.com/article/c6964e07ed494884b95182137f7d8be6"
+      }
+    ],
+    "approxNote": {
+      "ar": "الموقع على الخريطة تقريبي — تحقّق منه في تطبيق الخرائط قبل الذهاب.",
+      "en": "The map position is approximate — check it in a maps app before you go."
+    }
+  },
+  {
+    "id": "qubaWalk",
+    "category": "nature",
+    "approx": true,
+    "name": {
+      "ar": "ممشى قباء",
+      "en": "Quba Walkway"
+    },
+    "coords": {
+      "lat": 24.454,
+      "lng": 39.614
+    },
+    "summary": {
+      "ar": "ممشى للمشاة بطول نحو ٣ كم يصل منطقة المسجد النبوي بمسجد قباء، مضاء ومزروع بالنخيل، ويقوم على فكرة إحياء طريق كان النبي ﷺ يسلكه إلى قباء.",
+      "en": "A pedestrian walkway of about 3 km linking the Prophet’s Mosque area with Quba Mosque, lit and lined with palms, reviving a route the Prophet ﷺ used to take to Quba."
+    },
+    "facts": [
+      {
+        "label": {
+          "ar": "الطول",
+          "en": "Length"
+        },
+        "value": {
+          "ar": "≈ ٣ كم",
+          "en": "≈ 3 km"
+        }
+      },
+      {
+        "label": {
+          "ar": "يربط",
+          "en": "Connects"
+        },
+        "value": {
+          "ar": "الحرم ← قباء",
+          "en": "Haram ↔ Quba"
+        }
+      }
+    ],
+    "tip": {
+      "ar": "مناسب للمشي صباحًا أو مساءً؛ يمكنك العودة بسيارة أجرة.",
+      "en": "Good for a morning or evening walk; take a taxi back if you like."
+    },
+    "keywords": [
+      "ممشى قباء",
+      "طريق قباء",
+      "درب السنه",
+      "درب السنة",
+      "quba walkway",
+      "quba avenue",
+      "darb al sunnah",
+      "walk to quba"
+    ],
+    "sources": [
+      {
+        "title": "Visit Madinah — Quba Walking Trail",
+        "url": "https://visitmadinahsa.com/en/Details/71"
+      },
+      {
+        "title": "Arab News — Darb Al-Sunnah project",
+        "url": "https://www.arabnews.com/node/771981"
+      }
+    ],
+    "approxNote": {
+      "ar": "الموقع على الخريطة تقريبي — تحقّق منه في تطبيق الخرائط قبل الذهاب.",
+      "en": "The map position is approximate — check it in a maps app before you go."
+    }
+  },
+  {
+    "id": "kingFahdPark",
+    "category": "nature",
+    "approx": true,
+    "name": {
+      "ar": "حديقة الملك فهد المركزية",
+      "en": "King Fahd Central Park"
+    },
+    "coords": {
+      "lat": 24.4235,
+      "lng": 39.6085
+    },
+    "summary": {
+      "ar": "متنزه حضري على بُعد نحو ٥ كم جنوب المسجد النبوي، مساحته نحو ١٫٦ مليون م² منها ٥٠٠ ألف م² مسطحات خضراء، وتُقام فيه فعاليات ثقافية وعائلية موسمية.",
+      "en": "An urban park about 5 km south of the Prophet’s Mosque, covering about 1.6 million m² with 500,000 m² of green space; it hosts seasonal cultural and family events."
+    },
+    "facts": [
+      {
+        "label": {
+          "ar": "المساحة",
+          "en": "Area"
+        },
+        "value": {
+          "ar": "≈ ١٫٦ مليون م²",
+          "en": "≈ 1.6 million m²"
+        }
+      },
+      {
+        "label": {
+          "ar": "المسطحات الخضراء",
+          "en": "Green space"
+        },
+        "value": {
+          "ar": "≈ ٥٠٠ ألف م²",
+          "en": "≈ 500,000 m²"
+        }
+      }
+    ],
+    "tip": {
+      "ar": "مناسب للعائلات في المساء.",
+      "en": "Good for families in the evening."
+    },
+    "keywords": [
+      "حديقه الملك فهد",
+      "حديقة الملك فهد",
+      "حديقه",
+      "حديقة",
+      "منتزه",
+      "king fahd park",
+      "park",
+      "garden"
+    ],
+    "sources": [
+      {
+        "title": "Saudipedia — King Fahd Central Park in Madinah",
+        "url": "https://saudipedia.com/ar/حديقة-الملك-فهد-المركزية-بالمدينة-المنورة"
+      },
+      {
+        "title": "Visit Saudi — Heritage District at King Fahd Central Park",
+        "url": "https://visitsaudi.com/en/madinah/attractions/heritage-district"
+      }
+    ],
+    "approxNote": {
+      "ar": "الموقع على الخريطة تقريبي — تحقّق منه في تطبيق الخرائط قبل الذهاب.",
+      "en": "The map position is approximate — check it in a maps app before you go."
+    }
+  },
+  {
+    "id": "sayyidShuhada",
+    "category": "mosque",
+    "near": "uhud",
+    "name": {
+      "ar": "مسجد سيد الشهداء",
+      "en": "Sayyid al-Shuhada Mosque"
+    },
+    "coords": {
+      "lat": 24.5035167,
+      "lng": 39.6127167
+    },
+    "summary": {
+      "ar": "مسجد اكتمل بناؤه عام ٢٠١٧م بجوار مقبرة شهداء أحد، ويحمل لقب حمزة بن عبد المطلب رضي الله عنه «سيد الشهداء». يتسع لنحو ١٥ ألف مصلٍّ، وله قبة واحدة ومئذنتان، ويقابل جبل الرماة.",
+      "en": "A mosque completed in 2017 beside the Martyrs of Uhud cemetery, named after the title of Hamza ibn Abd al-Muttalib, “master of the martyrs”. It holds about 15,000 worshippers, has one dome and two minarets, and faces the Archers’ Hill."
+    },
+    "facts": [
+      {
+        "label": {
+          "ar": "اكتمل",
+          "en": "Completed"
+        },
+        "value": {
+          "ar": "٢٠١٧م",
+          "en": "2017"
+        }
+      },
+      {
+        "label": {
+          "ar": "الطاقة",
+          "en": "Capacity"
+        },
+        "value": {
+          "ar": "≈ ١٥ ألف مصلٍّ",
+          "en": "≈ 15,000"
+        }
+      },
+      {
+        "label": {
+          "ar": "القباب / المآذن",
+          "en": "Domes / minarets"
+        },
+        "value": {
+          "ar": "١ / ٢",
+          "en": "1 / 2"
+        }
+      }
+    ],
+    "tip": {
+      "ar": "جزء من زيارة أحد؛ اجعله أول محطة قبل صعود جبل الرماة.",
+      "en": "Part of the Uhud visit — start here before going up the Archers’ Hill."
+    },
+    "keywords": [
+      "سيد الشهداء",
+      "مسجد سيد الشهداء",
+      "sayyid al shuhada",
+      "shuhada mosque",
+      "hamza mosque"
+    ],
+    "sources": [
+      {
+        "title": "Madain Project — Jameh Syed al-Shohada",
+        "url": "https://madainproject.com/jameh_syed_al_shohada"
+      },
+      {
+        "title": "Saudi Gazette — Sayyid Al-Shuhada Mosque expansion",
+        "url": "https://saudigazette.com.sa/article/500148"
+      },
+      {
+        "title": "Arab News — ThePlace: Sayed Al-Shuhada Mosque",
+        "url": "https://www.arabnews.pk/node/2128676"
+      }
+    ]
+  },
+  {
+    "id": "sheikhain",
+    "category": "mosque",
+    "approx": true,
+    "name": {
+      "ar": "مسجد الشيخين",
+      "en": "Al-Sheikhain Mosque"
+    },
+    "coords": {
+      "lat": 24.4878,
+      "lng": 39.6
+    },
+    "summary": {
+      "ar": "مسجد قديم في الموضع الذي عسكر فيه النبي ﷺ واستعرض جيشه في الطريق إلى أُحد، وردّ فيه الصغار غير القادرين على القتال. جُدّد عام ٢٠١٨م دون هدم جدرانه، ويقع نحو ٢٫٥ كم شمال غرب المسجد النبوي على طريق سيد الشهداء.",
+      "en": "An old mosque where the Prophet ﷺ camped and reviewed his army on the way to Uhud, sending back those too young to fight. Renovated in 2018 without demolishing its walls, it lies about 2.5 km north-west of the Prophet’s Mosque on the road to Sayyid al-Shuhada."
+    },
+    "facts": [
+      {
+        "label": {
+          "ar": "الحدث",
+          "en": "Event"
+        },
+        "value": {
+          "ar": "استعراض الجيش قبل أُحد — ٣ هـ",
+          "en": "Army review before Uhud — 3 AH"
+        }
+      },
+      {
+        "label": {
+          "ar": "التجديد",
+          "en": "Renovated"
+        },
+        "value": {
+          "ar": "٢٠١٨م",
+          "en": "2018"
+        }
+      }
+    ],
+    "tip": {
+      "ar": "يقع على الطريق إلى أحد؛ توقّف فيه قبل الوصول إلى سيد الشهداء.",
+      "en": "It is on the way to Uhud — stop here before Sayyid al-Shuhada."
+    },
+    "keywords": [
+      "الشيخين",
+      "مسجد الشيخين",
+      "sheikhain",
+      "shaikhain"
+    ],
+    "sources": [
+      {
+        "title": "Visit Madinah — Al-Sheikhain Mosque",
+        "url": "https://visitmadinahsa.com/en/Details/1103"
+      }
+    ],
+    "approxNote": {
+      "ar": "الموقع على الخريطة تقريبي — تحقّق منه في تطبيق الخرائط قبل الذهاب.",
+      "en": "The map position is approximate — check it in a maps app before you go."
+    }
+  },
+  {
+    "id": "darMadinah",
+    "category": "museum",
+    "approx": true,
+    "name": {
+      "ar": "متحف دار المدينة",
+      "en": "Dar Al Madinah Museum"
+    },
+    "coords": {
+      "lat": 24.499,
+      "lng": 39.66
+    },
+    "summary": {
+      "ar": "متحف خاص في مدينة المعرفة الاقتصادية على طريق الملك عبد العزيز شرق المدينة، يعرض تاريخ المدينة في العهد النبوي وتراثها العمراني في قاعات متعددة، ويضم أكثر من ٢٠٠٠ قطعة.",
+      "en": "A private museum in Knowledge Economic City on King Abdulaziz Road, east Madinah, presenting the city’s history in the Prophet’s era and its urban heritage across several halls, with more than 2,000 exhibits."
+    },
+    "facts": [
+      {
+        "label": {
+          "ar": "الموقع",
+          "en": "Location"
+        },
+        "value": {
+          "ar": "مدينة المعرفة الاقتصادية",
+          "en": "Knowledge Economic City"
+        }
+      },
+      {
+        "label": {
+          "ar": "المعروضات",
+          "en": "Exhibits"
+        },
+        "value": {
+          "ar": "+٢٠٠٠",
+          "en": "2,000+"
+        }
+      }
+    ],
+    "tip": {
+      "ar": "الدخول برسوم وأوقات العمل تتغير؛ تحقّق قبل الذهاب. قريب من محطة قطار الحرمين.",
+      "en": "Entry is ticketed and hours change — check before going. Close to the Haramain station."
+    },
+    "keywords": [
+      "دار المدينه",
+      "دار المدينة",
+      "متحف دار",
+      "dar al madinah",
+      "dar almadinah",
+      "madinah museum"
+    ],
+    "sources": [
+      {
+        "title": "Arab News — Private museums open in Madinah",
+        "url": "https://arabnews.com/node/1219401"
+      },
+      {
+        "title": "Wikipedia — Al-Madinah Museum (not to be confused with Dar Al Madinah)",
+        "url": "https://en.wikipedia.org/wiki/Al-Madinah_Museum"
+      },
+      {
+        "title": "Saudipedia — Knowledge Economic City",
+        "url": "https://saudipedia.com/en/economic-knowledge-city"
+      }
+    ],
+    "approxNote": {
+      "ar": "الموقع على الخريطة تقريبي — تحقّق منه في تطبيق الخرائط قبل الذهاب.",
+      "en": "The map position is approximate — check it in a maps app before you go."
+    }
+  },
+  {
+    "id": "haramainStation",
+    "category": "transport",
+    "approx": true,
+    "name": {
+      "ar": "محطة قطار الحرمين",
+      "en": "Haramain High-Speed Railway station"
+    },
+    "coords": {
+      "lat": 24.501,
+      "lng": 39.663
+    },
+    "summary": {
+      "ar": "محطة المدينة على قطار الحرمين السريع، في مدينة المعرفة الاقتصادية على طريق الملك عبد العزيز، على بُعد نحو ٧ كم من المسجد النبوي، ولونها المميز الأخضر. بدأ تشغيل القطار للعموم في ١١ أكتوبر ٢٠١٨م.",
+      "en": "Madinah’s station on the Haramain High-Speed Railway, in Knowledge Economic City on King Abdulaziz Road, about 7 km from the Prophet’s Mosque; its signature colour is green. Public service began on 11 October 2018."
+    },
+    "facts": [
+      {
+        "label": {
+          "ar": "البعد عن الحرم",
+          "en": "From the Haram"
+        },
+        "value": {
+          "ar": "≈ ٧ كم",
+          "en": "≈ 7 km"
+        }
+      },
+      {
+        "label": {
+          "ar": "بدء التشغيل للعموم",
+          "en": "Public service"
+        },
+        "value": {
+          "ar": "١١ أكتوبر ٢٠١٨م",
+          "en": "11 Oct 2018"
+        }
+      }
+    ],
+    "tip": {
+      "ar": "احسب وقتًا للوصول إلى المحطة بالسيارة قبل موعد القطار.",
+      "en": "Allow time to reach the station by car before your train."
+    },
+    "keywords": [
+      "قطار الحرمين",
+      "محطه القطار",
+      "محطة القطار",
+      "haramain",
+      "high speed",
+      "train station",
+      "railway station"
+    ],
+    "sources": [
+      {
+        "title": "Saudipedia — Haramain High Speed Railway",
+        "url": "https://saudipedia.com/en/haramain-high-speed-railway"
+      },
+      {
+        "title": "Arab News — Haramain train speeds toward a 2018 opening",
+        "url": "https://www.arabnews.pk/node/1267866/saudi-arabia"
+      }
+    ],
+    "approxNote": {
+      "ar": "الموقع على الخريطة تقريبي — تحقّق منه في تطبيق الخرائط قبل الذهاب.",
+      "en": "The map position is approximate — check it in a maps app before you go."
+    }
+  },
+  {
+    "id": "airport",
+    "category": "transport",
+    "name": {
+      "ar": "مطار الأمير محمد بن عبد العزيز الدولي",
+      "en": "Prince Mohammad bin Abdulaziz International Airport"
+    },
+    "coords": {
+      "lat": 24.55333,
+      "lng": 39.705
+    },
+    "summary": {
+      "ar": "مطار المدينة المنورة، شمال شرق المدينة؛ افتُتحت صالته الجديدة في يوليو ٢٠١٥م.",
+      "en": "Madinah’s airport, north-east of the city; its new terminal opened in July 2015."
+    },
+    "facts": [
+      {
+        "label": {
+          "ar": "الصالة الجديدة",
+          "en": "New terminal"
+        },
+        "value": {
+          "ar": "يوليو ٢٠١٥م",
+          "en": "July 2015"
+        }
+      },
+      {
+        "label": {
+          "ar": "الاتجاه",
+          "en": "Direction"
+        },
+        "value": {
+          "ar": "شمال شرق الحرم",
+          "en": "North-east of the Haram"
+        }
+      }
+    ],
+    "tip": {
+      "ar": "المسافة إلى الحرم نحو ١٣ كم بخط مستقيم — قدّر وقت الطريق قبل رحلتك.",
+      "en": "About 13 km from the Haram in a straight line — allow for the drive."
+    },
+    "keywords": [
+      "مطار",
+      "المطار",
+      "airport",
+      "flight",
+      "med"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia — Prince Mohammad bin Abdulaziz International Airport",
+        "url": "https://en.wikipedia.org/wiki/Prince_Mohammad_bin_Abdulaziz_International_Airport"
+      }
+    ]
+  },
+  {
+    "id": "ayr",
+    "category": "nature",
+    "name": {
+      "ar": "جبل عير",
+      "en": "Mount Ayr"
+    },
+    "coords": {
+      "lat": 24.39944,
+      "lng": 39.55694
+    },
+    "summary": {
+      "ar": "جبل جنوب المدينة يرتفع نحو ٩٥٥ م فوق سطح البحر، ويُعدّ الحدّ الجنوبي لحرم المدينة المنورة.",
+      "en": "A mountain south of Madinah, about 955 m above sea level, regarded as the southern boundary of the haram (sanctuary) of Madinah."
+    },
+    "facts": [
+      {
+        "label": {
+          "ar": "الارتفاع",
+          "en": "Elevation"
+        },
+        "value": {
+          "ar": "≈ ٩٥٥ م",
+          "en": "≈ 955 m"
+        }
+      },
+      {
+        "label": {
+          "ar": "الأهمية",
+          "en": "Significance"
+        },
+        "value": {
+          "ar": "الحدّ الجنوبي لحرم المدينة",
+          "en": "Southern boundary of Madinah’s haram"
+        }
+      }
+    ],
+    "tip": {
+      "ar": "يُرى من الطرق الجنوبية للمدينة؛ ليست لدينا معلومات موثّقة عن مرافق للزوار فيه.",
+      "en": "Seen from the southern roads; we have no verified information on visitor facilities."
+    },
+    "keywords": [
+      "جبل عير",
+      "عير",
+      "ayr",
+      "mount ayr",
+      "eer"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia — Mount Ayr",
+        "url": "https://en.wikipedia.org/wiki/Mount_Ayr"
+      }
+    ],
+    "noPlan": true
+  }
+]

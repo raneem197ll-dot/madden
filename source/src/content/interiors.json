@@ -1,0 +1,432 @@
+{
+  "hejaz": {
+    "welcome": {
+      "id": "welcome",
+      "title": {
+        "ar": "مرحبًا في محطة المدينة",
+        "en": "Welcome to Madinah station"
+      },
+      "body": {
+        "ar": "أنت داخل تمثيل مبسّط لمحطة المدينة على خط سكة حديد الحجاز. اقترب من العلامات الذهبية لتقرأ عن المعروضات، واخرج من البوابة الشمالية إلى الرصيف حيث تقف القاطرة. ابحث أيضًا عن ٣ تفاصيل مخفية!",
+        "en": "You are inside a simplified representation of Madinah station on the Hejaz Railway. Approach the golden markers to read about exhibits, then go through the north gate to the platform and the locomotive. Look for 3 hidden details too!"
+      },
+      "kind": "game"
+    },
+    "model": {
+      "id": "model",
+      "title": {
+        "ar": "مجسّم المحطة",
+        "en": "Station model"
+      },
+      "body": {
+        "ar": "مجسّم مصغّر لمبنى المحطة. لاحظ الواجهة ذات الأقواس السبعة عشر؛ كان المبنى طابقًا واحدًا عند افتتاحه عام ١٩٠٨م ثم أُضيف الطابق الثاني عام ١٩١٤م.",
+        "en": "A miniature of the station building. Notice the 17-arch façade; it had a single storey when it opened in 1908 and a second storey was added in 1914."
+      },
+      "kind": "verified"
+    },
+    "map": {
+      "id": "map",
+      "title": {
+        "ar": "خط دمشق – المدينة",
+        "en": "Damascus – Madinah line"
+      },
+      "body": {
+        "ar": "امتد خط الحجاز من دمشق جنوبًا عبر محطات منها درعا وعمّان ومعان وتبوك ومدائن صالح والعُلا، حتى المدينة المنورة، وهي المحطة الأخيرة. ويبلغ طوله نحو ١٣٠٠ كم.",
+        "en": "The Hejaz line ran south from Damascus through stations including Daraa, Amman, Ma‘an, Tabuk, Mada’in Salih and Al-Ula, to Madinah — the final stop. It is roughly 1,300 km long."
+      },
+      "kind": "verified"
+    },
+    "tickets": {
+      "id": "tickets",
+      "title": {
+        "ar": "من أربعين يومًا إلى أيام",
+        "en": "From forty days to a few"
+      },
+      "body": {
+        "ar": "قبل القطار كانت قوافل الحج القادمة من الشام تقطع الطريق في نحو أربعين يومًا، ومع الخط صارت الرحلة أيامًا معدودة. (شباك التذاكر هنا عنصر تخيّلي في اللعبة.)",
+        "en": "Before the railway, pilgrim caravans from the Levant took about forty days; the line cut the trip to a matter of days. (This ticket window is an imagined game element.)"
+      },
+      "kind": "verified"
+    },
+    "tools": {
+      "id": "tools",
+      "title": {
+        "ar": "أدوات العاملين",
+        "en": "Workers’ tools"
+      },
+      "body": {
+        "ar": "يعرض المتحف أدوات استخدمها العاملون في المحطة لصيانة القاطرات والسكة. القطع داخل هذه الخزانة نماذج رمزية في اللعبة.",
+        "en": "The museum displays tools used by station workers to maintain locomotives and track. The pieces in this case are symbolic game models."
+      },
+      "kind": "verified"
+    },
+    "docs": {
+      "id": "docs",
+      "title": {
+        "ar": "يوم الافتتاح",
+        "en": "Opening day"
+      },
+      "body": {
+        "ar": "أُقيم حفل افتتاح محطة المدينة في ١ سبتمبر ١٩٠٨م (١٣٢٦هـ). ويضم المتحف وثائق وخرائط تعود إلى الحقبة العثمانية.",
+        "en": "Madinah station’s inauguration was held on 1 September 1908 (1326 AH). The museum holds Ottoman-era documents and maps."
+      },
+      "kind": "verified"
+    },
+    "lamp": {
+      "id": "lamp",
+      "title": {
+        "ar": "أول كهرباء في المدينة",
+        "en": "The city’s first electric light"
+      },
+      "body": {
+        "ar": "يُذكر أن إنارة محطة المدينة يوم افتتاحها كانت أول استخدام للكهرباء في المدينة المنورة.",
+        "en": "The station’s illumination on opening day is described as the first use of electricity in Madinah."
+      },
+      "kind": "verified"
+    },
+    "arches": {
+      "id": "arches",
+      "title": {
+        "ar": "سبعة عشر قوسًا",
+        "en": "Seventeen arches"
+      },
+      "body": {
+        "ar": "تتميّز واجهة المبنى الرئيس بسبعة عشر قوسًا زخرفيًا، وبُنيت محطات المنطقة من الحجر البركاني المحلي الداكن.",
+        "en": "The main building’s façade has seventeen decorative arches; stations in the region were built from dark local volcanic stone."
+      },
+      "kind": "verified"
+    },
+    "loco": {
+      "id": "loco",
+      "title": {
+        "ar": "قاطرة بخارية 2‑8‑0",
+        "en": "A 2‑8‑0 steam locomotive"
+      },
+      "body": {
+        "ar": "يضم المتحف قاطرات بخارية مُرمّمة، منها قاطرة ألمانية الصنع بترتيب عجلات 2‑8‑0: محور أمامي صغير وأربعة محاور دافعة. وكان عرض سكة الحجاز ١٠٥٠ ملم. (القاطرة هنا نموذج مبسّط.)",
+        "en": "The museum has restored steam locomotives, including a German-built engine with a 2‑8‑0 wheel arrangement: one leading axle and four driving axles. The Hejaz Railway gauge was 1,050 mm. (This locomotive is a simplified model.)"
+      },
+      "kind": "verified"
+    },
+    "carriage": {
+      "id": "carriage",
+      "title": {
+        "ar": "عربة الركاب",
+        "en": "Passenger carriage"
+      },
+      "body": {
+        "ar": "نقلت قطارات الحجاز الحجاج والمسافرين والبضائع بين الشام والحجاز، ويعرض المتحف عربات مُرمّمة.",
+        "en": "Hejaz trains carried pilgrims, travellers and goods between the Levant and the Hejaz; the museum displays restored carriages."
+      },
+      "kind": "verified"
+    },
+    "tower": {
+      "id": "tower",
+      "title": {
+        "ar": "برج الخزانات الأربعة",
+        "en": "The four-tank water tower"
+      },
+      "body": {
+        "ar": "احتاجت القاطرات البخارية إلى الماء باستمرار، فضمّ مجمّع المحطة برج مياه بأربعة خزانات، إلى جانب حظيرة القاطرات وقرص الدوران وورش الصيانة.",
+        "en": "Steam engines constantly needed water, so the station complex had a four-tank water tower, alongside the engine shed, turntable and workshops."
+      },
+      "kind": "verified"
+    }
+  },
+  "quba": {
+    "gate": {
+      "id": "gate",
+      "title": {
+        "ar": "أول مسجد في الإسلام",
+        "en": "The first mosque in Islam"
+      },
+      "body": {
+        "ar": "أسّس النبي ﷺ مسجد قباء عند وصوله إلى قباء في الهجرة سنة ١ هـ (٦٢٢م). هذا تمثيل داخلي مبسّط يستلهم الفناء والمصلّى وقباب السقف.",
+        "en": "The Prophet ﷺ founded Quba Mosque on reaching Quba during the Hijrah in 1 AH (622 CE). This is a simplified interior inspired by the courtyard, prayer hall and domes."
+      },
+      "kind": "verified"
+    },
+    "court": {
+      "id": "court",
+      "title": {
+        "ar": "فناء من ثلاثة ألوان",
+        "en": "A three-colour courtyard"
+      },
+      "body": {
+        "ar": "يُرصف فناء المسجد بالرخام الأسود والأحمر والأبيض. وعند إعادة البناء عام ١٩٨٦م حوفظ على طابع العمارة المدنية: القباب البيضاء والواجهات البسيطة.",
+        "en": "The courtyard is paved with black, red and white marble. The 1986 rebuild kept the Madinan style of white domes and modest façades."
+      },
+      "kind": "verified"
+    },
+    "domes": {
+      "id": "domes",
+      "title": {
+        "ar": "القباب والمآذن",
+        "en": "Domes and minarets"
+      },
+      "body": {
+        "ar": "يعلو المصلّى في المبنى الحالي ست قباب رئيسة، وتنتشر قباب أصغر فوق الأروقة، وتقوم أربع مآذن في أركانه. صمّمه المعماري عبد الواحد الوكيل وافتُتح عام ١٩٨٦م.",
+        "en": "Six main domes rise over the prayer hall of today’s building, with smaller domes over the arcades and four corner minarets. Designed by Abdel-Wahed El-Wakil, it opened in 1986."
+      },
+      "kind": "verified"
+    },
+    "mihrab": {
+      "id": "mihrab",
+      "title": {
+        "ar": "المحراب",
+        "en": "The mihrab"
+      },
+      "body": {
+        "ar": "يُحدّد المحراب جهة القبلة نحو الكعبة المشرّفة في مكة، وتقع جنوب المدينة المنورة. (المحراب هنا مبسّط ولا يحاكي زخارف المحراب الحقيقي.)",
+        "en": "The mihrab marks the qibla, towards the Ka‘bah in Makkah, which lies south of Madinah. (This mihrab is simplified and does not reproduce the real ornament.)"
+      },
+      "kind": "verified"
+    },
+    "virtue": {
+      "id": "virtue",
+      "title": {
+        "ar": "فضل الصلاة فيه",
+        "en": "Virtue of praying here"
+      },
+      "body": {
+        "ar": "ورد في الحديث أن من تطهّر ثم أتى مسجد قباء فصلّى فيه كان له أجر عمرة. عند زيارتك: راعِ آداب المسجد والسكينة واللباس المحتشم.",
+        "en": "Hadith literature says that whoever purifies himself and prays in Quba Mosque receives a reward like an Umrah. When visiting: observe mosque etiquette, calm and modest dress."
+      },
+      "kind": "verified"
+    },
+    "expansion": {
+      "id": "expansion",
+      "title": {
+        "ar": "أكبر توسعة",
+        "en": "The largest expansion"
+      },
+      "body": {
+        "ar": "في عام ٢٠٢٢م أُعلن عن أكبر توسعة في تاريخ مسجد قباء مع تطوير المنطقة المحيطة به، ضمن مشروع يحمل اسم الملك سلمان بن عبد العزيز.",
+        "en": "In 2022 the largest expansion in Quba Mosque’s history was announced, with development of the surrounding area, in a project named after King Salman bin Abdulaziz."
+      },
+      "kind": "verified"
+    }
+  },
+  "qiblatain": {
+    "gate": {
+      "id": "gate",
+      "title": {
+        "ar": "مسجد القبلتين",
+        "en": "Mosque of the Two Qiblas"
+      },
+      "body": {
+        "ar": "يرتبط المسجد بتحويل القبلة من بيت المقدس إلى الكعبة في السنة الثانية للهجرة، إذ صُلّيت فيه صلاة واحدة إلى قبلتين. ويُعرف تاريخيًا بمسجد بني سَلِمة. (تمثيل داخلي مبسّط.)",
+        "en": "The mosque is linked to the change of qibla from Jerusalem to the Ka‘bah in 2 AH: a single prayer here was offered towards two qiblas. It is historically known as the Mosque of Banu Salimah. (Simplified interior.)"
+      },
+      "kind": "verified"
+    },
+    "compass": {
+      "id": "compass",
+      "title": {
+        "ar": "قبلتان في صلاة واحدة",
+        "en": "Two qiblas, one prayer"
+      },
+      "body": {
+        "ar": "المدينة المنورة تقع بين مكة جنوبًا وبيت المقدس شمالًا؛ لذلك تحوّل المصلّون عند تحويل القبلة إلى الاتجاه المعاكس تقريبًا. (هذه البوصلة عنصر تعليمي في اللعبة، وليست جزءًا من المسجد.)",
+        "en": "Madinah lies between Makkah to the south and Jerusalem to the north, so when the qibla changed, worshippers turned to roughly the opposite direction. (This compass is an educational game element, not part of the mosque.)"
+      },
+      "kind": "verified"
+    },
+    "arches": {
+      "id": "arches",
+      "title": {
+        "ar": "أقواس وأقبية",
+        "en": "Arches and vaults"
+      },
+      "body": {
+        "ar": "يتكوّن المصلّى من صفوف أقواس تحمل أقبية موازية لجدار القبلة، وتقطعها قبتان على محور واحد يتجه نحو مكة.",
+        "en": "The prayer hall has rows of arches carrying vaults parallel to the qibla wall, interrupted by two domes on a single axis towards Makkah."
+      },
+      "kind": "verified"
+    },
+    "mihrab": {
+      "id": "mihrab",
+      "title": {
+        "ar": "المحراب المتجه إلى مكة",
+        "en": "The mihrab facing Makkah"
+      },
+      "body": {
+        "ar": "عند إعادة البناء عام ١٩٨٧م أُزيل المحراب القديم المتجه إلى بيت المقدس، وبقي المحراب المتجه إلى مكة. ويُذكر أن تجويفه متدرّج على مستويين. (المحراب هنا مبسّط.)",
+        "en": "In the 1987 rebuild the old mihrab facing Jerusalem was removed and the one facing Makkah kept; its niche is described as recessed in two levels. (Simplified here.)"
+      },
+      "kind": "verified"
+    },
+    "marker": {
+      "id": "marker",
+      "title": {
+        "ar": "علامة القبلة الأولى",
+        "en": "Marker of the first qibla"
+      },
+      "body": {
+        "ar": "وُضعت علامة صغيرة تُذكّر بالاتجاه الأول نحو بيت المقدس، في الجهة المقابلة لجدار القبلة. (الشكل هنا رمزي.)",
+        "en": "A small marker recalls the first direction towards Jerusalem, on the side opposite the qibla wall. (The shape here is symbolic.)"
+      },
+      "kind": "verified"
+    },
+    "open": {
+      "id": "open",
+      "title": {
+        "ar": "مفتوح على مدار الساعة",
+        "en": "Open around the clock"
+      },
+      "body": {
+        "ar": "في أكتوبر ٢٠٢٥م صدر توجيه بفتح مسجد القبلتين على مدار ٢٤ ساعة تيسيرًا على المصلين والزوار. والمبنى الحالي أُعيد بناؤه عام ١٩٨٧م بمئذنتين وقبتين.",
+        "en": "In October 2025 a directive was issued to keep the mosque open 24 hours a day. Today’s building was rebuilt in 1987 with two minarets and two domes."
+      },
+      "kind": "verified"
+    }
+  },
+  "uhud": {
+    "mountain": {
+      "id": "mountain",
+      "title": {
+        "ar": "جبل أحد",
+        "en": "Mount Uhud"
+      },
+      "body": {
+        "ar": "جبل كبير شمال المدينة يمتد نحو ٧ كم ويرتفع قرابة ١٠٧٧ مترًا فوق سطح البحر، وتميل صخوره الجرانيتية إلى الحمرة. (الموقع هنا مصغّر ومبسّط.)",
+        "en": "A large mountain north of Madinah, about 7 km long and roughly 1,077 m above sea level, with reddish granite. (This site is scaled down and simplified.)"
+      },
+      "kind": "verified"
+    },
+    "battle": {
+      "id": "battle",
+      "title": {
+        "ar": "غزوة أحد",
+        "en": "The Battle of Uhud"
+      },
+      "body": {
+        "ar": "وقعت غزوة أحد عند سفح الجبل في شوال سنة ٣ هـ (٦٢٥م) بين المسلمين من أهل المدينة وجيش قريش القادم من مكة.",
+        "en": "The Battle of Uhud took place at the foot of the mountain in Shawwal 3 AH (625 CE), between the Muslims of Madinah and the Quraysh army from Makkah."
+      },
+      "kind": "verified"
+    },
+    "archers": {
+      "id": "archers",
+      "title": {
+        "ar": "جبل الرماة",
+        "en": "Archers’ Hill"
+      },
+      "body": {
+        "ar": "وضع النبي ﷺ خمسين راميًا على هذا التل وأمرهم ألّا يغادروا مواقعهم. فلما ترك أكثرهم مواقعهم انكشف ظهر الجيش وتغيّر مجرى المعركة — درس خالد في الانضباط. (يمكن للزوار في الواقع صعود التل.)",
+        "en": "The Prophet ﷺ placed fifty archers on this hill and ordered them to hold their posts. When most left, the army’s flank was exposed and the battle turned — a lasting lesson in discipline. (Visitors can climb the real hill.)"
+      },
+      "kind": "verified"
+    },
+    "martyrs": {
+      "id": "martyrs",
+      "title": {
+        "ar": "مقبرة شهداء أحد",
+        "en": "Martyrs of Uhud cemetery"
+      },
+      "body": {
+        "ar": "تضم المقبرة شهداء غزوة أحد، ومنهم سيد الشهداء حمزة بن عبد المطلب رضي الله عنه. السور هنا رمزي؛ ولا تعرض اللعبة تفاصيل المقبرة احترامًا لحرمتها.",
+        "en": "The cemetery holds the martyrs of Uhud, including Hamza ibn Abd al-Muttalib. The wall here is symbolic; the game does not depict the cemetery’s interior out of respect."
+      },
+      "kind": "verified"
+    },
+    "love": {
+      "id": "love",
+      "title": {
+        "ar": "جبل يحبّنا ونحبّه",
+        "en": "A mountain that loves us"
+      },
+      "body": {
+        "ar": "قال النبي ﷺ عن جبل أحد: «هذا جبلٌ يحبّنا ونحبّه» (رواه البخاري ٤٠٨٣).",
+        "en": "The Prophet ﷺ said of Uhud: “This is a mountain that loves us and is loved by us.” (Sahih al-Bukhari 4083)"
+      },
+      "kind": "verified"
+    },
+    "tips": {
+      "id": "tips",
+      "title": {
+        "ar": "نصائح للزيارة",
+        "en": "Visiting tips"
+      },
+      "body": {
+        "ar": "أفضل وقت للزيارة الصباح الباكر أو قبيل الغروب حين تتوهج الصخور الحمراء. احمل الماء، والتزم بالمسارات، وراعِ حرمة المكان.",
+        "en": "Visit early morning or just before sunset when the red rock glows. Carry water, stay on paths and respect the site."
+      },
+      "kind": "verified"
+    }
+  },
+  "haram": {
+    "welcome": {
+      "id": "welcome",
+      "title": {
+        "ar": "ساحات المسجد النبوي",
+        "en": "The plazas of the Prophet’s Mosque"
+      },
+      "body": {
+        "ar": "أنت في تمثيل مبسّط لساحات المسجد النبوي تحت المظلات. احترامًا للمكان لا تشمل اللعبة الروضة الشريفة ولا الحجرة النبوية، ولا ألعاب أو مقتنيات مخفية هنا — فقط علامات معلومات. اقترب من العلامات الذهبية لتقرأ.",
+        "en": "You are in a simplified version of the Prophet’s Mosque plazas under the umbrellas. Out of respect the game leaves out the Rawdah and the Prophet’s chamber, and there are no games or hidden items here — only information markers. Walk to the golden markers to read."
+      },
+      "kind": "game"
+    },
+    "umbrellas": {
+      "id": "umbrellas",
+      "title": {
+        "ar": "المظلات المتحركة",
+        "en": "The retractable umbrellas"
+      },
+      "body": {
+        "ar": "تظلّل ٢٥٠ مظلة متحركة نحو ١٤٣ ألف م² من ساحات المسجد، وتُفتح لتقي المصلين حرّ الشمس. ويبلغ ارتفاعها مفتوحةً نحو ١٤ – ١٥ م، وتظلّل المظلة الواحدة أكثر من ٨٠٠ مصلٍّ.",
+        "en": "250 retractable umbrellas shade about 143,000 m² of the plazas, opening to protect worshippers from the sun. Open, they stand about 14–15 m high, and each shades more than 800 worshippers."
+      },
+      "kind": "verified"
+    },
+    "minarets": {
+      "id": "minarets",
+      "title": {
+        "ar": "المآذن العشر",
+        "en": "Ten minarets"
+      },
+      "body": {
+        "ar": "للمسجد النبوي اليوم عشر مآذن، منها مآذن التوسعة السعودية الثانية التي تُعدّ من أطول مآذن المسجد.",
+        "en": "The mosque has ten minarets today, including those of the second Saudi expansion, among its tallest."
+      },
+      "kind": "verified"
+    },
+    "dome": {
+      "id": "dome",
+      "title": {
+        "ar": "القبة الخضراء",
+        "en": "The Green Dome"
+      },
+      "body": {
+        "ar": "تقع القبة الخضراء فوق الحجرة النبوية في الجهة الجنوبية الشرقية من المسجد. أُعيد بناء القبة الحالية سنة ١٨١٨م في عهد السلطان محمود الثاني، وطُليت بالأخضر أول مرة سنة ١٨٣٧م.",
+        "en": "The Green Dome stands over the Prophet’s chamber in the south-east of the mosque. The present dome was rebuilt in 1818 under Sultan Mahmud II and first painted green in 1837."
+      },
+      "kind": "verified"
+    },
+    "expansion": {
+      "id": "expansion",
+      "title": {
+        "ar": "التوسعات",
+        "en": "Expansions"
+      },
+      "body": {
+        "ar": "بُني المسجد سنة ١ هـ، وتوالت توسعاته؛ ومنها توسعة الوليد بن عبد الملك التي نفّذها عمر بن عبد العزيز، ثم التوسعة السعودية الثانية التي بدأت عام ١٩٨٥م وأضافت الساحات الواسعة حوله.",
+        "en": "Built in 1 AH, the mosque has been enlarged many times — including al-Walid I’s expansion carried out by Umar ibn Abd al-Aziz, and the second Saudi expansion begun in 1985 that added the wide plazas around it."
+      },
+      "kind": "verified"
+    },
+    "etiquette": {
+      "id": "etiquette",
+      "title": {
+        "ar": "آداب الزيارة",
+        "en": "Visiting etiquette"
+      },
+      "body": {
+        "ar": "السكينة وخفض الصوت واللباس المحتشم واتباع تعليمات المنظِّمين من آداب زيارة المسجد. هذه نصيحة عامة للزائر وليست فتوى.",
+        "en": "Calm, a lowered voice, modest dress and following the organisers’ instructions are part of visiting the mosque. This is general visitor advice, not a religious ruling."
+      },
+      "kind": "game"
+    }
+  }
+}

@@ -1,0 +1,2755 @@
+[
+  {
+    "id": "haram",
+    "category": "mosque",
+    "alwaysBuilt": true,
+    "name": {
+      "ar": "المسجد النبوي",
+      "en": "The Prophet’s Mosque"
+    },
+    "tagline": {
+      "ar": "قلب المدينة المنورة",
+      "en": "The heart of Madinah"
+    },
+    "kind": {
+      "ar": "المسجد النبوي الشريف",
+      "en": "The Prophet’s Mosque"
+    },
+    "coords": {
+      "lat": 24.46833,
+      "lng": 39.61083
+    },
+    "radiusM": 500,
+    "rotY": 0,
+    "footprint": 7.4,
+    "qrCode": "MCMS-HARAM",
+    "accent": "#2f7d5b",
+    "history": {
+      "ar": [
+        "أسّس النبي ﷺ المسجد النبوي سنة ١ هـ (٦٢٢م) بعد وصوله إلى المدينة في الهجرة، وشارك بنفسه في بنائه، وكان بيته ﷺ إلى جواره، وفيه دُفن ﷺ. وهو اليوم في قلب المدينة تحيط به المنطقة المركزية.",
+        "توالت توسعاته عبر القرون؛ ومن أبرزها توسعة الخليفة الأموي الوليد بن عبد الملك التي نفّذها واليه على المدينة عمر بن عبد العزيز.",
+        "تعلو الحجرةَ النبوية القبةُ الخضراء؛ أُعيد بناء القبة الحالية في عهد السلطان العثماني محمود الثاني سنة ١٨١٨م، وطُليت بالأخضر أول مرة سنة ١٨٣٧م.",
+        "بدأت التوسعة السعودية الثانية عام ١٩٨٥م، ثم رُكّبت في الساحات ٢٥٠ مظلة متحركة تظلّل نحو ١٤٣ ألف م². وللمسجد اليوم عشر مآذن، ويتسع لنحو مليون مصلٍّ."
+      ],
+      "en": [
+        "The Prophet ﷺ founded the mosque in 1 AH (622 CE) after arriving in Madinah on the Hijrah, and took part in building it himself. His house stood beside it, and he is buried there. Today it stands at the heart of the city, surrounded by the central area.",
+        "It was enlarged many times over the centuries; a major early expansion was ordered by the Umayyad caliph al-Walid I and carried out by his governor of Madinah, Umar ibn Abd al-Aziz.",
+        "The Green Dome rises over the Prophet’s chamber. The present dome was rebuilt under the Ottoman sultan Mahmud II in 1818 and was first painted green in 1837.",
+        "The second Saudi expansion began in 1985; later, 250 retractable umbrellas were installed to shade about 143,000 m² of the plazas. The mosque now has ten minarets and holds around a million worshippers."
+      ]
+    },
+    "facts": [
+      {
+        "label": {
+          "ar": "التأسيس",
+          "en": "Founded"
+        },
+        "value": {
+          "ar": "١ هـ / ٦٢٢م",
+          "en": "1 AH / 622 CE"
+        }
+      },
+      {
+        "label": {
+          "ar": "المآذن",
+          "en": "Minarets"
+        },
+        "value": {
+          "ar": "١٠",
+          "en": "10"
+        }
+      },
+      {
+        "label": {
+          "ar": "مظلات الساحات",
+          "en": "Plaza umbrellas"
+        },
+        "value": {
+          "ar": "٢٥٠ مظلة",
+          "en": "250"
+        }
+      },
+      {
+        "label": {
+          "ar": "الطاقة الاستيعابية",
+          "en": "Capacity"
+        },
+        "value": {
+          "ar": "≈ مليون مصلٍّ",
+          "en": "≈ 1 million"
+        }
+      }
+    ],
+    "modelNote": {
+      "ar": "نموذج مبسّط جدًا للعبة: كتلة المسجد وساحاته ومظلاته ومآذنه العشر والقبة الخضراء بأحجام وتوزيع تقريبيين. لا يمثّل التفاصيل المعمارية، ولا يتضمن الروضة الشريفة ولا الحجرة النبوية احترامًا للمكان.",
+      "en": "A very simplified game model: the mosque block, plazas, umbrellas, ten minarets and the Green Dome at approximate sizes and positions. It does not show architectural detail, and leaves out the Rawdah and the Prophet’s chamber out of respect."
+    },
+    "visitTip": {
+      "ar": "راعِ آداب المسجد وتعليمات الجهات المنظِّمة في الموقع. في اللعبة تتجوّل في الساحات وتحت المظلات فقط.",
+      "en": "Observe mosque etiquette and the organisers’ instructions on site. In the game you walk the plazas and umbrellas only."
+    },
+    "interior": "courtyard",
+    "keywords": [
+      "المسجد النبوي",
+      "مسجد النبوي",
+      "النبوي",
+      "الحرم",
+      "الحرم النبوي",
+      "القبه الخضراء",
+      "القبة الخضراء",
+      "مظلات",
+      "مظله",
+      "الروضه",
+      "الروضة",
+      "prophet",
+      "nabawi",
+      "haram",
+      "green dome",
+      "umbrella"
+    ],
+    "nameWords": [
+      "مسجد",
+      "نبوي",
+      "mosque",
+      "prophet",
+      "nabawi"
+    ],
+    "quiz": [
+      {
+        "id": "haram-1",
+        "q": {
+          "ar": "كم عدد المظلات المتحركة في ساحات المسجد النبوي؟",
+          "en": "How many retractable umbrellas shade the Prophet’s Mosque plazas?"
+        },
+        "options": [
+          {
+            "ar": "٥٠",
+            "en": "50"
+          },
+          {
+            "ar": "١٢٠",
+            "en": "120"
+          },
+          {
+            "ar": "٢٥٠",
+            "en": "250"
+          },
+          {
+            "ar": "١٠٠٠",
+            "en": "1,000"
+          }
+        ],
+        "answer": 2,
+        "explain": {
+          "ar": "تظلّل ٢٥٠ مظلة نحو ١٤٣ ألف م² من الساحات.",
+          "en": "250 umbrellas shade about 143,000 m² of the plazas."
+        }
+      },
+      {
+        "id": "haram-2",
+        "q": {
+          "ar": "متى طُليت القبة الخضراء باللون الأخضر أول مرة؟",
+          "en": "When was the Green Dome first painted green?"
+        },
+        "options": [
+          {
+            "ar": "١٥١٧م",
+            "en": "1517"
+          },
+          {
+            "ar": "١٨٣٧م",
+            "en": "1837"
+          },
+          {
+            "ar": "١٩٢٥م",
+            "en": "1925"
+          },
+          {
+            "ar": "١٩٨٥م",
+            "en": "1985"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "ar": "أُعيد بناء القبة سنة ١٨١٨م وطُليت بالأخضر أول مرة سنة ١٨٣٧م.",
+          "en": "The dome was rebuilt in 1818 and first painted green in 1837."
+        }
+      },
+      {
+        "id": "haram-3",
+        "q": {
+          "ar": "من الوالي الذي نفّذ توسعة الخليفة الوليد بن عبد الملك للمسجد النبوي؟",
+          "en": "Which governor carried out Caliph al-Walid I’s expansion of the mosque?"
+        },
+        "options": [
+          {
+            "ar": "عمر بن عبد العزيز",
+            "en": "Umar ibn Abd al-Aziz"
+          },
+          {
+            "ar": "خالد بن الوليد",
+            "en": "Khalid ibn al-Walid"
+          },
+          {
+            "ar": "هارون الرشيد",
+            "en": "Harun al-Rashid"
+          },
+          {
+            "ar": "صلاح الدين",
+            "en": "Saladin"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "ar": "نفّذها عمر بن عبد العزيز حين كان واليًا على المدينة.",
+          "en": "Umar ibn Abd al-Aziz carried it out as governor of Madinah."
+        }
+      }
+    ]
+  },
+  {
+    "id": "quba",
+    "name": {
+      "ar": "مسجد قباء",
+      "en": "Quba Mosque"
+    },
+    "tagline": {
+      "ar": "أول مسجد بُني في الإسلام",
+      "en": "The first mosque built in Islam"
+    },
+    "kind": {
+      "ar": "مسجد تاريخي",
+      "en": "Historic mosque"
+    },
+    "coords": {
+      "lat": 24.43917,
+      "lng": 39.61722
+    },
+    "radiusM": 350,
+    "rotY": 0,
+    "footprint": 4.2,
+    "qrCode": "MCMS-QUBA",
+    "accent": "#f3efe6",
+    "history": {
+      "ar": [
+        "يُعدّ مسجد قباء أول مسجد أُسّس في الإسلام؛ أسّسه النبي ﷺ عند وصوله إلى قباء في طريق هجرته من مكة إلى المدينة سنة ١ هـ (٦٢٢م)، وكانت قباء يومها قرية خارج المدينة قبل أن يمتد العمران إليها.",
+        "تتابعت عليه أعمال التجديد عبر القرون، وتُنسب إضافة أول مئذنة له إلى عهد الخليفة عمر بن عبد العزيز.",
+        "المبنى الحالي أُعيد بناؤه بالكامل في عهد الملك فهد؛ وُضع حجر الأساس عام ١٩٨٤م وافتُتح عام ١٩٨٦م بتصميم المعماري المصري عبد الواحد الوكيل، مع الحفاظ على طابع العمارة المدنية: القباب البيضاء والواجهات البسيطة. ويتميّز بأربع مآذن في أركانه وعدد كبير من القباب، وفناء مرصوف بالرخام الأسود والأحمر والأبيض.",
+        "ورد في الحديث فضلُ الصلاة فيه وأنها تعدل أجر عمرة. وفي عام ٢٠٢٢م أُعلن عن أكبر توسعة في تاريخه ضمن مشروع يحمل اسم الملك سلمان بن عبد العزيز."
+      ],
+      "en": [
+        "Quba Mosque is regarded as the first mosque founded in Islam. The Prophet ﷺ established it on arriving at Quba during his migration from Makkah to Madinah in 1 AH (622 CE); Quba was then a village outside the city.",
+        "It was renovated many times over the centuries; its first minaret is attributed to the era of Caliph Umar ibn Abd al-Aziz.",
+        "Today’s building is a complete reconstruction under King Fahd: the foundation stone was laid in 1984 and it opened in 1986, designed by Egyptian architect Abdel-Wahed El-Wakil, keeping the Madinan style of white domes and modest façades. It has four corner minarets, many domes, and a courtyard paved in black, red and white marble.",
+        "Hadith literature mentions the virtue of praying here, equating it with the reward of an Umrah. In 2022 the largest expansion in its history was announced, a project named after King Salman bin Abdulaziz."
+      ]
+    },
+    "facts": [
+      {
+        "label": {
+          "ar": "التأسيس",
+          "en": "Founded"
+        },
+        "value": {
+          "ar": "١ هـ / ٦٢٢م",
+          "en": "1 AH / 622 CE"
+        }
+      },
+      {
+        "label": {
+          "ar": "المبنى الحالي",
+          "en": "Current building"
+        },
+        "value": {
+          "ar": "١٩٨٦م",
+          "en": "1986"
+        }
+      },
+      {
+        "label": {
+          "ar": "المآذن",
+          "en": "Minarets"
+        },
+        "value": {
+          "ar": "٤",
+          "en": "4"
+        }
+      },
+      {
+        "label": {
+          "ar": "المعماري",
+          "en": "Architect"
+        },
+        "value": {
+          "ar": "عبد الواحد الوكيل",
+          "en": "Abdel-Wahed El-Wakil"
+        }
+      }
+    ],
+    "modelNote": {
+      "ar": "نموذج مبسّط للعبة يستلهم السمات العامة (المآذن الأربع، القباب البيضاء، الفناء). عدد القباب وتفاصيل الواجهات مبسّطة وليست إعادة بناء دقيقة.",
+      "en": "A simplified game model inspired by the general features (four minarets, white domes, courtyard). Dome count and façade details are simplified — not an accurate reconstruction."
+    },
+    "visitTip": {
+      "ar": "يقع جنوب المسجد النبوي بنحو ٣٫٥ كم.",
+      "en": "About 3.5 km south of the Prophet’s Mosque."
+    },
+    "interior": "simplified",
+    "quiz": [
+      {
+        "id": "quba-1",
+        "q": {
+          "ar": "ما أول مسجد أُسّس في الإسلام؟",
+          "en": "Which was the first mosque founded in Islam?"
+        },
+        "options": [
+          {
+            "ar": "مسجد قباء",
+            "en": "Quba Mosque"
+          },
+          {
+            "ar": "المسجد النبوي",
+            "en": "The Prophet’s Mosque"
+          },
+          {
+            "ar": "مسجد القبلتين",
+            "en": "Qiblatain Mosque"
+          },
+          {
+            "ar": "مسجد الجمعة",
+            "en": "Al-Jumu‘ah Mosque"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "ar": "أسّسه النبي ﷺ عند وصوله إلى قباء في الهجرة.",
+          "en": "The Prophet ﷺ founded it on reaching Quba during the Hijrah."
+        }
+      },
+      {
+        "id": "quba-2",
+        "q": {
+          "ar": "في أي عام افتُتح المبنى الحالي لمسجد قباء؟",
+          "en": "In which year did the current Quba Mosque building open?"
+        },
+        "options": [
+          {
+            "ar": "١٩٥٦م",
+            "en": "1956"
+          },
+          {
+            "ar": "١٩٨٦م",
+            "en": "1986"
+          },
+          {
+            "ar": "٢٠٠٦م",
+            "en": "2006"
+          },
+          {
+            "ar": "٢٠٢٢م",
+            "en": "2022"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "ar": "بدأت إعادة البناء عام ١٩٨٤م وافتُتح المسجد عام ١٩٨٦م.",
+          "en": "Reconstruction began in 1984 and the mosque opened in 1986."
+        }
+      },
+      {
+        "id": "quba-3",
+        "q": {
+          "ar": "كم عدد مآذن مسجد قباء اليوم؟",
+          "en": "How many minarets does Quba Mosque have today?"
+        },
+        "options": [
+          {
+            "ar": "مئذنتان",
+            "en": "Two"
+          },
+          {
+            "ar": "أربع مآذن",
+            "en": "Four"
+          },
+          {
+            "ar": "ست مآذن",
+            "en": "Six"
+          },
+          {
+            "ar": "مئذنة واحدة",
+            "en": "One"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "ar": "أربع مآذن تُحدّد أركان المبنى.",
+          "en": "Four minarets mark the corners of the building."
+        }
+      }
+    ],
+    "category": "mosque",
+    "keywords": [
+      "قباء",
+      "قبا",
+      "quba",
+      "qubaa"
+    ],
+    "nameWords": [
+      "قباء",
+      "quba",
+      "مسجد",
+      "mosque"
+    ]
+  },
+  {
+    "id": "qiblatain",
+    "name": {
+      "ar": "مسجد القبلتين",
+      "en": "Qiblatain Mosque"
+    },
+    "tagline": {
+      "ar": "حيث تحوّلت القبلة",
+      "en": "Where the qibla changed"
+    },
+    "kind": {
+      "ar": "مسجد تاريخي",
+      "en": "Historic mosque"
+    },
+    "coords": {
+      "lat": 24.4840861,
+      "lng": 39.5789083
+    },
+    "radiusM": 300,
+    "rotY": 0,
+    "footprint": 3.6,
+    "qrCode": "MCMS-QIBLATAIN",
+    "accent": "#f6f2ea",
+    "history": {
+      "ar": [
+        "يرتبط مسجد القبلتين بحادثة تحويل القبلة من بيت المقدس إلى الكعبة المشرّفة في السنة الثانية للهجرة؛ إذ تحوّل المصلّون فيه أثناء الصلاة من جهة إلى أخرى، فصُلّيت فيه صلاة واحدة إلى قبلتين، ومن هنا جاء اسمه. ويُعرف تاريخيًا بمسجد بني سَلِمة.",
+        "يقع شمال غرب المسجد النبوي بنحو خمسة كيلومترات. وأُعيد بناؤه بالكامل عام ١٩٨٧م في عهد الملك فهد بتصميم يقوم على التناظر، بمئذنتين وقبتين.",
+        "خلال إعادة البناء أُزيل المحراب القديم المتجه إلى بيت المقدس وبقي المحراب المتجه إلى مكة، ووُضعت علامة صغيرة تُذكّر بالاتجاه الأول. ويتكوّن المصلّى من أقواس تحمل أقبية موازية لجدار القبلة تتوسّطها القبتان على محور واحد نحو مكة.",
+        "في أكتوبر ٢٠٢٥م صدر توجيه بفتح المسجد على مدار ٢٤ ساعة تيسيرًا على المصلين والزوار."
+      ],
+      "en": [
+        "Qiblatain Mosque is linked to the change of the qibla from Jerusalem to the Ka‘bah in 2 AH: worshippers turned from one direction to the other during a prayer, so a single prayer was offered towards two qiblas — hence the name “Mosque of the Two Qiblas”. It is historically known as the Mosque of Banu Salimah.",
+        "It lies about 5 km north-west of the Prophet’s Mosque. It was completely rebuilt in 1987 under King Fahd in a symmetrical design with two minarets and two domes.",
+        "During reconstruction the old mihrab facing Jerusalem was removed and the one facing Makkah kept, with a small marker recalling the first direction. The prayer hall’s arches carry vaults parallel to the qibla wall, interrupted by the two domes on an axis towards Makkah.",
+        "In October 2025 a directive was issued to keep the mosque open 24 hours a day for worshippers and visitors."
+      ]
+    },
+    "facts": [
+      {
+        "label": {
+          "ar": "تحويل القبلة",
+          "en": "Qibla change"
+        },
+        "value": {
+          "ar": "٢ هـ / ٦٢٤م",
+          "en": "2 AH / 624 CE"
+        }
+      },
+      {
+        "label": {
+          "ar": "إعادة البناء",
+          "en": "Rebuilt"
+        },
+        "value": {
+          "ar": "١٩٨٧م",
+          "en": "1987"
+        }
+      },
+      {
+        "label": {
+          "ar": "المآذن",
+          "en": "Minarets"
+        },
+        "value": {
+          "ar": "٢",
+          "en": "2"
+        }
+      },
+      {
+        "label": {
+          "ar": "القباب",
+          "en": "Domes"
+        },
+        "value": {
+          "ar": "٢",
+          "en": "2"
+        }
+      }
+    ],
+    "modelNote": {
+      "ar": "نموذج مبسّط للعبة يستلهم التناظر والمئذنتين والقبتين. النسب والزخارف مبسّطة وليست إعادة بناء دقيقة.",
+      "en": "A simplified game model inspired by the symmetry, twin minarets and twin domes. Proportions and ornament are simplified — not an accurate reconstruction."
+    },
+    "visitTip": {
+      "ar": "يقع على طريق خالد بن الوليد شمال غرب المدينة.",
+      "en": "On Khalid ibn al-Walid Road, north-west Madinah."
+    },
+    "interior": "simplified",
+    "quiz": [
+      {
+        "id": "qib-1",
+        "q": {
+          "ar": "لماذا سُمّي مسجد القبلتين بهذا الاسم؟",
+          "en": "Why is it called the Mosque of the Two Qiblas?"
+        },
+        "options": [
+          {
+            "ar": "لأن له بابين رئيسيين",
+            "en": "It has two main gates"
+          },
+          {
+            "ar": "لأنه شهد تحوّل القبلة أثناء الصلاة",
+            "en": "The qibla changed there during a prayer"
+          },
+          {
+            "ar": "لأنه بُني في مدينتين",
+            "en": "It was built in two cities"
+          },
+          {
+            "ar": "لأنه يضم محرابين اليوم",
+            "en": "It has two mihrabs today"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "ar": "صُلّيت فيه صلاة واحدة إلى قبلتين. أما المحراب القديم فأُزيل عند إعادة البناء.",
+          "en": "One prayer was offered towards two qiblas. The old mihrab was removed during the rebuild."
+        }
+      },
+      {
+        "id": "qib-2",
+        "q": {
+          "ar": "في أي سنة هجرية تحوّلت القبلة؟",
+          "en": "In which Hijri year did the qibla change?"
+        },
+        "options": [
+          {
+            "ar": "١ هـ",
+            "en": "1 AH"
+          },
+          {
+            "ar": "٢ هـ",
+            "en": "2 AH"
+          },
+          {
+            "ar": "٤ هـ",
+            "en": "4 AH"
+          },
+          {
+            "ar": "٦ هـ",
+            "en": "6 AH"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "ar": "في السنة الثانية للهجرة.",
+          "en": "In the second year after the Hijrah."
+        }
+      },
+      {
+        "id": "qib-3",
+        "q": {
+          "ar": "كم قبة يضم مسجد القبلتين الحالي؟",
+          "en": "How many domes does today’s Qiblatain Mosque have?"
+        },
+        "options": [
+          {
+            "ar": "قبة واحدة",
+            "en": "One"
+          },
+          {
+            "ar": "قبتان",
+            "en": "Two"
+          },
+          {
+            "ar": "أربع قباب",
+            "en": "Four"
+          },
+          {
+            "ar": "ست قباب",
+            "en": "Six"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "ar": "قبتان على محور واحد نحو مكة، ومئذنتان.",
+          "en": "Two domes on one axis towards Makkah, plus two minarets."
+        }
+      }
+    ],
+    "category": "mosque",
+    "keywords": [
+      "قبلتين",
+      "القبلتين",
+      "قبله",
+      "قبلة",
+      "qiblatain",
+      "qiblatayn",
+      "qibla",
+      "سلمه",
+      "سلمة"
+    ],
+    "nameWords": [
+      "قبلتين",
+      "qiblatain",
+      "qiblatayn",
+      "مسجد",
+      "mosque"
+    ]
+  },
+  {
+    "id": "uhud",
+    "name": {
+      "ar": "جبل أحد",
+      "en": "Mount Uhud"
+    },
+    "tagline": {
+      "ar": "جبل يحبّنا ونحبّه",
+      "en": "A mountain that loves us, and we love it"
+    },
+    "kind": {
+      "ar": "موقع طبيعي وتاريخي",
+      "en": "Natural & historic site"
+    },
+    "coords": {
+      "lat": 24.5036,
+      "lng": 39.6124
+    },
+    "radiusM": 1800,
+    "rotY": 0,
+    "footprint": 7,
+    "qrCode": "MCMS-UHUD",
+    "accent": "#b5573a",
+    "history": {
+      "ar": [
+        "جبل أحد جبل كبير يقع شمال المدينة المنورة، يمتد نحو سبعة كيلومترات ويرتفع قرابة ١٠٧٧ مترًا فوق سطح البحر، وتميل صخوره الجرانيتية إلى الحمرة فتبدو متوهجة عند الشروق والغروب.",
+        "عند سفحه وقعت غزوة أحد في شوال سنة ٣ هـ (٦٢٥م) بين المسلمين من أهل المدينة وجيش قريش القادم من مكة.",
+        "وضع النبي ﷺ خمسين من الرماة على تلّ صغير مقابل يُعرف اليوم بجبل الرماة، وأمرهم ألّا يغادروا مواقعهم. فلما ترك أكثرهم مواقعهم ظنًّا أن المعركة حُسمت، انكشف ظهر الجيش وتغيّر مجرى القتال؛ ولذلك تُروى هذه الحادثة درسًا في الانضباط والطاعة.",
+        "يضم الموقع مقبرة شهداء أحد، وفيها سيد الشهداء حمزة بن عبد المطلب رضي الله عنه. وقال النبي ﷺ عن الجبل: «هذا جبلٌ يحبّنا ونحبّه» (رواه البخاري)."
+      ],
+      "en": [
+        "Mount Uhud is a large mountain north of Madinah, about 7 km long and roughly 1,077 m above sea level. Its reddish granite seems to glow at sunrise and sunset.",
+        "At its foot the Battle of Uhud took place in Shawwal 3 AH (625 CE), between the Muslims of Madinah and the Quraysh army from Makkah.",
+        "The Prophet ﷺ stationed fifty archers on a small hill opposite — known today as Jabal al-Rumah, the Archers’ Hill — ordering them not to leave their posts. When most of them left, believing the battle won, the army’s flank was exposed and the battle turned; the episode is retold as a lesson in discipline.",
+        "The site includes the Martyrs of Uhud cemetery, where Hamza ibn Abd al-Muttalib is buried. The Prophet ﷺ said of it: “This is a mountain that loves us and is loved by us” (al-Bukhari)."
+      ]
+    },
+    "facts": [
+      {
+        "label": {
+          "ar": "الارتفاع",
+          "en": "Elevation"
+        },
+        "value": {
+          "ar": "≈ ١٠٧٧ م",
+          "en": "≈ 1,077 m"
+        }
+      },
+      {
+        "label": {
+          "ar": "الطول",
+          "en": "Length"
+        },
+        "value": {
+          "ar": "≈ ٧ كم",
+          "en": "≈ 7 km"
+        }
+      },
+      {
+        "label": {
+          "ar": "الغزوة",
+          "en": "Battle"
+        },
+        "value": {
+          "ar": "٣ هـ / ٦٢٥م",
+          "en": "3 AH / 625 CE"
+        }
+      },
+      {
+        "label": {
+          "ar": "الرماة",
+          "en": "Archers"
+        },
+        "value": {
+          "ar": "٥٠",
+          "en": "50"
+        }
+      }
+    ],
+    "modelNote": {
+      "ar": "تضاريس منخفضة التفاصيل للعبة: الجبل وجبل الرماة مُصغّران ومُقرّبان من بعضهما. سور المقبرة رمزي ولا يمثّل تفاصيلها.",
+      "en": "Low-detail game terrain: the mountain and Archers’ Hill are scaled down and placed closer together. The cemetery wall is symbolic and does not depict its details."
+    },
+    "visitTip": {
+      "ar": "أفضل وقت للزيارة الصباح الباكر أو قبيل الغروب.",
+      "en": "Best visited early morning or just before sunset."
+    },
+    "interior": "simplified",
+    "quiz": [
+      {
+        "id": "uhud-1",
+        "q": {
+          "ar": "في أي سنة هجرية وقعت غزوة أحد؟",
+          "en": "In which Hijri year did the Battle of Uhud take place?"
+        },
+        "options": [
+          {
+            "ar": "٢ هـ",
+            "en": "2 AH"
+          },
+          {
+            "ar": "٣ هـ",
+            "en": "3 AH"
+          },
+          {
+            "ar": "٥ هـ",
+            "en": "5 AH"
+          },
+          {
+            "ar": "٨ هـ",
+            "en": "8 AH"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "ar": "وقعت في شوال سنة ٣ هـ (٦٢٥م).",
+          "en": "It took place in Shawwal, 3 AH (625 CE)."
+        }
+      },
+      {
+        "id": "uhud-2",
+        "q": {
+          "ar": "كم عدد الرماة الذين وُضعوا على جبل الرماة؟",
+          "en": "How many archers were stationed on Archers’ Hill?"
+        },
+        "options": [
+          {
+            "ar": "٣٠",
+            "en": "30"
+          },
+          {
+            "ar": "٥٠",
+            "en": "50"
+          },
+          {
+            "ar": "١٠٠",
+            "en": "100"
+          },
+          {
+            "ar": "٧٠",
+            "en": "70"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "ar": "خمسون راميًا لحماية ظهر الجيش.",
+          "en": "Fifty archers, to protect the army’s flank."
+        }
+      },
+      {
+        "id": "uhud-3",
+        "q": {
+          "ar": "في أي اتجاه يقع جبل أحد من المدينة؟",
+          "en": "In which direction from Madinah is Mount Uhud?"
+        },
+        "options": [
+          {
+            "ar": "الشمال",
+            "en": "North"
+          },
+          {
+            "ar": "الجنوب",
+            "en": "South"
+          },
+          {
+            "ar": "الشرق",
+            "en": "East"
+          },
+          {
+            "ar": "الغرب",
+            "en": "West"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "ar": "يقع شمال المدينة — وتراه في مدينتك أعلى الخريطة.",
+          "en": "North of the city — top of the map in your miniature city."
+        }
+      }
+    ],
+    "category": "history",
+    "keywords": [
+      "احد",
+      "أحد",
+      "uhud",
+      "رماه",
+      "رماة",
+      "archer",
+      "عينين",
+      "حمزه",
+      "حمزة",
+      "شهداء",
+      "martyr"
+    ],
+    "nameWords": [
+      "احد",
+      "uhud",
+      "جبل",
+      "mount",
+      "mountain"
+    ]
+  },
+  {
+    "id": "hejaz",
+    "name": {
+      "ar": "متحف سكة الحجاز",
+      "en": "Hejaz Railway Museum"
+    },
+    "tagline": {
+      "ar": "المحطة الأخيرة لقطار الحجّاج",
+      "en": "The final stop of the pilgrims’ railway"
+    },
+    "kind": {
+      "ar": "متحف ومحطة تاريخية",
+      "en": "Museum & historic station"
+    },
+    "coords": {
+      "lat": 24.461981,
+      "lng": 39.60097
+    },
+    "radiusM": 300,
+    "rotY": 0,
+    "footprint": 4.6,
+    "qrCode": "MCMS-HEJAZ",
+    "accent": "#3a3a3c",
+    "history": {
+      "ar": [
+        "أُنشئ خط سكة حديد الحجاز في العهد العثماني لربط دمشق بالمدينة المنورة وتيسير رحلة الحجاج، بعد أن كانت القوافل تقطعها في نحو أربعين يومًا، فاختصرها القطار إلى أيام معدودة.",
+        "كانت محطة المدينة المحطة الأخيرة على الخط، وأُقيم حفل افتتاحها في ١ سبتمبر ١٩٠٨م (١٣٢٦ هـ). ويُذكر أن إنارتها يومها كانت أول استخدام للكهرباء في المدينة.",
+        "يتميّز مبناها الرئيس بواجهة من ١٧ قوسًا زخرفيًا، وبُنيت محطات المنطقة من الحجر البركاني المحلي. كان المبنى طابقًا واحدًا عند الافتتاح ثم أُضيف الطابق الثاني عام ١٩١٤م، وضمّ المجمّع حظيرة للقاطرات وقرص دوران وورش صيانة وخزانات مياه، وبجواره مسجد العنبرية.",
+        "تعطّل الخط خلال الحرب العالمية الأولى، ثم تحوّل مجمّع المحطة إلى متحف يعرض قاطرات وعربات مُرمّمة وأدوات العاملين وتاريخ المدينة، وافتُتح متحف سكة الحجاز عام ٢٠٠٦م. (تحقّق من مواعيد الزيارة قبل الذهاب، فقد يُغلق للتطوير.)"
+      ],
+      "en": [
+        "The Hejaz Railway was built in the Ottoman era to link Damascus with Madinah and ease the pilgrims’ journey — a trip that took caravans about forty days was cut to a matter of days.",
+        "Madinah was the final station on the line; its inauguration was held on 1 September 1908 (1326 AH). Its illumination that day is described as the first use of electricity in the city.",
+        "The main building has a façade of 17 decorative arches, and stations in the region were built from local volcanic stone. It had one storey at the opening; a second was added in 1914. The complex had an engine shed, a turntable, repair workshops and water tanks, with Al-Anbariyah Mosque beside it.",
+        "The line was disrupted during the First World War. The station complex later became a museum of restored locomotives, carriages, workers’ tools and the city’s history; the Hejaz Railway Museum opened in 2006. (Check opening times before visiting — it may close for refurbishment.)"
+      ]
+    },
+    "facts": [
+      {
+        "label": {
+          "ar": "افتتاح المحطة",
+          "en": "Station opened"
+        },
+        "value": {
+          "ar": "١٩٠٨م",
+          "en": "1908"
+        }
+      },
+      {
+        "label": {
+          "ar": "الخط",
+          "en": "Route"
+        },
+        "value": {
+          "ar": "دمشق ← المدينة",
+          "en": "Damascus → Madinah"
+        }
+      },
+      {
+        "label": {
+          "ar": "أقواس الواجهة",
+          "en": "Façade arches"
+        },
+        "value": {
+          "ar": "١٧",
+          "en": "17"
+        }
+      },
+      {
+        "label": {
+          "ar": "افتتاح المتحف",
+          "en": "Museum opened"
+        },
+        "value": {
+          "ar": "٢٠٠٦م",
+          "en": "2006"
+        }
+      }
+    ],
+    "modelNote": {
+      "ar": "نموذج مبسّط: المبنى الحجري ذو الأقواس السبعة عشر والقاطرة مُستلهمان من المحطة، أما توزيع القاعات والمعروضات داخل اللعبة فتصميم تخيّلي تعليمي.",
+      "en": "Simplified model: the 17-arch stone building and locomotive are inspired by the station; the hall layout and exhibits inside the game are an imagined educational design."
+    },
+    "visitTip": {
+      "ar": "يقع جنوب غرب المسجد النبوي بنحو كيلومتر.",
+      "en": "About 1 km south-west of the Prophet’s Mosque."
+    },
+    "interior": "full",
+    "quiz": [
+      {
+        "id": "hejaz-1",
+        "q": {
+          "ar": "في أي عام افتُتحت محطة المدينة على خط الحجاز؟",
+          "en": "In which year did Madinah station open on the Hejaz line?"
+        },
+        "options": [
+          {
+            "ar": "١٨٧٦م",
+            "en": "1876"
+          },
+          {
+            "ar": "١٩٠٨م",
+            "en": "1908"
+          },
+          {
+            "ar": "١٩٣٢م",
+            "en": "1932"
+          },
+          {
+            "ar": "١٩٥٠م",
+            "en": "1950"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "ar": "أُقيم حفل الافتتاح في ١ سبتمبر ١٩٠٨م.",
+          "en": "The inauguration was held on 1 September 1908."
+        }
+      },
+      {
+        "id": "hejaz-2",
+        "q": {
+          "ar": "من أي مدينة كان ينطلق خط سكة حديد الحجاز؟",
+          "en": "Which city did the Hejaz Railway start from?"
+        },
+        "options": [
+          {
+            "ar": "القاهرة",
+            "en": "Cairo"
+          },
+          {
+            "ar": "بغداد",
+            "en": "Baghdad"
+          },
+          {
+            "ar": "دمشق",
+            "en": "Damascus"
+          },
+          {
+            "ar": "جدة",
+            "en": "Jeddah"
+          }
+        ],
+        "answer": 2,
+        "explain": {
+          "ar": "امتد الخط من دمشق جنوبًا حتى المدينة المنورة.",
+          "en": "The line ran south from Damascus to Madinah."
+        }
+      },
+      {
+        "id": "hejaz-3",
+        "q": {
+          "ar": "كم قوسًا تزيّن واجهة مبنى محطة المدينة؟",
+          "en": "How many arches decorate the Madinah station façade?"
+        },
+        "options": [
+          {
+            "ar": "٧",
+            "en": "7"
+          },
+          {
+            "ar": "١٢",
+            "en": "12"
+          },
+          {
+            "ar": "١٧",
+            "en": "17"
+          },
+          {
+            "ar": "٢٤",
+            "en": "24"
+          }
+        ],
+        "answer": 2,
+        "explain": {
+          "ar": "سبعة عشر قوسًا — عُدّها في نموذج مدينتك!",
+          "en": "Seventeen — count them on your city model!"
+        }
+      }
+    ],
+    "category": "museum",
+    "keywords": [
+      "حجاز",
+      "الحجاز",
+      "سكه",
+      "سكة",
+      "قاطره",
+      "قاطرة",
+      "hejaz",
+      "hijaz",
+      "railway",
+      "locomotive",
+      "محطه الحجاز",
+      "محطة الحجاز"
+    ],
+    "nameWords": [
+      "حجاز",
+      "hejaz",
+      "hijaz",
+      "سكه",
+      "railway",
+      "متحف",
+      "museum"
+    ]
+  },
+  {
+    "id": "ghamama",
+    "category": "mosque",
+    "name": {
+      "ar": "مسجد الغمامة",
+      "en": "Al-Ghamama Mosque"
+    },
+    "tagline": {
+      "ar": "ست قباب من البازلت قرب الحرم",
+      "en": "Six domes of basalt beside the Haram"
+    },
+    "kind": {
+      "ar": "مسجد تاريخي",
+      "en": "Historic mosque"
+    },
+    "coords": {
+      "lat": 24.465778,
+      "lng": 39.606972
+    },
+    "radiusM": 150,
+    "rotY": 0,
+    "footprint": 2.2,
+    "scale": 0.8,
+    "qrCode": "MCMS-GHAMAMA",
+    "accent": "#3d3b3d",
+    "history": {
+      "ar": [
+        "يقع مسجد الغمامة على بُعد نحو ٥٠٠ م غرب باب السلام في المسجد النبوي، وهو من أقدم مساجد المدينة ومن معالمها التاريخية.",
+        "تذكر الروايات أن النبي ﷺ صلّى في موضعه صلاة الاستسقاء حين قلّ المطر. وبُني فيه مسجد صغير حين كان عمر بن عبد العزيز واليًا على المدينة، وجدّده لاحقًا السلطان العثماني عبد المجيد الأول.",
+        "قاعة الصلاة مستطيلة نحو ٣٠ × ١٥ م تعلوها ست قباب أكبرها فوق المحراب، وتجمع واجهاته بين حجر البازلت الداكن والجص الأبيض."
+      ],
+      "en": [
+        "Al-Ghamama Mosque stands about 500 m west of Bab al-Salam of the Prophet’s Mosque. It is one of the oldest mosques in Madinah and one of its historic landmarks.",
+        "Tradition holds that the Prophet ﷺ led the prayer for rain (istisqa) on this spot when rain was scarce. A small mosque was built here when Umar ibn Abd al-Aziz was governor of Madinah, and it was later renovated by the Ottoman sultan Abdulmejid I.",
+        "The prayer hall is a rectangle of about 30 × 15 m under six domes, the largest above the mihrab; its façades combine dark basalt with white lime plaster."
+      ]
+    },
+    "facts": [
+      {
+        "label": {
+          "ar": "الموقع",
+          "en": "Location"
+        },
+        "value": {
+          "ar": "≈ ٥٠٠ م غرب باب السلام",
+          "en": "≈ 500 m west of Bab al-Salam"
+        }
+      },
+      {
+        "label": {
+          "ar": "القباب",
+          "en": "Domes"
+        },
+        "value": {
+          "ar": "٦",
+          "en": "6"
+        }
+      },
+      {
+        "label": {
+          "ar": "قاعة الصلاة",
+          "en": "Prayer hall"
+        },
+        "value": {
+          "ar": "≈ ٣٠ × ١٥ م",
+          "en": "≈ 30 × 15 m"
+        }
+      },
+      {
+        "label": {
+          "ar": "أول بناء",
+          "en": "First built"
+        },
+        "value": {
+          "ar": "في ولاية عمر بن عبد العزيز",
+          "en": "Under governor Umar ibn Abd al-Aziz"
+        }
+      }
+    ],
+    "modelNote": {
+      "ar": "نموذج مبسّط: قاعة مستطيلة بست قباب وواجهات من البازلت والجص الأبيض؛ الأبعاد والتفاصيل تقريبية.",
+      "en": "Simplified model: a rectangular hall with six domes and basalt-and-white façades; sizes and details are approximate."
+    },
+    "visitTip": {
+      "ar": "قريب جدًا من المسجد النبوي، ويسهل ضمّه مع مسجدَي أبي بكر الصديق وعلي بن أبي طالب القريبين في جولة مشي قصيرة.",
+      "en": "Very close to the Prophet’s Mosque; easy to combine with the nearby Abu Bakr and Ali mosques on a short walk."
+    },
+    "interior": "none",
+    "keywords": [
+      "غمامه",
+      "غمامة",
+      "الغمامه",
+      "استسقاء",
+      "ghamama",
+      "ghamamah",
+      "istisqa"
+    ],
+    "nameWords": [
+      "غمامه",
+      "مسجد",
+      "ghamama",
+      "mosque"
+    ],
+    "quiz": [
+      {
+        "id": "ghamama-1",
+        "q": {
+          "ar": "كم قبة تعلو مسجد الغمامة؟",
+          "en": "How many domes crown Al-Ghamama Mosque?"
+        },
+        "options": [
+          {
+            "ar": "٢",
+            "en": "2"
+          },
+          {
+            "ar": "٤",
+            "en": "4"
+          },
+          {
+            "ar": "٦",
+            "en": "6"
+          },
+          {
+            "ar": "١٢",
+            "en": "12"
+          }
+        ],
+        "answer": 2,
+        "explain": {
+          "ar": "تعلوه ست قباب أكبرها فوق المحراب.",
+          "en": "Six domes, the largest above the mihrab."
+        }
+      },
+      {
+        "id": "ghamama-2",
+        "q": {
+          "ar": "بأي صلاة يرتبط موضع مسجد الغمامة في الروايات؟",
+          "en": "Which prayer is the site of Al-Ghamama linked to in tradition?"
+        },
+        "options": [
+          {
+            "ar": "صلاة الاستسقاء",
+            "en": "The prayer for rain"
+          },
+          {
+            "ar": "صلاة الكسوف",
+            "en": "The eclipse prayer"
+          },
+          {
+            "ar": "صلاة الجمعة الأولى",
+            "en": "The first Friday prayer"
+          },
+          {
+            "ar": "صلاة التراويح",
+            "en": "Tarawih"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "ar": "تذكر الروايات أن النبي ﷺ صلّى فيه صلاة الاستسقاء.",
+          "en": "Tradition says the Prophet ﷺ prayed for rain here."
+        }
+      },
+      {
+        "id": "ghamama-3",
+        "q": {
+          "ar": "في أي جهة من المسجد النبوي يقع مسجد الغمامة؟",
+          "en": "On which side of the Prophet’s Mosque is Al-Ghamama?"
+        },
+        "options": [
+          {
+            "ar": "الغرب",
+            "en": "West"
+          },
+          {
+            "ar": "الشرق",
+            "en": "East"
+          },
+          {
+            "ar": "الشمال",
+            "en": "North"
+          },
+          {
+            "ar": "بعيدًا في الجنوب",
+            "en": "Far to the south"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "ar": "يقع على بُعد نحو ٥٠٠ م غرب باب السلام.",
+          "en": "About 500 m west of Bab al-Salam."
+        }
+      }
+    ]
+  },
+  {
+    "id": "baqi",
+    "category": "history",
+    "alwaysBuilt": true,
+    "name": {
+      "ar": "البقيع",
+      "en": "Al-Baqi"
+    },
+    "tagline": {
+      "ar": "بقيع الغرقد — أقدم مقابر المدينة",
+      "en": "Baqi al-Gharqad — Madinah’s oldest cemetery"
+    },
+    "kind": {
+      "ar": "مقبرة تاريخية",
+      "en": "Historic cemetery"
+    },
+    "coords": {
+      "lat": 24.4672,
+      "lng": 39.616
+    },
+    "radiusM": 300,
+    "rotY": 0,
+    "footprint": 3.0,
+    "qrCode": "MCMS-BAQI",
+    "accent": "#9c8b6e",
+    "history": {
+      "ar": [
+        "بقيع الغرقد أقدم مقابر المدينة وأشهرها، ويقع جنوب شرق المسجد النبوي، وهو مقبرة أهل المدينة منذ عهد النبي ﷺ.",
+        "دُفن فيه كثير من الصحابة رضي الله عنهم، منهم الخليفة عثمان بن عفان وإبراهيم ابن النبي ﷺ. ويذكر دليل «زوروا المدينة» أن من دُفن فيه من الصحابة يُقدَّرون بنحو عشرة آلاف.",
+        "زيارة المقابر للعبرة والدعاء للأموات وتُراعى فيها السكينة؛ لذلك نعرض في اللعبة السور والمدخل فقط، دون أي تمثيل للقبور."
+      ],
+      "en": [
+        "Baqi al-Gharqad is Madinah’s oldest and best-known cemetery. It lies south-east of the Prophet’s Mosque and has been the city’s cemetery since the Prophet’s ﷺ time.",
+        "Many Companions are buried here, among them Caliph Uthman ibn Affan and Ibrahim, the son of the Prophet ﷺ. The Visit Madinah guide estimates the Companions buried here at about ten thousand.",
+        "Cemeteries are visited for reflection and to pray for the dead, in calm. That is why the game shows only the outer wall and entrance, with no depiction of graves."
+      ]
+    },
+    "facts": [
+      {
+        "label": {
+          "ar": "الموقع",
+          "en": "Location"
+        },
+        "value": {
+          "ar": "جنوب شرق المسجد النبوي",
+          "en": "South-east of the Prophet’s Mosque"
+        }
+      },
+      {
+        "label": {
+          "ar": "منذ",
+          "en": "In use since"
+        },
+        "value": {
+          "ar": "العهد النبوي",
+          "en": "The Prophet’s ﷺ time"
+        }
+      },
+      {
+        "label": {
+          "ar": "من المدفونين فيه",
+          "en": "Buried here"
+        },
+        "value": {
+          "ar": "عثمان بن عفان رضي الله عنه",
+          "en": "Uthman ibn Affan"
+        }
+      }
+    ],
+    "modelNote": {
+      "ar": "احترامًا للمكان نعرض السور الخارجي والمدخل فقط، ولا تُمثَّل القبور. الشكل والمساحة تقريبيان.",
+      "en": "Out of respect the model shows only the outer wall and entrance; graves are not depicted. Shape and size are approximate."
+    },
+    "visitTip": {
+      "ar": "راعِ السكينة وآداب زيارة المقابر، وتحقّق من أوقات الزيارة المعلنة في الموقع.",
+      "en": "Keep calm and observe the etiquette of visiting cemeteries; check the visiting times posted on site."
+    },
+    "interior": "none",
+    "keywords": [
+      "بقيع",
+      "البقيع",
+      "غرقد",
+      "baqi",
+      "baqee",
+      "gharqad",
+      "cemetery",
+      "مقبره",
+      "مقبرة"
+    ],
+    "nameWords": [
+      "بقيع",
+      "baqi"
+    ],
+    "quiz": [
+      {
+        "id": "baqi-1",
+        "q": {
+          "ar": "أيّ الخلفاء الراشدين دُفن في البقيع؟",
+          "en": "Which of the Rightly-Guided Caliphs is buried in al-Baqi?"
+        },
+        "options": [
+          {
+            "ar": "عثمان بن عفان",
+            "en": "Uthman ibn Affan"
+          },
+          {
+            "ar": "عمر بن الخطاب",
+            "en": "Umar ibn al-Khattab"
+          },
+          {
+            "ar": "أبو بكر الصديق",
+            "en": "Abu Bakr al-Siddiq"
+          },
+          {
+            "ar": "لا أحد منهم",
+            "en": "None of them"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "ar": "دُفن الخليفة عثمان بن عفان رضي الله عنه في البقيع.",
+          "en": "Caliph Uthman ibn Affan is buried in al-Baqi."
+        }
+      },
+      {
+        "id": "baqi-2",
+        "q": {
+          "ar": "في أي اتجاه من المسجد النبوي يقع البقيع؟",
+          "en": "In which direction from the Prophet’s Mosque is al-Baqi?"
+        },
+        "options": [
+          {
+            "ar": "جنوب شرق",
+            "en": "South-east"
+          },
+          {
+            "ar": "شمال غرب",
+            "en": "North-west"
+          },
+          {
+            "ar": "غرب",
+            "en": "West"
+          },
+          {
+            "ar": "شمال",
+            "en": "North"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "ar": "يقع جنوب شرق المسجد النبوي.",
+          "en": "It lies south-east of the Prophet’s Mosque."
+        }
+      }
+    ]
+  },
+  {
+    "id": "jumuah",
+    "category": "mosque",
+    "name": {
+      "ar": "مسجد الجمعة",
+      "en": "Al-Jumu‘ah Mosque"
+    },
+    "tagline": {
+      "ar": "موضع أول جمعة بعد الهجرة",
+      "en": "Where the first Friday prayer after the Hijrah was held"
+    },
+    "kind": {
+      "ar": "مسجد تاريخي",
+      "en": "Historic mosque"
+    },
+    "coords": {
+      "lat": 24.4455,
+      "lng": 39.615333
+    },
+    "radiusM": 200,
+    "rotY": 0,
+    "footprint": 2.2,
+    "scale": 0.8,
+    "qrCode": "MCMS-JUMUAH",
+    "accent": "#e9dfcc",
+    "history": {
+      "ar": [
+        "في طريق الهجرة مكث النبي ﷺ في قباء أيامًا، ثم خرج يوم الجمعة متجهًا إلى المدينة، فأدركته الصلاة في وادي رانوناء في ديار بني سالم بن عوف، فصلّى بمن معه أول جمعة بعد الهجرة، وفي موضعها بُني هذا المسجد.",
+        "يقع على بُعد نحو ٩٠٠ م شمال مسجد قباء. وفي عهد الملك فهد سنة ١٤١٢هـ أُعيد بناؤه ووُسّع على مساحة ١٦٣٠ م²، فصار يتسع لأكثر من ٦٥٠ مصليًا بعد أن كان لا يتسع لأكثر من سبعين.",
+        "له مئذنة واحدة رشيقة وقبة رئيسة وسط المصلى وأربع قباب صغيرة حولها، ويُعرف أيضًا بمسجد بني سالم ومسجد الوادي ومسجد عاتكة."
+      ],
+      "en": [
+        "On the Hijrah the Prophet ﷺ stayed in Quba for some days, then set out for Madinah on a Friday. The prayer time came as he reached Wadi Ranuna in the lands of Banu Salim ibn Awf, and he led the first Friday prayer after the Hijrah there; this mosque stands on that spot.",
+        "It lies about 900 m north of Quba Mosque. Under King Fahd, in 1412 AH, it was rebuilt and enlarged on 1,630 m², so it now holds more than 650 worshippers instead of about seventy.",
+        "It has one slender minaret, a main dome in the middle of the prayer hall and four small domes around it. It is also known as Masjid Bani Salim, Masjid al-Wadi and Masjid Atikah."
+      ]
+    },
+    "facts": [
+      {
+        "label": {
+          "ar": "الحدث",
+          "en": "Event"
+        },
+        "value": {
+          "ar": "أول جمعة بعد الهجرة — ١ هـ",
+          "en": "First Friday prayer after the Hijrah — 1 AH"
+        }
+      },
+      {
+        "label": {
+          "ar": "المبنى الحالي",
+          "en": "Current building"
+        },
+        "value": {
+          "ar": "١٤١٢هـ — عهد الملك فهد",
+          "en": "1412 AH — King Fahd"
+        }
+      },
+      {
+        "label": {
+          "ar": "الطاقة",
+          "en": "Capacity"
+        },
+        "value": {
+          "ar": "أكثر من ٦٥٠ مصليًا",
+          "en": "650+ worshippers"
+        }
+      },
+      {
+        "label": {
+          "ar": "القباب",
+          "en": "Domes"
+        },
+        "value": {
+          "ar": "رئيسة + ٤ صغيرة",
+          "en": "Main + 4 small"
+        }
+      }
+    ],
+    "modelNote": {
+      "ar": "نموذج مبسّط: قبة رئيسة وأربع قباب صغيرة ومئذنة واحدة؛ الأبعاد تقريبية.",
+      "en": "Simplified model: a main dome, four small domes and one minaret; proportions are approximate."
+    },
+    "visitTip": {
+      "ar": "قريب من مسجد قباء، فيسهل ضمّهما في زيارة واحدة.",
+      "en": "Close to Quba Mosque — easy to combine both in one visit."
+    },
+    "interior": "none",
+    "keywords": [
+      "مسجد الجمعه",
+      "مسجد الجمعة",
+      "الجمعه",
+      "رانوناء",
+      "رانونا",
+      "بني سالم",
+      "jumuah",
+      "jumu'ah",
+      "jummah",
+      "friday",
+      "ranuna"
+    ],
+    "nameWords": [
+      "جمعه",
+      "مسجد",
+      "jumuah",
+      "mosque",
+      "friday"
+    ],
+    "quiz": [
+      {
+        "id": "jumuah-1",
+        "q": {
+          "ar": "ما الصلاة التي صلّاها النبي ﷺ في موضع مسجد الجمعة؟",
+          "en": "Which prayer did the Prophet ﷺ lead on the site of Al-Jumu‘ah Mosque?"
+        },
+        "options": [
+          {
+            "ar": "أول صلاة جمعة بعد الهجرة",
+            "en": "The first Friday prayer after the Hijrah"
+          },
+          {
+            "ar": "أول صلاة عيد",
+            "en": "The first Eid prayer"
+          },
+          {
+            "ar": "صلاة الاستسقاء",
+            "en": "The prayer for rain"
+          },
+          {
+            "ar": "صلاة الكسوف",
+            "en": "The eclipse prayer"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "ar": "أدركته صلاة الجمعة في وادي رانوناء وهو في طريقه من قباء إلى المدينة.",
+          "en": "The Friday prayer came as he reached Wadi Ranuna on his way from Quba to Madinah."
+        }
+      },
+      {
+        "id": "jumuah-2",
+        "q": {
+          "ar": "كم يبعد مسجد الجمعة تقريبًا عن مسجد قباء؟",
+          "en": "Roughly how far is Al-Jumu‘ah Mosque from Quba Mosque?"
+        },
+        "options": [
+          {
+            "ar": "نحو ٩٠٠ م شمالًا",
+            "en": "About 900 m north"
+          },
+          {
+            "ar": "نحو ٥ كم شرقًا",
+            "en": "About 5 km east"
+          },
+          {
+            "ar": "نحو ٢٠٠ م غربًا",
+            "en": "About 200 m west"
+          },
+          {
+            "ar": "نحو ١٠ كم جنوبًا",
+            "en": "About 10 km south"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "ar": "يقع على بُعد نحو ٩٠٠ م شمال مسجد قباء.",
+          "en": "It lies about 900 m north of Quba Mosque."
+        }
+      },
+      {
+        "id": "jumuah-3",
+        "q": {
+          "ar": "كم قبة صغيرة تحيط بالقبة الرئيسة في مسجد الجمعة؟",
+          "en": "How many small domes surround the main dome?"
+        },
+        "options": [
+          {
+            "ar": "٢",
+            "en": "2"
+          },
+          {
+            "ar": "٤",
+            "en": "4"
+          },
+          {
+            "ar": "٦",
+            "en": "6"
+          },
+          {
+            "ar": "٨",
+            "en": "8"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "ar": "قبة رئيسة وأربع قباب صغيرة حولها.",
+          "en": "A main dome with four small domes around it."
+        }
+      }
+    ]
+  },
+  {
+    "id": "sabaa",
+    "category": "history",
+    "name": {
+      "ar": "المساجد السبعة",
+      "en": "The Seven Mosques"
+    },
+    "tagline": {
+      "ar": "ميدان غزوة الخندق عند سفح سلع",
+      "en": "The Battle of the Trench site at the foot of Mount Sala‘"
+    },
+    "kind": {
+      "ar": "موقع تاريخي ومساجد",
+      "en": "Historic site & mosques"
+    },
+    "coords": {
+      "lat": 24.476833,
+      "lng": 39.595972
+    },
+    "radiusM": 350,
+    "rotY": 0,
+    "footprint": 3.4,
+    "qrCode": "MCMS-SABAA",
+    "accent": "#c9a24a",
+    "history": {
+      "ar": [
+        "المساجد السبعة مجموعة من المساجد الصغيرة التاريخية عند السفح الغربي لجبل سلع، في موضع غزوة الخندق (الأحزاب) في شوال سنة ٥ هـ، حين حفر المسلمون خندقًا لحماية المدينة.",
+        "وعلى خلاف اسمها فهي ستة مساجد، ويُضيف إليها بعضهم مسجد القبلتين لتصير سبعة. ويُروى أن كل مسجد سُمّي باسم من رابط عنده من المدافعين عن المدينة.",
+        "أشهرها مسجد الفتح عند سفح جبل سلع، ومنها مسجد سلمان الفارسي ومسجد علي بن أبي طالب، ويُعدّ بعضهم مسجد الخندق القريب منها."
+      ],
+      "en": [
+        "The Seven Mosques are a group of small historic mosques at the western foot of Mount Sala‘, on the site of the Battle of the Trench (al-Ahzab) in Shawwal 5 AH, when the Muslims dug a trench to defend Madinah.",
+        "Despite the name there are six of them; some count Qiblatain Mosque to make seven. Each is said to be named after a defender who was stationed there.",
+        "The best known is Al-Fath Mosque at the foot of Mount Sala‘; others include the mosques of Salman al-Farsi and Ali ibn Abi Talib, and some also count the nearby Al-Khandaq Mosque."
+      ]
+    },
+    "facts": [
+      {
+        "label": {
+          "ar": "الحدث",
+          "en": "Event"
+        },
+        "value": {
+          "ar": "غزوة الخندق — ٥ هـ",
+          "en": "Battle of the Trench — 5 AH"
+        }
+      },
+      {
+        "label": {
+          "ar": "العدد الفعلي",
+          "en": "Actual number"
+        },
+        "value": {
+          "ar": "٦ مساجد",
+          "en": "6 mosques"
+        }
+      },
+      {
+        "label": {
+          "ar": "أشهرها",
+          "en": "Best known"
+        },
+        "value": {
+          "ar": "مسجد الفتح",
+          "en": "Al-Fath Mosque"
+        }
+      },
+      {
+        "label": {
+          "ar": "الموقع",
+          "en": "Setting"
+        },
+        "value": {
+          "ar": "السفح الغربي لجبل سلع",
+          "en": "Western foot of Mount Sala‘"
+        }
+      }
+    ],
+    "modelNote": {
+      "ar": "نموذج مبسّط: تلّ يمثّل سفح جبل سلع ومساجد صغيرة حوله؛ العدد والتوزيع تقريبيان.",
+      "en": "Simplified model: a hill for Mount Sala‘ with small mosques around its foot; layout is approximate."
+    },
+    "visitTip": {
+      "ar": "الموقع مكشوف؛ الصباح أو العصر ألطف في الأشهر الحارة.",
+      "en": "The site is open to the sun; mornings or late afternoons are gentler in hot months."
+    },
+    "interior": "none",
+    "keywords": [
+      "المساجد السبعه",
+      "المساجد السبعة",
+      "السبعه",
+      "سبعه مساجد",
+      "الخندق",
+      "الاحزاب",
+      "الأحزاب",
+      "الفتح",
+      "سلع",
+      "seven mosques",
+      "trench",
+      "khandaq",
+      "ahzab",
+      "fath",
+      "sala"
+    ],
+    "nameWords": [
+      "مساجد",
+      "سبعه",
+      "seven",
+      "mosques"
+    ],
+    "quiz": [
+      {
+        "id": "sabaa-1",
+        "q": {
+          "ar": "بأي غزوة ترتبط المساجد السبعة؟",
+          "en": "Which battle are the Seven Mosques linked to?"
+        },
+        "options": [
+          {
+            "ar": "الخندق",
+            "en": "The Trench"
+          },
+          {
+            "ar": "بدر",
+            "en": "Badr"
+          },
+          {
+            "ar": "أحد",
+            "en": "Uhud"
+          },
+          {
+            "ar": "تبوك",
+            "en": "Tabuk"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "ar": "تقع في موضع غزوة الخندق سنة ٥ هـ.",
+          "en": "They stand on the site of the Battle of the Trench, 5 AH."
+        }
+      },
+      {
+        "id": "sabaa-2",
+        "q": {
+          "ar": "كم عدد المساجد فعليًا في موقع «المساجد السبعة»؟",
+          "en": "How many mosques are actually at the “Seven Mosques” site?"
+        },
+        "options": [
+          {
+            "ar": "٤",
+            "en": "4"
+          },
+          {
+            "ar": "٦",
+            "en": "6"
+          },
+          {
+            "ar": "٧",
+            "en": "7"
+          },
+          {
+            "ar": "٩",
+            "en": "9"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "ar": "هي ستة مساجد، ويُضاف إليها مسجد القبلتين عند بعضهم.",
+          "en": "There are six; some add Qiblatain to make seven."
+        }
+      },
+      {
+        "id": "sabaa-3",
+        "q": {
+          "ar": "عند سفح أي جبل تقع المساجد السبعة؟",
+          "en": "At the foot of which mountain are the Seven Mosques?"
+        },
+        "options": [
+          {
+            "ar": "سلع",
+            "en": "Sala‘"
+          },
+          {
+            "ar": "أحد",
+            "en": "Uhud"
+          },
+          {
+            "ar": "عير",
+            "en": "Ayr"
+          },
+          {
+            "ar": "الرماة",
+            "en": "The Archers’ Hill"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "ar": "تقع عند السفح الغربي لجبل سلع.",
+          "en": "At the western foot of Mount Sala‘."
+        }
+      }
+    ]
+  },
+  {
+    "id": "manaratain",
+    "category": "mosque",
+    "name": {
+      "ar": "مسجد المنارتين",
+      "en": "Al-Manaratain Mosque"
+    },
+    "tagline": {
+      "ar": "مسجد بني دينار بين تلّين",
+      "en": "The Banu Dinar mosque between two hills"
+    },
+    "kind": {
+      "ar": "مسجد تاريخي",
+      "en": "Historic mosque"
+    },
+    "coords": {
+      "lat": 24.455444,
+      "lng": 39.593472
+    },
+    "radiusM": 200,
+    "rotY": 0,
+    "footprint": 2.2,
+    "scale": 0.8,
+    "qrCode": "MCMS-MANARATAIN",
+    "accent": "#f0e6d2",
+    "history": {
+      "ar": [
+        "بناه الصحابة رضي الله عنهم في ديار بني دينار، فعُرف قديمًا بمسجد بني دينار. ويقع جنوب غرب المسجد النبوي بين تلّين.",
+        "كان مبنيًّا بالحجارة، ولأهمية موقعه التاريخية رُمّم ووُسّع عام ٢٠٠٣م في عهد الملك فهد بن عبد العزيز.",
+        "اسمه الشائع اليوم «المنارتين» أي «المئذنتين»، ويُعرف بالإنجليزية بمسجد «البرجين»."
+      ],
+      "en": [
+        "It was built by the Companions in the settlement of Banu Dinar, so it was long known as the Mosque of Banu Dinar. It lies south-west of the Prophet’s Mosque, between two hills.",
+        "Originally built of stone, it was restored and enlarged in 2003 under King Fahd bin Abdulaziz because of its historical value.",
+        "Its common name today, “al-Manaratain”, means “the two minarets” (sometimes rendered “the two towers”)."
+      ]
+    },
+    "facts": [
+      {
+        "label": {
+          "ar": "الاسم القديم",
+          "en": "Old name"
+        },
+        "value": {
+          "ar": "مسجد بني دينار",
+          "en": "Mosque of Banu Dinar"
+        }
+      },
+      {
+        "label": {
+          "ar": "الترميم والتوسعة",
+          "en": "Restored & enlarged"
+        },
+        "value": {
+          "ar": "٢٠٠٣م",
+          "en": "2003"
+        }
+      },
+      {
+        "label": {
+          "ar": "معنى الاسم",
+          "en": "Name means"
+        },
+        "value": {
+          "ar": "المئذنتان",
+          "en": "The two minarets"
+        }
+      }
+    ],
+    "modelNote": {
+      "ar": "نموذج مبسّط: مصلى بمئذنتين بين تلّين؛ الأبعاد والتفاصيل تقريبية.",
+      "en": "Simplified model: a prayer hall with two minarets between two hills; details are approximate."
+    },
+    "visitTip": {
+      "ar": "مسجد حيّ صغير؛ زُره خارج أوقات الصلاة إن كانت زيارتك للتعرّف.",
+      "en": "A small neighbourhood mosque; visit outside congregational prayers if you are sightseeing."
+    },
+    "interior": "none",
+    "keywords": [
+      "المنارتين",
+      "منارتين",
+      "بني دينار",
+      "manaratain",
+      "manartain",
+      "minarets",
+      "bani dinar"
+    ],
+    "nameWords": [
+      "منارتين",
+      "مسجد",
+      "manaratain",
+      "mosque"
+    ],
+    "quiz": [
+      {
+        "id": "manaratain-1",
+        "q": {
+          "ar": "بأي اسم عُرف مسجد المنارتين قديمًا؟",
+          "en": "What was Al-Manaratain Mosque known as in the past?"
+        },
+        "options": [
+          {
+            "ar": "مسجد بني دينار",
+            "en": "Mosque of Banu Dinar"
+          },
+          {
+            "ar": "مسجد بني سالم",
+            "en": "Mosque of Banu Salim"
+          },
+          {
+            "ar": "مسجد الفتح",
+            "en": "Al-Fath Mosque"
+          },
+          {
+            "ar": "مسجد الإجابة",
+            "en": "Al-Ijabah Mosque"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "ar": "بُني في ديار بني دينار فعُرف باسمهم.",
+          "en": "It was built in the settlement of Banu Dinar."
+        }
+      },
+      {
+        "id": "manaratain-2",
+        "q": {
+          "ar": "متى رُمّم مسجد المنارتين ووُسّع؟",
+          "en": "When was Al-Manaratain restored and enlarged?"
+        },
+        "options": [
+          {
+            "ar": "١٩٠٨م",
+            "en": "1908"
+          },
+          {
+            "ar": "١٩٨٦م",
+            "en": "1986"
+          },
+          {
+            "ar": "٢٠٠٣م",
+            "en": "2003"
+          },
+          {
+            "ar": "٢٠٢٢م",
+            "en": "2022"
+          }
+        ],
+        "answer": 2,
+        "explain": {
+          "ar": "رُمّم ووُسّع عام ٢٠٠٣م في عهد الملك فهد.",
+          "en": "In 2003, under King Fahd."
+        }
+      }
+    ]
+  },
+  {
+    "id": "ijabah",
+    "category": "mosque",
+    "name": {
+      "ar": "مسجد الإجابة",
+      "en": "Al-Ijabah Mosque"
+    },
+    "tagline": {
+      "ar": "مسجد الدعوات الثلاث",
+      "en": "The mosque of the three supplications"
+    },
+    "kind": {
+      "ar": "مسجد تاريخي",
+      "en": "Historic mosque"
+    },
+    "coords": {
+      "lat": 24.472,
+      "lng": 39.618444
+    },
+    "radiusM": 150,
+    "rotY": 0,
+    "footprint": 2.0,
+    "scale": 0.75,
+    "qrCode": "MCMS-IJABAH",
+    "accent": "#e3d5bb",
+    "history": {
+      "ar": [
+        "يقع مسجد الإجابة على بُعد نحو ٥٨٠ م من المسجد النبوي ونحو ٣٨٥ م من البقيع، في الجهة الشمالية الشرقية.",
+        "سُمّي بالإجابة لما رواه مسلم في صحيحه أن النبي ﷺ مرّ بمسجد بني معاوية فصلّى فيه ركعتين ودعا ربه طويلًا، ثم قال: سألت ربي ثلاثًا فأعطاني ثنتين ومنعني واحدة."
+      ],
+      "en": [
+        "Al-Ijabah Mosque lies about 580 m from the Prophet’s Mosque and about 385 m from al-Baqi, to the north-east.",
+        "Its name, “the Answer”, comes from a report in Sahih Muslim: the Prophet ﷺ passed by the mosque of Banu Mu‘awiya, prayed two rak‘ahs there and supplicated at length, then said that he had asked his Lord for three things and was granted two."
+      ]
+    },
+    "facts": [
+      {
+        "label": {
+          "ar": "البعد عن الحرم",
+          "en": "From the Haram"
+        },
+        "value": {
+          "ar": "≈ ٥٨٠ م",
+          "en": "≈ 580 m"
+        }
+      },
+      {
+        "label": {
+          "ar": "البعد عن البقيع",
+          "en": "From al-Baqi"
+        },
+        "value": {
+          "ar": "≈ ٣٨٥ م",
+          "en": "≈ 385 m"
+        }
+      },
+      {
+        "label": {
+          "ar": "معنى الاسم",
+          "en": "Name means"
+        },
+        "value": {
+          "ar": "الإجابة (إجابة الدعاء)",
+          "en": "The Answer (to prayer)"
+        }
+      }
+    ],
+    "modelNote": {
+      "ar": "نموذج مبسّط لمسجد صغير بمئذنة واحدة؛ التفاصيل تقريبية.",
+      "en": "Simplified model of a small mosque with one minaret; details are approximate."
+    },
+    "visitTip": {
+      "ar": "يمكن الوصول إليه مشيًا من الحرم، ويُضمّ إلى جولة البقيع.",
+      "en": "Walkable from the Haram; pairs well with a visit near al-Baqi."
+    },
+    "interior": "none",
+    "keywords": [
+      "الاجابه",
+      "الإجابة",
+      "اجابه",
+      "بني معاويه",
+      "ijabah",
+      "ijaba",
+      "answer"
+    ],
+    "nameWords": [
+      "اجابه",
+      "مسجد",
+      "ijabah",
+      "mosque"
+    ],
+    "quiz": [
+      {
+        "id": "ijabah-1",
+        "q": {
+          "ar": "لماذا سُمّي مسجد الإجابة بهذا الاسم؟",
+          "en": "Why is Al-Ijabah Mosque called “the Answer”?"
+        },
+        "options": [
+          {
+            "ar": "لأن النبي ﷺ دعا فيه فأُجيب في اثنتين من ثلاث",
+            "en": "The Prophet ﷺ supplicated there and two of three requests were granted"
+          },
+          {
+            "ar": "لأنه أول مسجد في المدينة",
+            "en": "It was the first mosque in Madinah"
+          },
+          {
+            "ar": "لأنه ميقات أهل المدينة",
+            "en": "It is the miqat of Madinah"
+          },
+          {
+            "ar": "لأنه بُني في يوم الجمعة",
+            "en": "It was built on a Friday"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "ar": "روى مسلم أنه ﷺ سأل ربه ثلاثًا فأُعطي اثنتين.",
+          "en": "Sahih Muslim reports he asked for three things and was granted two."
+        }
+      }
+    ]
+  },
+  {
+    "id": "miqat",
+    "category": "mosque",
+    "name": {
+      "ar": "مسجد ذي الحليفة (الميقات)",
+      "en": "Dhu al-Hulayfah Mosque (Miqat)"
+    },
+    "tagline": {
+      "ar": "ميقات أهل المدينة",
+      "en": "The miqat of the people of Madinah"
+    },
+    "kind": {
+      "ar": "مسجد الميقات",
+      "en": "Miqat mosque"
+    },
+    "coords": {
+      "lat": 24.4137172,
+      "lng": 39.5424318
+    },
+    "radiusM": 400,
+    "rotY": 0,
+    "footprint": 3.4,
+    "qrCode": "MCMS-MIQAT",
+    "accent": "#d9c6a0",
+    "history": {
+      "ar": [
+        "ذو الحليفة هو الميقات الذي حدّده النبي ﷺ لأهل المدينة كما في صحيح البخاري، ومنه يُحرم الحجاج والمعتمرون القادمون من المدينة إلى مكة. ويُسمّى المسجد أيضًا مسجد الشجرة.",
+        "يقع غرب وادي العقيق جنوب غرب المسجد النبوي في منطقة أبيار علي. وأول مسجد بُني في الموضع كان في ولاية عمر بن عبد العزيز.",
+        "المبنى الحالي من تصميم المعماري المصري عبد الواحد الوكيل في عهد الملك فهد، بأبعاد نحو ١٩٠ × ١٩٠ م، ويتسع لنحو ٥٠٠٠ مصلٍّ، وله خمس مآذن إحداها أطول من غيرها بأكثر من الضعف. وهو ثاني أكبر مساجد المواقيت."
+      ],
+      "en": [
+        "Dhu al-Hulayfah is the miqat the Prophet ﷺ fixed for the people of Madinah, as reported in Sahih al-Bukhari; pilgrims heading from Madinah to Makkah enter ihram here. The mosque is also called Masjid al-Shajarah.",
+        "It lies west of Wadi al-Aqiq, south-west of the Prophet’s Mosque, in the Abyar Ali area. The first mosque on the site was built under governor Umar ibn Abd al-Aziz.",
+        "Today’s building, designed by Egyptian architect Abdel-Wahed El-Wakil under King Fahd, measures about 190 × 190 m, holds about 5,000 worshippers and has five minarets, one more than twice as tall as the others. It is the second-largest miqat mosque."
+      ]
+    },
+    "facts": [
+      {
+        "label": {
+          "ar": "الوظيفة",
+          "en": "Role"
+        },
+        "value": {
+          "ar": "ميقات أهل المدينة",
+          "en": "Miqat for Madinah"
+        }
+      },
+      {
+        "label": {
+          "ar": "المعماري",
+          "en": "Architect"
+        },
+        "value": {
+          "ar": "عبد الواحد الوكيل",
+          "en": "Abdel-Wahed El-Wakil"
+        }
+      },
+      {
+        "label": {
+          "ar": "الطاقة",
+          "en": "Capacity"
+        },
+        "value": {
+          "ar": "≈ ٥٠٠٠ مصلٍّ",
+          "en": "≈ 5,000"
+        }
+      },
+      {
+        "label": {
+          "ar": "المآذن",
+          "en": "Minarets"
+        },
+        "value": {
+          "ar": "٥",
+          "en": "5"
+        }
+      }
+    ],
+    "modelNote": {
+      "ar": "نموذج مبسّط: صحن مربع بأروقة ومئذنة طويلة وأربع مآذن أقصر؛ النِّسَب والتفاصيل تقريبية.",
+      "en": "Simplified model: a square arcaded complex with one tall and four shorter minarets; proportions are approximate."
+    },
+    "visitTip": {
+      "ar": "يبعد عن الحرم نحو ٩ كم بخط مستقيم، فالأنسب الوصول بالسيارة.",
+      "en": "About 9 km from the Haram in a straight line — best reached by car."
+    },
+    "interior": "none",
+    "keywords": [
+      "ميقات",
+      "الميقات",
+      "ذي الحليفه",
+      "ذو الحليفه",
+      "ذي الحليفة",
+      "ذو الحليفة",
+      "ابيار علي",
+      "أبيار علي",
+      "الشجره",
+      "احرام",
+      "إحرام",
+      "miqat",
+      "hulayfah",
+      "hulaifa",
+      "abyar",
+      "ihram",
+      "shajarah"
+    ],
+    "nameWords": [
+      "ميقات",
+      "حليفه",
+      "مسجد",
+      "miqat",
+      "hulayfah",
+      "mosque"
+    ],
+    "quiz": [
+      {
+        "id": "miqat-1",
+        "q": {
+          "ar": "ما الذي يفعله الحاج أو المعتمر القادم من المدينة عند ذي الحليفة؟",
+          "en": "What do pilgrims coming from Madinah do at Dhu al-Hulayfah?"
+        },
+        "options": [
+          {
+            "ar": "يُحرم للحج أو العمرة",
+            "en": "Enter ihram for Hajj or Umrah"
+          },
+          {
+            "ar": "يرمي الجمرات",
+            "en": "Stone the pillars"
+          },
+          {
+            "ar": "يطوف طواف الوداع",
+            "en": "Perform the farewell tawaf"
+          },
+          {
+            "ar": "يبيت ليلة عرفة",
+            "en": "Spend the night of Arafah"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "ar": "ذو الحليفة ميقات أهل المدينة، ومنه يُحرم القادمون منها.",
+          "en": "It is the miqat of Madinah, where pilgrims enter ihram."
+        }
+      },
+      {
+        "id": "miqat-2",
+        "q": {
+          "ar": "من صمّم مبنى ميقات ذي الحليفة الحالي (وهو أيضًا مصمّم مسجد قباء الحالي)؟",
+          "en": "Who designed the current Miqat building (and also today’s Quba Mosque)?"
+        },
+        "options": [
+          {
+            "ar": "عبد الواحد الوكيل",
+            "en": "Abdel-Wahed El-Wakil"
+          },
+          {
+            "ar": "حسن فتحي",
+            "en": "Hassan Fathy"
+          },
+          {
+            "ar": "زها حديد",
+            "en": "Zaha Hadid"
+          },
+          {
+            "ar": "سنان",
+            "en": "Mimar Sinan"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "ar": "صمّمه المعماري المصري عبد الواحد الوكيل.",
+          "en": "Egyptian architect Abdel-Wahed El-Wakil designed both."
+        }
+      },
+      {
+        "id": "miqat-3",
+        "q": {
+          "ar": "كم مئذنة لمسجد ذي الحليفة؟",
+          "en": "How many minarets does Dhu al-Hulayfah Mosque have?"
+        },
+        "options": [
+          {
+            "ar": "١",
+            "en": "1"
+          },
+          {
+            "ar": "٣",
+            "en": "3"
+          },
+          {
+            "ar": "٥",
+            "en": "5"
+          },
+          {
+            "ar": "٧",
+            "en": "7"
+          }
+        ],
+        "answer": 2,
+        "explain": {
+          "ar": "له خمس مآذن، إحداها أطول بكثير من البقية.",
+          "en": "Five, one of them much taller than the rest."
+        }
+      }
+    ]
+  },
+  {
+    "id": "quranComplex",
+    "category": "museum",
+    "name": {
+      "ar": "مجمع الملك فهد لطباعة المصحف الشريف",
+      "en": "King Fahd Quran Printing Complex"
+    },
+    "tagline": {
+      "ar": "حيث يُطبع المصحف ويُوزَّع إلى العالم",
+      "en": "Where the Mus·haf is printed for the world"
+    },
+    "kind": {
+      "ar": "معلم ثقافي وزيارة تعريفية",
+      "en": "Cultural landmark with guided visits"
+    },
+    "coords": {
+      "lat": 24.51639,
+      "lng": 39.54139
+    },
+    "radiusM": 600,
+    "rotY": 0,
+    "footprint": 3.6,
+    "qrCode": "MCMS-QURAN",
+    "accent": "#1f6b4f",
+    "history": {
+      "ar": [
+        "وُضع حجر أساس المجمع عام ١٩٨٢م (١٤٠٣هـ)، وافتتحه الملك فهد بن عبد العزيز عام ١٩٨٥م، وهو مؤسسة متخصصة في طباعة المصحف الشريف وتسجيل تلاواته وترجمة معانيه إلى لغات عدة.",
+        "تبلغ مساحته نحو ٢٥٠ ألف م²، ويضم مطبعة ومستودعات ومسجدًا ومكتبة ومرافق أخرى. وقد تجاوز متوسط إنتاجه السنوي ١٨ مليون نسخة بحسب «سعوديبيديا» (٢٠١٨م).",
+        "يستقبل الزوار ضمن برنامج زيارة يومي للتعرّف على مراحل طباعة المصحف، ويذكر موقعه الرسمي أن متوسط زواره نحو ٦٠ ألف زائر شهريًا."
+      ],
+      "en": [
+        "The foundation stone was laid in 1982 (1403 AH) and King Fahd bin Abdulaziz inaugurated the complex in 1985. It specialises in printing the Mus·haf, recording its recitations and translating its meanings into many languages.",
+        "It covers about 250,000 m², with a printing press, warehouses, a mosque, a library and other facilities. Saudipedia puts its average output (2018) at more than 18 million copies a year.",
+        "Visitors are welcomed on a daily visit programme that shows the stages of printing; its official site reports an average of about 60,000 visitors a month."
+      ]
+    },
+    "facts": [
+      {
+        "label": {
+          "ar": "حجر الأساس",
+          "en": "Foundation stone"
+        },
+        "value": {
+          "ar": "١٤٠٣هـ / ١٩٨٢م",
+          "en": "1403 AH / 1982"
+        }
+      },
+      {
+        "label": {
+          "ar": "الافتتاح",
+          "en": "Opened"
+        },
+        "value": {
+          "ar": "١٩٨٥م",
+          "en": "1985"
+        }
+      },
+      {
+        "label": {
+          "ar": "المساحة",
+          "en": "Area"
+        },
+        "value": {
+          "ar": "≈ ٢٥٠ ألف م²",
+          "en": "≈ 250,000 m²"
+        }
+      },
+      {
+        "label": {
+          "ar": "الزوار",
+          "en": "Visitors"
+        },
+        "value": {
+          "ar": "≈ ٦٠ ألفًا شهريًا",
+          "en": "≈ 60,000 a month"
+        }
+      }
+    ],
+    "modelNote": {
+      "ar": "نموذج رمزي مبسّط لحرم المجمع ومبانيه؛ لا يمثّل التصميم الفعلي بدقة.",
+      "en": "A simplified, symbolic model of the campus buildings; not an accurate copy of the real design."
+    },
+    "visitTip": {
+      "ar": "الزيارة ضمن برنامج المجمع الرسمي؛ تحقّق من الأوقات والتعليمات قبل الذهاب.",
+      "en": "Visits run through the complex’s official programme — check times and rules before you go."
+    },
+    "interior": "none",
+    "keywords": [
+      "مجمع الملك فهد",
+      "مجمع المصحف",
+      "طباعه المصحف",
+      "طباعة المصحف",
+      "المصحف",
+      "مصحف",
+      "quran complex",
+      "printing",
+      "mushaf",
+      "king fahd complex",
+      "quran"
+    ],
+    "nameWords": [
+      "مجمع",
+      "مصحف",
+      "طباعه",
+      "complex",
+      "quran",
+      "printing"
+    ],
+    "quiz": [
+      {
+        "id": "quranComplex-1",
+        "q": {
+          "ar": "في أي عام افتُتح مجمع الملك فهد لطباعة المصحف الشريف؟",
+          "en": "In which year did the King Fahd Quran Printing Complex open?"
+        },
+        "options": [
+          {
+            "ar": "١٩٦١م",
+            "en": "1961"
+          },
+          {
+            "ar": "١٩٨٥م",
+            "en": "1985"
+          },
+          {
+            "ar": "٢٠٠٦م",
+            "en": "2006"
+          },
+          {
+            "ar": "٢٠١٨م",
+            "en": "2018"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "ar": "وُضع حجر الأساس عام ١٩٨٢م وافتُتح عام ١٩٨٥م.",
+          "en": "Foundation stone 1982, opened 1985."
+        }
+      },
+      {
+        "id": "quranComplex-2",
+        "q": {
+          "ar": "كم تبلغ مساحة المجمع تقريبًا؟",
+          "en": "Roughly how large is the complex?"
+        },
+        "options": [
+          {
+            "ar": "٢٥ ألف م²",
+            "en": "25,000 m²"
+          },
+          {
+            "ar": "٢٥٠ ألف م²",
+            "en": "250,000 m²"
+          },
+          {
+            "ar": "٢٫٥ مليون م²",
+            "en": "2.5 million m²"
+          },
+          {
+            "ar": "٢٥ كم²",
+            "en": "25 km²"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "ar": "مساحته نحو ٢٥٠ ألف م².",
+          "en": "About 250,000 m²."
+        }
+      }
+    ]
+  },
+  {
+    "id": "rumah",
+    "category": "nature",
+    "name": {
+      "ar": "بئر رومة (بئر عثمان)",
+      "en": "Bir Rumah (Well of Uthman)"
+    },
+    "tagline": {
+      "ar": "وقف يسقي الناس منذ أربعة عشر قرنًا",
+      "en": "An endowment that has given water for fourteen centuries"
+    },
+    "kind": {
+      "ar": "بئر تاريخية ومزرعة نخيل وقفية",
+      "en": "Historic well & endowed palm farm"
+    },
+    "coords": {
+      "lat": 24.4932593,
+      "lng": 39.5850716
+    },
+    "radiusM": 400,
+    "rotY": 0,
+    "footprint": 3.0,
+    "qrCode": "MCMS-RUMAH",
+    "accent": "#5d8a3a",
+    "history": {
+      "ar": [
+        "بئر رومة بئر قديمة عذبة الماء، تقع على بُعد نحو ٦ كم شمال غرب المسجد النبوي. وكانت مملوكة يُباع ماؤها، فاشتراها عثمان بن عفان رضي الله عنه بترغيب من النبي ﷺ وجعلها وقفًا للناس، ولذلك تُسمّى بئر عثمان.",
+        "حول البئر اليوم مزرعة نخيل وقفية تضم نحو ١٥٥٠ نخلة، ويُصرف ريع تمورها في وجوه الخير، وما زالت الأرض مسجّلة باسم وقف عثمان بن عفان."
+      ],
+      "en": [
+        "Bir Rumah is an old sweet-water well about 6 km north-west of the Prophet’s Mosque. It was privately owned and its water was sold, so Uthman ibn Affan bought it at the Prophet’s ﷺ encouragement and made it an endowment (waqf) for everyone — hence “the Well of Uthman”.",
+        "Around it today is an endowed palm farm of about 1,550 palms whose date income goes to charity; the land is still registered to the waqf of Uthman ibn Affan."
+      ]
+    },
+    "facts": [
+      {
+        "label": {
+          "ar": "الموقع",
+          "en": "Location"
+        },
+        "value": {
+          "ar": "≈ ٦ كم شمال غرب الحرم",
+          "en": "≈ 6 km NW of the Haram"
+        }
+      },
+      {
+        "label": {
+          "ar": "الواقف",
+          "en": "Endowed by"
+        },
+        "value": {
+          "ar": "عثمان بن عفان رضي الله عنه",
+          "en": "Uthman ibn Affan"
+        }
+      },
+      {
+        "label": {
+          "ar": "النخيل",
+          "en": "Palms"
+        },
+        "value": {
+          "ar": "≈ ١٥٥٠ نخلة",
+          "en": "≈ 1,550"
+        }
+      }
+    ],
+    "modelNote": {
+      "ar": "نموذج مبسّط: بئر وسور مزرعة ونخيل؛ التوزيع رمزي.",
+      "en": "Simplified model: a well, a farm wall and palms; layout is symbolic."
+    },
+    "visitTip": {
+      "ar": "الموقع مزرعة وقفية؛ تحقّق من إمكانية الدخول وأوقاته قبل الذهاب.",
+      "en": "It is a working endowed farm — check access and times before going."
+    },
+    "interior": "none",
+    "keywords": [
+      "بئر رومه",
+      "بئر رومة",
+      "رومه",
+      "رومة",
+      "بئر عثمان",
+      "وقف عثمان",
+      "rumah",
+      "ruma",
+      "well",
+      "uthman",
+      "waqf"
+    ],
+    "nameWords": [
+      "بئر",
+      "رومه",
+      "well",
+      "rumah"
+    ],
+    "quiz": [
+      {
+        "id": "rumah-1",
+        "q": {
+          "ar": "من اشترى بئر رومة وجعلها وقفًا للناس؟",
+          "en": "Who bought Bir Rumah and made it an endowment?"
+        },
+        "options": [
+          {
+            "ar": "عثمان بن عفان",
+            "en": "Uthman ibn Affan"
+          },
+          {
+            "ar": "أبو أيوب الأنصاري",
+            "en": "Abu Ayyub al-Ansari"
+          },
+          {
+            "ar": "سعد بن معاذ",
+            "en": "Sa‘d ibn Mu‘adh"
+          },
+          {
+            "ar": "عبد الرحمن بن عوف",
+            "en": "Abd al-Rahman ibn Awf"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "ar": "اشتراها عثمان بن عفان رضي الله عنه وجعلها وقفًا.",
+          "en": "Uthman ibn Affan bought it and endowed it."
+        }
+      },
+      {
+        "id": "rumah-2",
+        "q": {
+          "ar": "كم نخلة تقريبًا في مزرعة وقف بئر رومة اليوم؟",
+          "en": "Roughly how many palms grow on the Bir Rumah endowment today?"
+        },
+        "options": [
+          {
+            "ar": "١٥٠",
+            "en": "150"
+          },
+          {
+            "ar": "١٥٥٠",
+            "en": "1,550"
+          },
+          {
+            "ar": "١٥ ألفًا",
+            "en": "15,000"
+          },
+          {
+            "ar": "١٥٠ ألفًا",
+            "en": "150,000"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "ar": "تضم المزرعة نحو ١٥٥٠ نخلة.",
+          "en": "About 1,550 palms."
+        }
+      }
+    ]
+  },
+  {
+    "id": "aqiq",
+    "category": "nature",
+    "approx": true,
+    "name": {
+      "ar": "ممشى وادي العقيق",
+      "en": "Wadi al-Aqiq Walkway"
+    },
+    "tagline": {
+      "ar": "الوادي المبارك",
+      "en": "The Blessed Valley"
+    },
+    "kind": {
+      "ar": "وادٍ وممشى",
+      "en": "Valley & walkway"
+    },
+    "coords": {
+      "lat": 24.479,
+      "lng": 39.57
+    },
+    "radiusM": 1200,
+    "rotY": 0,
+    "footprint": 3.4,
+    "qrCode": "MCMS-AQIQ",
+    "accent": "#6a9a5b",
+    "history": {
+      "ar": [
+        "وادي العقيق أشهر أودية المدينة، ويُوصف بـ«الوادي المبارك» لحديث في صحيح البخاري جاء فيه: «صلِّ في هذا الوادي المبارك».",
+        "على ضفافه آثار تاريخية منها قصرا عروة بن الزبير وسعد بن أبي وقاص ونقوش حجرية قديمة.",
+        "أنشأت هيئة تطوير منطقة المدينة ممشى بطول نحو ١٦٠٠ م وعرض متوسط ١٤ م، مضاءً ومظللًا بالنخيل والأشجار، ضمن مشروع تأهيل بيئي يمتد قرابة ١٥ كم من ميقات ذي الحليفة جنوبًا إلى الجرف شمالًا."
+      ],
+      "en": [
+        "Wadi al-Aqiq is the most famous valley of Madinah, called “the Blessed Valley” after a hadith in Sahih al-Bukhari: “Pray in this blessed valley.”",
+        "Historic remains line its banks, including the palaces of Urwa ibn al-Zubayr and Sa‘d ibn Abi Waqqas and old rock inscriptions.",
+        "The Madinah Region Development Authority built a walkway about 1,600 m long and 14 m wide on average, lit and shaded by palms and trees, as part of a rehabilitation project that runs nearly 15 km from the Dhu al-Hulayfah miqat in the south to al-Jurf in the north."
+      ]
+    },
+    "facts": [
+      {
+        "label": {
+          "ar": "طول الممشى",
+          "en": "Walkway length"
+        },
+        "value": {
+          "ar": "≈ ١٦٠٠ م",
+          "en": "≈ 1,600 m"
+        }
+      },
+      {
+        "label": {
+          "ar": "عرضه",
+          "en": "Width"
+        },
+        "value": {
+          "ar": "≈ ١٤ م",
+          "en": "≈ 14 m"
+        }
+      },
+      {
+        "label": {
+          "ar": "مشروع التأهيل",
+          "en": "Rehabilitation"
+        },
+        "value": {
+          "ar": "≈ ١٥ كم",
+          "en": "≈ 15 km"
+        }
+      },
+      {
+        "label": {
+          "ar": "البعد عن الحرم",
+          "en": "From the Haram"
+        },
+        "value": {
+          "ar": "≈ ٦ كم (قرب الجامعة الإسلامية)",
+          "en": "≈ 6 km (near the Islamic University)"
+        }
+      }
+    ],
+    "modelNote": {
+      "ar": "نموذج رمزي للممشى والوادي؛ موضعه على الخريطة تقريبي (قرب الجامعة الإسلامية).",
+      "en": "A symbolic model of the walkway and valley; its map position is approximate (near the Islamic University)."
+    },
+    "visitTip": {
+      "ar": "أجمل وقت للمشي قبيل الغروب وفي المساء حين يُضاء الممشى؛ احمل الماء صيفًا.",
+      "en": "Best for a walk near sunset and in the evening when it is lit; carry water in summer."
+    },
+    "interior": "none",
+    "keywords": [
+      "العقيق",
+      "عقيق",
+      "وادي العقيق",
+      "الوادي المبارك",
+      "ممشى",
+      "عروه",
+      "aqiq",
+      "aqeeq",
+      "walkway",
+      "valley",
+      "blessed valley",
+      "urwa"
+    ],
+    "nameWords": [
+      "وادي",
+      "عقيق",
+      "ممشى",
+      "valley",
+      "aqiq",
+      "walkway"
+    ],
+    "quiz": [
+      {
+        "id": "aqiq-1",
+        "q": {
+          "ar": "بأي وصف ورد وادي العقيق في الحديث؟",
+          "en": "How is Wadi al-Aqiq described in the hadith?"
+        },
+        "options": [
+          {
+            "ar": "الوادي المبارك",
+            "en": "The blessed valley"
+          },
+          {
+            "ar": "وادي السلام",
+            "en": "The valley of peace"
+          },
+          {
+            "ar": "الوادي الأخضر",
+            "en": "The green valley"
+          },
+          {
+            "ar": "وادي النخيل",
+            "en": "The valley of palms"
+          }
+        ],
+        "answer": 0,
+        "explain": {
+          "ar": "جاء في صحيح البخاري: «صلِّ في هذا الوادي المبارك».",
+          "en": "Sahih al-Bukhari: “Pray in this blessed valley.”"
+        }
+      },
+      {
+        "id": "aqiq-2",
+        "q": {
+          "ar": "كم يبلغ طول ممشى وادي العقيق تقريبًا؟",
+          "en": "About how long is the Wadi al-Aqiq walkway?"
+        },
+        "options": [
+          {
+            "ar": "٣٠٠ م",
+            "en": "300 m"
+          },
+          {
+            "ar": "١٦٠٠ م",
+            "en": "1,600 m"
+          },
+          {
+            "ar": "٨ كم",
+            "en": "8 km"
+          },
+          {
+            "ar": "٢٥ كم",
+            "en": "25 km"
+          }
+        ],
+        "answer": 1,
+        "explain": {
+          "ar": "طوله نحو ١٦٠٠ م وعرضه نحو ١٤ م.",
+          "en": "About 1,600 m long and 14 m wide."
+        }
+      }
+    ]
+  }
+]

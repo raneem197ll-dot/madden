@@ -1,0 +1,567 @@
+{
+  "_note": "Visit durations, speeds and tips are RECOMMENDATIONS / ESTIMATES, not historical facts. 'status' notes are dated facts with a source.",
+  "starts": [
+    {
+      "id": "haram",
+      "name": {
+        "ar": "المسجد النبوي (نقطة انطلاق)",
+        "en": "The Prophet's Mosque (starting point)"
+      },
+      "coords": {
+        "lat": 24.4672,
+        "lng": 39.6112
+      }
+    },
+    {
+      "id": "haramainStation",
+      "name": {
+        "ar": "محطة قطار الحرمين",
+        "en": "Haramain railway station"
+      },
+      "coords": {
+        "lat": 24.501,
+        "lng": 39.663
+      }
+    },
+    {
+      "id": "airport",
+      "name": {
+        "ar": "المطار",
+        "en": "The airport"
+      },
+      "coords": {
+        "lat": 24.55333,
+        "lng": 39.705
+      }
+    }
+  ],
+  "modes": {
+    "walk": {
+      "label": {
+        "ar": "مشيًا",
+        "en": "Walking"
+      },
+      "kmh": 4.5,
+      "maxLegKm": 2.5
+    },
+    "car": {
+      "label": {
+        "ar": "سيارة / أجرة",
+        "en": "Car / taxi"
+      },
+      "kmh": 25,
+      "maxLegKm": 999
+    }
+  },
+  "detourFactor": 1.35,
+  "budgets": {
+    "short": {
+      "label": {
+        "ar": "زيارة قصيرة",
+        "en": "Short visit"
+      },
+      "minutes": 150,
+      "hint": {
+        "ar": "حتى ساعتين ونصف",
+        "en": "up to 2½ hours"
+      }
+    },
+    "half": {
+      "label": {
+        "ar": "نصف يوم",
+        "en": "Half day"
+      },
+      "minutes": 270,
+      "hint": {
+        "ar": "نحو ٤ – ٥ ساعات",
+        "en": "about 4–5 hours"
+      }
+    },
+    "full": {
+      "label": {
+        "ar": "يوم كامل",
+        "en": "Full day"
+      },
+      "minutes": 480,
+      "hint": {
+        "ar": "نحو ٨ ساعات مع استراحة",
+        "en": "about 8 hours with a break"
+      }
+    }
+  },
+  "interests": {
+    "highlights": {
+      "ar": "أبرز ما يُزار (اقتراحنا)",
+      "en": "Top picks (our suggestion)"
+    },
+    "faith": {
+      "ar": "المساجد والسيرة",
+      "en": "Mosques & Seerah"
+    },
+    "history": {
+      "ar": "التاريخ",
+      "en": "History"
+    },
+    "architecture": {
+      "ar": "العمارة",
+      "en": "Architecture"
+    },
+    "railway": {
+      "ar": "المتاحف والمعارض",
+      "en": "Museums & exhibitions"
+    },
+    "outdoors": {
+      "ar": "الطبيعة والإطلالات",
+      "en": "Outdoors & views"
+    },
+    "shopping": {
+      "ar": "الأسواق ووسط المدينة",
+      "en": "Markets & downtown"
+    },
+    "family": {
+      "ar": "مناسب للعائلة",
+      "en": "Family-friendly"
+    }
+  },
+  "places": {
+    "quba": {
+      "minutes": 45,
+      "tags": [
+        "highlights",
+        "faith",
+        "history",
+        "architecture",
+        "family"
+      ],
+      "bestTime": {
+        "ar": "أي وقت خارج أوقات الصلاة إن كانت زيارتك للتعرّف",
+        "en": "Any time outside congregational prayers if you are sightseeing"
+      },
+      "access": {
+        "ar": "ساحات مستوية في الغالب؛ راعِ آداب المسجد واللباس المحتشم.",
+        "en": "Mostly level courtyards; observe mosque etiquette and modest dress."
+      }
+    },
+    "qiblatain": {
+      "minutes": 30,
+      "tags": [
+        "highlights",
+        "faith",
+        "history",
+        "architecture"
+      ],
+      "bestTime": {
+        "ar": "أي وقت خارج أوقات الصلاة إن كانت زيارتك للتعرّف",
+        "en": "Any time outside congregational prayers if you are sightseeing"
+      },
+      "access": {
+        "ar": "راعِ آداب المسجد واللباس المحتشم.",
+        "en": "Observe mosque etiquette and modest dress."
+      }
+    },
+    "hejaz": {
+      "minutes": 60,
+      "tags": [
+        "history",
+        "railway",
+        "architecture",
+        "family"
+      ],
+      "bestTime": {
+        "ar": "تأكّد من أوقات العمل قبل الذهاب",
+        "en": "Check opening hours before you go"
+      },
+      "access": {
+        "ar": "ساحات ومبانٍ متقاربة.",
+        "en": "Grounds and buildings close together."
+      },
+      "status": {
+        "text": {
+          "ar": "ذكرت ويكيبيديا أن المتحف مغلق للتجديد في ٢٠٢٦ — تحقّق قبل الزيارة.",
+          "en": "Wikipedia reports the museum closed for refurbishment in 2026 — check before visiting."
+        },
+        "source": {
+          "title": "Wikipedia — Hejaz Railway Museum",
+          "url": "https://en.wikipedia.org/wiki/Hejaz_Railway_Museum"
+        }
+      }
+    },
+    "uhud": {
+      "minutes": 60,
+      "tags": [
+        "highlights",
+        "history",
+        "outdoors",
+        "faith",
+        "family"
+      ],
+      "bestTime": {
+        "ar": "الصباح الباكر أو قبيل الغروب، خاصة في الصيف",
+        "en": "Early morning or just before sunset, especially in summer"
+      },
+      "access": {
+        "ar": "صعود جبل الرماة اختياري وأرضه غير مستوية؛ تجاوزه إن كنت تحتاج طريقًا بلا درج. احمل الماء.",
+        "en": "Climbing the Archers' Hill is optional and uneven; skip it if you need step-free access. Carry water."
+      }
+    },
+    "haram": {
+      "minutes": 60,
+      "tags": [
+        "highlights",
+        "faith",
+        "history",
+        "architecture"
+      ],
+      "bestTime": {
+        "ar": "أي وقت؛ الساحات أهدأ بعيدًا عن أوقات خروج المصلين",
+        "en": "Any time; plazas are calmer away from the moments prayers let out"
+      },
+      "access": {
+        "ar": "ساحات واسعة مستوية؛ راعِ آداب المسجد وتعليمات المنظِّمين.",
+        "en": "Wide, level plazas; observe mosque etiquette and the organisers’ instructions."
+      }
+    },
+    "ghamama": {
+      "minutes": 15,
+      "tags": [
+        "faith",
+        "history",
+        "architecture"
+      ],
+      "bestTime": {
+        "ar": "أي وقت خارج أوقات الصلاة إن كانت زيارتك للتعرّف",
+        "en": "Any time outside congregational prayers if you are sightseeing"
+      },
+      "access": {
+        "ar": "راعِ آداب المسجد واللباس المحتشم.",
+        "en": "Observe mosque etiquette and modest dress."
+      }
+    },
+    "baqi": {
+      "minutes": 20,
+      "tags": [
+        "history",
+        "faith"
+      ],
+      "bestTime": {
+        "ar": "حسب أوقات الزيارة المعلنة في الموقع",
+        "en": "According to the visiting times posted on site"
+      },
+      "access": {
+        "ar": "راعِ السكينة وآداب زيارة المقابر.",
+        "en": "Keep calm and observe the etiquette of visiting cemeteries."
+      }
+    },
+    "jumuah": {
+      "minutes": 20,
+      "tags": [
+        "faith",
+        "history"
+      ],
+      "bestTime": {
+        "ar": "أي وقت خارج أوقات الصلاة إن كانت زيارتك للتعرّف",
+        "en": "Any time outside congregational prayers if you are sightseeing"
+      },
+      "access": {
+        "ar": "راعِ آداب المسجد واللباس المحتشم.",
+        "en": "Observe mosque etiquette and modest dress."
+      }
+    },
+    "sabaa": {
+      "minutes": 40,
+      "tags": [
+        "highlights",
+        "history",
+        "faith",
+        "outdoors"
+      ],
+      "bestTime": {
+        "ar": "الصباح الباكر أو قبيل الغروب، خاصة في الصيف",
+        "en": "Early morning or just before sunset, especially in summer"
+      },
+      "access": {
+        "ar": "موقع مكشوف؛ احمل الماء صيفًا.",
+        "en": "Open to the sun; carry water in summer."
+      }
+    },
+    "manaratain": {
+      "minutes": 15,
+      "tags": [
+        "faith",
+        "architecture"
+      ],
+      "bestTime": {
+        "ar": "أي وقت خارج أوقات الصلاة إن كانت زيارتك للتعرّف",
+        "en": "Any time outside congregational prayers if you are sightseeing"
+      },
+      "access": {
+        "ar": "راعِ آداب المسجد واللباس المحتشم.",
+        "en": "Observe mosque etiquette and modest dress."
+      }
+    },
+    "ijabah": {
+      "minutes": 15,
+      "tags": [
+        "faith",
+        "history"
+      ],
+      "bestTime": {
+        "ar": "أي وقت خارج أوقات الصلاة إن كانت زيارتك للتعرّف",
+        "en": "Any time outside congregational prayers if you are sightseeing"
+      },
+      "access": {
+        "ar": "راعِ آداب المسجد واللباس المحتشم.",
+        "en": "Observe mosque etiquette and modest dress."
+      }
+    },
+    "miqat": {
+      "minutes": 40,
+      "tags": [
+        "faith",
+        "architecture"
+      ],
+      "bestTime": {
+        "ar": "أي وقت خارج أوقات الصلاة إن كانت زيارتك للتعرّف",
+        "en": "Any time outside congregational prayers if you are sightseeing"
+      },
+      "access": {
+        "ar": "راعِ آداب المسجد واللباس المحتشم.",
+        "en": "Observe mosque etiquette and modest dress."
+      }
+    },
+    "quranComplex": {
+      "minutes": 75,
+      "tags": [
+        "highlights",
+        "railway",
+        "faith",
+        "family"
+      ],
+      "bestTime": {
+        "ar": "تحقّق من أوقات العمل قبل الذهاب",
+        "en": "Check opening hours before you go"
+      },
+      "access": {
+        "ar": "الزيارة ضمن برنامج المجمع؛ اتبع تعليمات المرشدين.",
+        "en": "Visits follow the complex’s programme; follow the guides’ instructions."
+      }
+    },
+    "rumah": {
+      "minutes": 30,
+      "tags": [
+        "history",
+        "outdoors"
+      ],
+      "bestTime": {
+        "ar": "الصباح الباكر أو قبيل الغروب، خاصة في الصيف",
+        "en": "Early morning or just before sunset, especially in summer"
+      },
+      "access": {
+        "ar": "أرض مزرعة؛ تحقّق من إمكانية الدخول.",
+        "en": "Farm ground — check access first."
+      }
+    },
+    "aqiq": {
+      "minutes": 45,
+      "tags": [
+        "outdoors",
+        "family"
+      ],
+      "bestTime": {
+        "ar": "قبيل الغروب وفي المساء",
+        "en": "Near sunset and in the evening"
+      },
+      "access": {
+        "ar": "ممشى مرصوف ومضاء.",
+        "en": "Paved, lit walkway."
+      }
+    },
+    "abuBakr": {
+      "minutes": 10,
+      "tags": [
+        "faith",
+        "history"
+      ],
+      "bestTime": {
+        "ar": "أي وقت خارج أوقات الصلاة إن كانت زيارتك للتعرّف",
+        "en": "Any time outside congregational prayers if you are sightseeing"
+      },
+      "access": {
+        "ar": "راعِ آداب المسجد واللباس المحتشم.",
+        "en": "Observe mosque etiquette and modest dress."
+      }
+    },
+    "ali": {
+      "minutes": 10,
+      "tags": [
+        "faith",
+        "history"
+      ],
+      "bestTime": {
+        "ar": "أي وقت خارج أوقات الصلاة إن كانت زيارتك للتعرّف",
+        "en": "Any time outside congregational prayers if you are sightseeing"
+      },
+      "access": {
+        "ar": "راعِ آداب المسجد واللباس المحتشم.",
+        "en": "Observe mosque etiquette and modest dress."
+      }
+    },
+    "saqifah": {
+      "minutes": 10,
+      "tags": [
+        "history"
+      ],
+      "bestTime": {
+        "ar": "أي وقت خارج أوقات الصلاة إن كانت زيارتك للتعرّف",
+        "en": "Any time outside congregational prayers if you are sightseeing"
+      },
+      "access": {
+        "ar": "راعِ آداب المسجد واللباس المحتشم.",
+        "en": "Observe mosque etiquette and modest dress."
+      }
+    },
+    "sirahMuseum": {
+      "minutes": 60,
+      "tags": [
+        "highlights",
+        "railway",
+        "family",
+        "faith"
+      ],
+      "bestTime": {
+        "ar": "تحقّق من أوقات العمل قبل الذهاب",
+        "en": "Check opening hours before you go"
+      },
+      "access": {
+        "ar": "مكان مغلق مكيّف.",
+        "en": "Indoor and air-conditioned."
+      }
+    },
+    "centralArea": {
+      "minutes": 45,
+      "tags": [
+        "shopping",
+        "family"
+      ],
+      "bestTime": {
+        "ar": "المساء أنسب للتسوّق",
+        "en": "Evenings are best for shopping"
+      },
+      "access": {
+        "ar": "مزدحمة في أوقات الذروة.",
+        "en": "Crowded at peak times."
+      }
+    },
+    "datesMarket": {
+      "minutes": 30,
+      "tags": [
+        "highlights",
+        "shopping",
+        "family"
+      ],
+      "bestTime": {
+        "ar": "تحقّق من أوقات العمل قبل الذهاب",
+        "en": "Check opening hours before you go"
+      },
+      "access": {
+        "ar": "سوق مزدحم أحيانًا.",
+        "en": "Can be busy."
+      }
+    },
+    "qubaWalk": {
+      "minutes": 45,
+      "tags": [
+        "outdoors",
+        "family",
+        "faith"
+      ],
+      "bestTime": {
+        "ar": "الصباح الباكر أو قبيل الغروب، خاصة في الصيف",
+        "en": "Early morning or just before sunset, especially in summer"
+      },
+      "access": {
+        "ar": "ممشى مستوٍ ومضاء.",
+        "en": "Level, lit walkway."
+      }
+    },
+    "kingFahdPark": {
+      "minutes": 60,
+      "tags": [
+        "outdoors",
+        "family"
+      ],
+      "bestTime": {
+        "ar": "المساء",
+        "en": "Evening"
+      },
+      "access": {
+        "ar": "مسطحات واسعة.",
+        "en": "Large open grounds."
+      }
+    },
+    "sayyidShuhada": {
+      "minutes": 20,
+      "tags": [
+        "faith",
+        "history"
+      ],
+      "bestTime": {
+        "ar": "أي وقت خارج أوقات الصلاة إن كانت زيارتك للتعرّف",
+        "en": "Any time outside congregational prayers if you are sightseeing"
+      },
+      "access": {
+        "ar": "راعِ آداب المسجد واللباس المحتشم.",
+        "en": "Observe mosque etiquette and modest dress."
+      }
+    },
+    "sheikhain": {
+      "minutes": 10,
+      "tags": [
+        "history",
+        "faith"
+      ],
+      "bestTime": {
+        "ar": "أي وقت خارج أوقات الصلاة إن كانت زيارتك للتعرّف",
+        "en": "Any time outside congregational prayers if you are sightseeing"
+      },
+      "access": {
+        "ar": "راعِ آداب المسجد واللباس المحتشم.",
+        "en": "Observe mosque etiquette and modest dress."
+      }
+    },
+    "darMadinah": {
+      "minutes": 60,
+      "tags": [
+        "railway",
+        "history",
+        "family"
+      ],
+      "bestTime": {
+        "ar": "تحقّق من أوقات العمل قبل الذهاب",
+        "en": "Check opening hours before you go"
+      },
+      "access": {
+        "ar": "مكان مغلق.",
+        "en": "Indoors."
+      }
+    }
+  },
+  "general": [
+    {
+      "ar": "المسافات وأزمنة التنقل تقديرية (خط مستقيم × ١٫٣٥)، وليست مسارات طرق فعلية.",
+      "en": "Distances and travel times are estimates (straight line × 1.35), not real road routes."
+    },
+    {
+      "ar": "بعض المواقع موضعها على الخريطة تقريبي، وهي معلَّمة بذلك.",
+      "en": "Some places have approximate map positions; they are marked as such."
+    },
+    {
+      "ar": "أوقات الصلاة وأوقات عمل المتحف تتغير — تحقّق منها من مصادر رسمية.",
+      "en": "Prayer times and museum hours change — check official sources."
+    },
+    {
+      "ar": "في الأشهر الحارة خطّط للمواقع المكشوفة صباحًا أو قبيل الغروب، واحمل الماء.",
+      "en": "In hot months, plan outdoor sites for the morning or near sunset, and carry water."
+    }
+  ]
+}

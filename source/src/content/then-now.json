@@ -1,0 +1,398 @@
+{
+  "hejaz": {
+    "visual": "model-era",
+    "then": {
+      "label": {
+        "ar": "عند الافتتاح — ١٩٠٨",
+        "en": "At opening · 1908"
+      },
+      "desc": {
+        "ar": "افتُتحت المحطة عام ١٩٠٨ بطابق واحد، وأُضيف الطابق الثاني عام ١٩١٤. يعرض النموذج هذا الفرق الموثّق وحده؛ وكل ما عداه هو النموذج المبسّط نفسه.",
+        "en": "The station opened in 1908 with a single storey; the second storey was added in 1914. The model shows only this documented difference — everything else is the same simplified model."
+      },
+      "reconstruction": "illustrative"
+    },
+    "now": {
+      "label": {
+        "ar": "اليوم — متحف",
+        "en": "Today · museum"
+      },
+      "desc": {
+        "ar": "مبنى من طابقين يضم متحف سكة الحجاز منذ ٢٠٠٦، مع قاطرات وعربات مرمّمة.",
+        "en": "A two-storey building that has housed the Hejaz Railway Museum since 2006, with restored locomotives and carriages."
+      }
+    },
+    "eras": [
+      {
+        "when": {
+          "ar": "١ سبتمبر ١٩٠٨",
+          "en": "1 September 1908"
+        },
+        "title": {
+          "ar": "افتتاح محطة المدينة",
+          "en": "Madinah station opens"
+        },
+        "text": {
+          "ar": "أُقيم حفل افتتاح المحطة، آخر محطات خط دمشق – المدينة، وكان المبنى يومها من طابق واحد.",
+          "en": "The station — the last stop on the Damascus–Madinah line — was inaugurated; the building then had a single storey."
+        },
+        "sources": [
+          {
+            "title": "The Hejaz Railway — Medina Station",
+            "url": "https://www.thehejazrailway.com/medina-station"
+          },
+          {
+            "title": "Wikipedia — Hejaz railway",
+            "url": "https://en.wikipedia.org/wiki/Hejaz_railway"
+          }
+        ]
+      },
+      {
+        "when": {
+          "ar": "١٩١٤",
+          "en": "1914"
+        },
+        "title": {
+          "ar": "إضافة الطابق الثاني",
+          "en": "A second storey is added"
+        },
+        "text": {
+          "ar": "أُضيف طابق ثانٍ إلى مبنى المحطة.",
+          "en": "A second storey was added to the station building."
+        },
+        "sources": [
+          {
+            "title": "The Hejaz Railway — Medina Station",
+            "url": "https://www.thehejazrailway.com/medina-station"
+          }
+        ]
+      },
+      {
+        "when": {
+          "ar": "١٩٠٨ – ١٩٢٠",
+          "en": "1908 – 1920"
+        },
+        "title": {
+          "ar": "سنوات التشغيل",
+          "en": "Years of operation"
+        },
+        "text": {
+          "ar": "تُؤرَّخ مدة تشغيل الخط بين ١٩٠٨ و١٩٢٠، وتعرّض لهجمات متكررة خلال الحرب العالمية الأولى.",
+          "en": "The line's operation is dated 1908–1920; it came under repeated attack during the First World War."
+        },
+        "sources": [
+          {
+            "title": "Wikipedia — Hejaz railway",
+            "url": "https://en.wikipedia.org/wiki/Hejaz_railway"
+          }
+        ]
+      },
+      {
+        "when": {
+          "ar": "١٩٩٨",
+          "en": "1998"
+        },
+        "title": {
+          "ar": "مشروع الترميم",
+          "en": "Restoration project"
+        },
+        "text": {
+          "ar": "انطلق مشروع ترميم محطة سكة الحجاز لتحويلها إلى متحف.",
+          "en": "The Hejaz Railway station restoration project was launched to turn the site into a museum."
+        },
+        "sources": [
+          {
+            "title": "Saudipedia — The Railway Museum",
+            "url": "https://saudipedia.com/en/the-railway-museum"
+          }
+        ]
+      },
+      {
+        "when": {
+          "ar": "يناير ٢٠٠٦",
+          "en": "January 2006"
+        },
+        "title": {
+          "ar": "افتتاح المتحف",
+          "en": "The museum opens"
+        },
+        "text": {
+          "ar": "افتُتح متحف سكة الحجاز في مباني المحطة العثمانية المرمّمة.",
+          "en": "The Hejaz Railway Museum opened in the restored Ottoman station buildings."
+        },
+        "sources": [
+          {
+            "title": "Arab News — Hejaz Railway Museum Opened (21 Jan 2006)",
+            "url": "https://www.arabnews.com/node/279191"
+          },
+          {
+            "title": "Wikipedia — Hejaz Railway Museum",
+            "url": "https://en.wikipedia.org/wiki/Hejaz_Railway_Museum"
+          }
+        ]
+      }
+    ]
+  },
+  "quba": {
+    "visual": "description",
+    "then": {
+      "label": {
+        "ar": "التأسيس — ١ هـ",
+        "en": "Founding · 1 AH"
+      },
+      "desc": {
+        "ar": "أسّس النبي ﷺ المسجد عند وصوله إلى قباء في طريق الهجرة سنة ١ هـ (٦٢٢م). لم نجد في مصادرنا وصفًا موثوقًا يكفي لإعادة بناء شكل المسجد الأول، لذلك لا تعيد اللعبة بناءه.",
+        "en": "The Prophet ﷺ founded the mosque on reaching Quba during the Hijrah in 1 AH (622 CE). Our sources do not describe the first building well enough to rebuild it, so the game does not reconstruct it."
+      },
+      "reconstruction": "none"
+    },
+    "now": {
+      "label": {
+        "ar": "اليوم",
+        "en": "Today"
+      },
+      "desc": {
+        "ar": "مبنى أُعيد بناؤه وافتُتح عام ١٩٨٦ بتصميم عبد الواحد الوكيل: ست قباب رئيسية وأربع مآذن.",
+        "en": "A building rebuilt and opened in 1986, designed by Abdel-Wahed El-Wakil: six main domes and four minarets."
+      }
+    },
+    "eras": [
+      {
+        "when": {
+          "ar": "١ هـ / ٦٢٢م",
+          "en": "1 AH / 622 CE"
+        },
+        "title": {
+          "ar": "أول مسجد في الإسلام",
+          "en": "The first mosque in Islam"
+        },
+        "text": {
+          "ar": "أسّسه النبي ﷺ عند وصوله إلى قباء في طريق هجرته إلى المدينة.",
+          "en": "Founded by the Prophet ﷺ when he reached Quba on the Hijrah to Madinah."
+        },
+        "sources": [
+          {
+            "title": "Wikipedia — Quba Mosque",
+            "url": "https://en.wikipedia.org/wiki/Quba_Mosque"
+          }
+        ]
+      },
+      {
+        "when": {
+          "ar": "٧١٧ – ٧٢٠م",
+          "en": "717 – 720 CE"
+        },
+        "title": {
+          "ar": "أول مئذنة",
+          "en": "The first minaret"
+        },
+        "text": {
+          "ar": "تُنسب أول مئذنة للمسجد إلى عهد الخليفة عمر بن عبد العزيز.",
+          "en": "The mosque's first minaret is attributed to the reign of Caliph Umar ibn Abd al-Aziz."
+        },
+        "sources": [
+          {
+            "title": "Wikipedia — Quba Mosque",
+            "url": "https://en.wikipedia.org/wiki/Quba_Mosque"
+          }
+        ]
+      },
+      {
+        "when": {
+          "ar": "١٩٨٤ – ١٩٨٦",
+          "en": "1984 – 1986"
+        },
+        "title": {
+          "ar": "إعادة البناء",
+          "en": "Rebuilt"
+        },
+        "text": {
+          "ar": "وُضع حجر الأساس في ٣ نوفمبر ١٩٨٤، وافتُتح المسجد الجديد في ٢ نوفمبر ١٩٨٦.",
+          "en": "The foundation stone was laid on 3 November 1984 and the new mosque opened on 2 November 1986."
+        },
+        "sources": [
+          {
+            "title": "Wikipedia — Quba Mosque",
+            "url": "https://en.wikipedia.org/wiki/Quba_Mosque"
+          }
+        ]
+      },
+      {
+        "when": {
+          "ar": "٢٠٢٢",
+          "en": "2022"
+        },
+        "title": {
+          "ar": "أكبر توسعة",
+          "en": "The largest expansion"
+        },
+        "text": {
+          "ar": "أُعلن عن أكبر توسعة في تاريخ المسجد ضمن مشروع يحمل اسم الملك سلمان بن عبد العزيز.",
+          "en": "The largest expansion in the mosque's history was announced, in a project named after King Salman bin Abdulaziz."
+        },
+        "sources": [
+          {
+            "title": "Wikipedia — Quba Mosque",
+            "url": "https://en.wikipedia.org/wiki/Quba_Mosque"
+          }
+        ]
+      }
+    ]
+  },
+  "qiblatain": {
+    "visual": "description",
+    "then": {
+      "label": {
+        "ar": "تحويل القبلة — ٢ هـ",
+        "en": "The qibla changes · 2 AH"
+      },
+      "desc": {
+        "ar": "عُرف المسجد تاريخيًا بمسجد بني سلمة، وارتبط بتحويل القبلة من بيت المقدس إلى الكعبة. لا نعرض شكل المبنى القديم لعدم توفر وصف موثوق له في مصادرنا.",
+        "en": "Historically known as the Mosque of Banu Salimah, it is linked to the change of qibla from Jerusalem to the Ka'bah. We do not show the old building because our sources have no reliable description of it."
+      },
+      "reconstruction": "none"
+    },
+    "now": {
+      "label": {
+        "ar": "اليوم",
+        "en": "Today"
+      },
+      "desc": {
+        "ar": "مبنى أُعيد بناؤه عام ١٩٨٧ بمئذنتين وقبتين على محور واحد نحو مكة.",
+        "en": "A building rebuilt in 1987 with two minarets and two domes on one axis towards Makkah."
+      }
+    },
+    "eras": [
+      {
+        "when": {
+          "ar": "٢ هـ",
+          "en": "2 AH"
+        },
+        "title": {
+          "ar": "قبلتان في صلاة واحدة",
+          "en": "Two qiblas in one prayer"
+        },
+        "text": {
+          "ar": "روى البخاري عن البراء أنهم صلّوا مع النبي ﷺ نحو بيت المقدس ستة عشر أو سبعة عشر شهرًا ثم صُرف إلى القبلة.",
+          "en": "Al-Bukhari reports al-Bara' saying they prayed with the Prophet ﷺ towards Jerusalem for sixteen or seventeen months, then he was turned towards the Qibla."
+        },
+        "sources": [
+          {
+            "title": "Sahih al-Bukhari 4492 — sunnah.com",
+            "url": "https://sunnah.com/bukhari:4492"
+          }
+        ]
+      },
+      {
+        "when": {
+          "ar": "١٩٨٧",
+          "en": "1987"
+        },
+        "title": {
+          "ar": "إعادة البناء",
+          "en": "Rebuilt"
+        },
+        "text": {
+          "ar": "أُعيد بناء المسجد بمئذنتين وقبتين، وأُزيل المحراب القديم المتجه إلى بيت المقدس وأُبقي المحراب المتجه إلى مكة.",
+          "en": "The mosque was rebuilt with two minarets and two domes; the old mihrab facing Jerusalem was removed and the one facing Makkah kept."
+        },
+        "sources": [
+          {
+            "title": "Wikipedia — Masjid al-Qiblatayn",
+            "url": "https://en.wikipedia.org/wiki/Masjid_al-Qiblatayn"
+          },
+          {
+            "title": "Madain Project — Masjid al-Qiblatain",
+            "url": "https://madainproject.com/masjid_al_qiblatain"
+          }
+        ]
+      },
+      {
+        "when": {
+          "ar": "أكتوبر ٢٠٢٥",
+          "en": "October 2025"
+        },
+        "title": {
+          "ar": "مفتوح على مدار الساعة",
+          "en": "Open around the clock"
+        },
+        "text": {
+          "ar": "صدر توجيه بإبقاء المسجد مفتوحًا ٢٤ ساعة يوميًا.",
+          "en": "A directive was issued to keep the mosque open 24 hours a day."
+        },
+        "sources": [
+          {
+            "title": "Visit Madinah — Al-Qiblatain Mosque",
+            "url": "https://visitmadinahsa.com/en/Details/23"
+          }
+        ]
+      }
+    ]
+  },
+  "uhud": {
+    "visual": "description",
+    "then": {
+      "label": {
+        "ar": "غزوة أحد — ٣ هـ",
+        "en": "Battle of Uhud · 3 AH"
+      },
+      "desc": {
+        "ar": "وقعت الغزوة عند سفح الجبل في شوال ٣ هـ (٦٢٥م). لا تصوّر اللعبة أحداث المعركة احترامًا للموقع وشهدائه.",
+        "en": "The battle took place at the foot of the mountain in Shawwal 3 AH (625 CE). The game does not depict the fighting, out of respect for the site and its martyrs."
+      },
+      "reconstruction": "none"
+    },
+    "now": {
+      "label": {
+        "ar": "اليوم",
+        "en": "Today"
+      },
+      "desc": {
+        "ar": "يصعد الزوار جبل الرماة ويقفون عند سور مقبرة الشهداء.",
+        "en": "Visitors climb the Archers' Hill and stop at the wall of the Martyrs' cemetery."
+      }
+    },
+    "eras": [
+      {
+        "when": {
+          "ar": "شوال ٣ هـ / ٦٢٥م",
+          "en": "Shawwal 3 AH / 625 CE"
+        },
+        "title": {
+          "ar": "غزوة أحد",
+          "en": "The Battle of Uhud"
+        },
+        "text": {
+          "ar": "وقعت عند سفح جبل أحد بين مسلمي المدينة وجيش قريش القادم من مكة.",
+          "en": "Fought at the foot of Mount Uhud between the Muslims of Madinah and the Quraysh army from Makkah."
+        },
+        "sources": [
+          {
+            "title": "Wikipedia — Battle of Uhud",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Uhud"
+          }
+        ]
+      },
+      {
+        "when": {
+          "ar": "بعد الغزوة",
+          "en": "After the battle"
+        },
+        "title": {
+          "ar": "من جبل عينين إلى جبل الرماة",
+          "en": "From Mount ʿAynayn to the Archers' Hill"
+        },
+        "text": {
+          "ar": "كان التل الذي وقف عليه الرماة يُسمّى جبل عينين، ثم عُرف بعد الغزوة بجبل الرماة.",
+          "en": "The hill where the archers stood was called Mount ʿAynayn; after the battle it became known as the Archers' Hill."
+        },
+        "sources": [
+          {
+            "title": "IslamWeb — The Archers' Mountain",
+            "url": "https://islamweb.net/en/hajj/article/154856/the-archers%E2%80%99-mountain"
+          }
+        ]
+      }
+    ]
+  }
+}

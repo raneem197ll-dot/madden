@@ -1,0 +1,146 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "IBM Plex Sans Arabic", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-display: "Reem Kufi", "IBM Plex Sans Arabic", system-ui, sans-serif;
+
+  --color-pine-950: #08241b;
+  --color-pine-900: #0c3326;
+  --color-pine-800: #0f3d2e;
+  --color-pine-700: #14533f;
+  --color-pine-600: #1b6b51;
+  --color-pine-500: #23845f;
+  --color-pine-300: #7fbf9f;
+
+  --color-sand-50: #fdfaf3;
+  --color-sand-100: #f8f0e0;
+  --color-sand-200: #efe0c3;
+  --color-sand-300: #e3cc9f;
+  --color-sand-400: #d2b07a;
+  --color-sand-600: #a07d4a;
+
+  --color-gold-300: #ecd594;
+  --color-gold-400: #dcbb63;
+  --color-gold-500: #c9a24a;
+  --color-gold-600: #a88334;
+
+  --color-ink-900: #18201d;
+  --color-ink-700: #33403b;
+  --color-ink-500: #5c6a64;
+
+  --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+
+  /* named sizes follow the player's text-size setting (--fs) */
+  --text-xs: calc(0.75rem * var(--fs));
+  --text-sm: calc(0.875rem * var(--fs));
+  --text-base: calc(1rem * var(--fs));
+  --text-lg: calc(1.125rem * var(--fs));
+  --text-xl: calc(1.25rem * var(--fs));
+  --text-2xl: calc(1.5rem * var(--fs));
+  --text-3xl: calc(1.875rem * var(--fs));
+}
+
+:root { --fs: 1; }
+
+/* keyboard focus is always visible */
+:focus-visible { outline: 3px solid #dcbb63; outline-offset: 2px; border-radius: 10px; }
+[role="dialog"]:focus-visible { outline: none; }
+
+/* reduced motion: system preference or the in-game setting */
+html[data-motion="reduce"] *, html[data-motion="reduce"] *::before, html[data-motion="reduce"] *::after {
+  animation-duration: 0.001ms !important;
+  animation-iteration-count: 1 !important;
+  transition-duration: 0.001ms !important;
+  scroll-behavior: auto !important;
+}
+html[data-motion="reduce"] .rain-layer { display: none; }
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+  background: #0c3326;
+  overscroll-behavior: none;
+}
+
+body {
+  font-family: var(--font-sans);
+  color: var(--color-ink-900);
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: none;
+}
+
+input, textarea { user-select: text; -webkit-user-select: text; }
+
+.safe-top { padding-top: max(env(safe-area-inset-top), 10px); }
+.safe-bottom { padding-bottom: max(env(safe-area-inset-bottom), 8px); }
+.safe-x { padding-left: max(env(safe-area-inset-left), 14px); padding-right: max(env(safe-area-inset-right), 14px); }
+
+.glass {
+  background: rgba(253, 250, 243, 0.86);
+  backdrop-filter: blur(14px) saturate(1.2);
+  -webkit-backdrop-filter: blur(14px) saturate(1.2);
+}
+.glass-dark {
+  background: rgba(8, 36, 27, 0.72);
+  backdrop-filter: blur(14px) saturate(1.2);
+  -webkit-backdrop-filter: blur(14px) saturate(1.2);
+}
+
+.scroll-y { overflow-y: auto; -webkit-overflow-scrolling: touch; touch-action: pan-y; overscroll-behavior: contain; }
+.scroll-x { overflow-x: auto; -webkit-overflow-scrolling: touch; touch-action: pan-x; scrollbar-width: none; }
+.scroll-x::-webkit-scrollbar { display: none; }
+
+.pattern-geo {
+  background-image:
+    radial-gradient(circle at 50% 50%, rgba(201,162,74,0.16) 1.5px, transparent 1.6px),
+    linear-gradient(45deg, rgba(201,162,74,0.06) 25%, transparent 25%, transparent 75%, rgba(201,162,74,0.06) 75%),
+    linear-gradient(-45deg, rgba(201,162,74,0.06) 25%, transparent 25%, transparent 75%, rgba(201,162,74,0.06) 75%);
+  background-size: 22px 22px, 44px 44px, 44px 44px;
+}
+
+@keyframes rise-in { from { opacity: 0; transform: translateY(18px) scale(.98); } to { opacity: 1; transform: none; } }
+@keyframes fade-in { from { opacity: 0; } to { opacity: 1; } }
+@keyframes pop-in { 0% { opacity: 0; transform: scale(.6); } 70% { opacity: 1; transform: scale(1.06); } 100% { transform: scale(1); } }
+@keyframes toast-in { from { opacity: 0; transform: translateY(-16px) scale(.96); } to { opacity: 1; transform: none; } }
+@keyframes scan-line { 0% { top: 6%; } 50% { top: 90%; } 100% { top: 6%; } }
+@keyframes shimmer { 0% { background-position: -200% 0; } 100% { background-position: 200% 0; } }
+@keyframes stamp-in { 0% { opacity: 0; transform: scale(2.2) rotate(-18deg); } 60% { opacity: 1; transform: scale(.92) rotate(-8deg); } 100% { transform: scale(1) rotate(-8deg); } }
+@keyframes pulse-ring { 0% { box-shadow: 0 0 0 0 rgba(220,187,99,.55); } 100% { box-shadow: 0 0 0 14px rgba(220,187,99,0); } }
+@keyframes float-y { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-6px); } }
+
+.anim-rise { animation: rise-in .45s var(--ease-spring) both; }
+.anim-fade { animation: fade-in .3s ease both; }
+.anim-pop { animation: pop-in .5s var(--ease-spring) both; }
+.anim-toast { animation: toast-in .4s var(--ease-spring) both; }
+.anim-stamp { animation: stamp-in .6s var(--ease-spring) both; }
+.anim-pulse { animation: pulse-ring 1.6s ease-out infinite; }
+.anim-float { animation: float-y 3s ease-in-out infinite; }
+
+.gold-text {
+  background: linear-gradient(90deg, #a88334, #ecd594, #c9a24a, #ecd594, #a88334);
+  background-size: 200% 100%;
+  -webkit-background-clip: text; background-clip: text; color: transparent;
+  animation: shimmer 6s linear infinite;
+}
+
+.btn-press { transition: transform .12s ease, filter .12s ease; }
+.btn-press:active { transform: scale(.96); filter: brightness(.95); }
+
+/* drei <Html> labels */
+.lm-label { pointer-events: auto; white-space: nowrap; }
+
+/* light rain overlay (city view) */
+@keyframes rain-fall { from { transform: translate3d(0, -12%, 0) rotate(8deg); } to { transform: translate3d(-4%, 12%, 0) rotate(8deg); } }
+.rain-layer {
+  background-image: repeating-linear-gradient(100deg, transparent 0 22px, rgba(220,232,242,.32) 22px 23px, transparent 23px 61px),
+                    repeating-linear-gradient(98deg, transparent 0 37px, rgba(220,232,242,.22) 37px 38px, transparent 38px 89px);
+  background-size: 100% 46px, 100% 71px;
+  animation: rain-fall .55s linear infinite;
+  opacity: .8;
+  mask-image: linear-gradient(to bottom, transparent, black 15%, black 85%, transparent);
+}
+.rain-layer-2 { animation-duration: .8s; opacity: .5; background-size: 100% 63px, 100% 93px; }
